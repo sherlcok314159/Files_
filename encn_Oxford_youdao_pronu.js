@@ -1,5 +1,5 @@
 /* global api, hash */
-class encn_Oxford {
+class encn_Oxford_youdao_pronu {
     constructor(options) {
         this.token = '';
         this.gtk = '';
