@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://rss.diffbot.com/atom?url=https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+  <title>Merged Feed</title>
+  <updated>2024-02-05T13:23:43.670647+00:00</updated>
+  <link href="https://rss.diffbot.com/atom?url=https://www.zhihu.com/people/yi-ge-ke-xue-jia" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <icon>https://picx.zhimg.com/v2-30d5e9c91c4f6674ae64dca761dcdc40_xll.jpg?source=32738c0c</icon>
+  <subtitle>This is a merged feed.</subtitle>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/375519997</id>
+    <title>写给还在为论文纠结的博士和硕士们：一个好的idea是怎么提出来的？为什么你研究了好几年却什么也没提出来？</title>
+    <updated>2024-02-05T13:24:33.307285+00:00</updated>
+    <content>几天前，我发布了一篇文章，讲的是如何判断一个idea的档次。现在我想讲的是，怎么提出一个idea。有的同学看完了现在这篇文章以后，还有别的疑问，为此我写了另一个文章： 我还写了一篇文章教大家两种提ide…</content>
+    <link href="https://zhuanlan.zhihu.com/p/375519997"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/375273924</id>
+    <title>写给还在为论文纠结的博士和硕士们：一个好的idea是怎么提出来的？为什么你研究了好几年却什么也没提出来？</title>
+    <updated>2024-02-05T13:24:33.306287+00:00</updated>
+    <content>几天前，我发布了一篇文章，讲的是如何判断一个idea的档次。现在我想讲的是，怎么提出一个idea。当然了，我所说的idea最好符合我之前文章里面讲的标准： 写给还在为论文纠结的博士和硕士们：怎么判断你提…</content>
+    <link href="https://zhuanlan.zhihu.com/p/375273924"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/374467307</id>
+    <title>写给还在为论文纠结的博士和硕士们：怎么判断你提出来的idea的档次高低</title>
+    <updated>2024-02-05T13:24:33.306287+00:00</updated>
+    <content>我在几个小时之前发了一个文章，大致讲了一下一个合格的idea是什么样子的，包含哪些内容。顺带也介绍了一下introduction和abstract应该怎么写。我几个小时之前刚给大家讲完一个idea应该…</content>
+    <link href="https://zhuanlan.zhihu.com/p/374467307"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/374386045</id>
+    <title>写给还在为论文纠结的博士和硕士们：为什么你提出的idea会和别人重合？怎么写introduction和abstract？</title>
+    <updated>2024-02-05T13:24:33.306287+00:00</updated>
+    <content>我看到知乎上很多同学吐槽自己的idea被别的实验室的人抢先发表了。其实要是较真起来，往往这个不是事实。在这里，我先给大家介绍一下，一个idea应该包括哪些信息。等我介绍完了，大家就会明白你提出来的id…</content>
+    <link href="https://zhuanlan.zhihu.com/p/374386045"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/373977505</id>
+    <title>写给还在为论文纠结的博士和硕士们：怎么写论文（1）</title>
+    <updated>2024-02-05T13:24:33.306287+00:00</updated>
+    <content>大家好，我现在编造出一个课题，然后我根据这个课题写出一篇论文。我把写论文的过程，包括我怎么组织文章里面段落和句子之间的逻辑，画图，编写实验甚至包括我纠结的地方，统统在知乎上面给大家分享。我尽量每一天都写一点。争取利用空闲的时间，我能够在一两周以内完成这篇“论文”。既然说到给大家分享每天写论文的过程，那么我干脆来得更刺激…</content>
+    <link href="https://zhuanlan.zhihu.com/p/373977505"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/373208426</id>
+    <title>写给还在为论文纠结的博士和硕士们2：论文应该怎么写？（0.11）</title>
+    <updated>2024-02-05T13:24:33.306287+00:00</updated>
+    <content>写作是我给大家分享的第二个科研相关的经验。我是学计算机的。我有第一作者的CCF B类会议的最佳论文。我还有第一作者的我们领域的顶级会议论文。所以我感觉我分享的经验应该可以使很多还在为论文和科研纠结的同学们受益。我由衷地希望大家能够勇于正视自己逻辑思维上的不足，努力提高自己的逻辑思维能力，早日攻克自己项目里面的难题。 在给…</content>
+    <link href="https://zhuanlan.zhihu.com/p/373208426"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/372991754</id>
+    <title>写给还在为论文纠结的博士和硕士们1：想要发表论文,你需要提升自己的逻辑思维能力。</title>
+    <updated>2024-02-05T13:24:33.306287+00:00</updated>
+    <content>知乎上面有非常多的文章教大家怎么写sci论文。大致就是, 第一步去阅读相关的文献，第二步提idea，第三步跟导师讨论，第四步做实验，第五步写论文。 这些步骤最大的问题就是说了等于没说。你要是真的按照这些…</content>
+    <link href="https://zhuanlan.zhihu.com/p/372991754"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>这就是大家心心念念的moderna疫苗</title>
+    <updated>2024-02-05T13:24:33.306287+00:00</updated>
+    <content>已经打完第一针疫苗。 这就是疫苗： 这个疫苗挺神奇，一点那也不疼。完全没感觉就已经打完了。…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>其实白宫没那么神秘</title>
+    <updated>2024-02-05T13:24:33.306287+00:00</updated>
+    <content>下面这个走廊挺好，奥巴马在这带着小狗玩 国宴厅是这样的…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/68437963</id>
+    <title>大家吐槽黑镜第五季，那我就把这个故事的叙述顺序改了一下，剧情就会成大家喜欢的样子。</title>
+    <updated>2024-02-05T13:24:33.306287+00:00</updated>
+    <content>我发现很多人开始吐槽黑镜第五季，说第五季没有以前好。我看完黑镜第五季的第一集以后，开始也感觉怪怪的，直到我发现如果导演和编剧换一种叙事的顺序，那么相同的故事应该就会就让大家找到以前的感觉了。于是我就设想了一下，要是换一种叙述的顺序，那么这部电影将变成什么样子？ 《Striking Vipers》 男主A和女主B相识与11年…</content>
+    <link href="https://zhuanlan.zhihu.com/p/68437963"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>咱们来聊聊学校和学生的关系</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>我一直以来就是非常讨厌哈工大。之所以这样，是因为我看透了哈工大的腐朽和官僚。然而，这个并不代表我讨厌哈工大的学生。我自己本来就是哈工大毕业的。我在工大那些年里面，见到了各式各样的同学和老师。 其中，在学生这歌群体里，我见到最多的是“乖宝宝”。这些“乖宝宝”往往非常愿意听从老师和学校的安排。老师让他们做什么，他们就老老实实…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/562798717</id>
+    <title>彻底改变一篇论文论文质量的关键步骤：重新思考一下你的论文的切入点。</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>我们在写文章，讲故事的时候，都会有一个切入点。而这个切入点，其实指的就是那个能够让你的文章或者故事可以顺利展开的一个合适的角度。 比如说，现在我想讲的故事的大致背景是： 我发现有一种东西可以快速地燃烧，并…</content>
+    <link href="https://zhuanlan.zhihu.com/p/562798717"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>在开组会的是时候，你应该如何分享你读过的论文？</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>我在刚读研究生的时候，是不知道怎么给大家讲自己读过的论文的。这就导致了，当初在组会上，我在讲一篇我读过的论文的时候，往往陷入到了不知道自己在讲什么，或者难以继续下去的尴尬情况。 现在回想起来，我还能记得…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/533205091</id>
+    <title>你找了很久也没找到一个好的idea，可能是因为你把你自己给骗了</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>我知道很多同学和老师，都对于探索一些新的研究领域而感到焦虑。这个焦虑的源头，就是担心自己可能投入很长时间和精力，但是到头来未必会得到一些好的idea，也不一定可以有很多高质量的论文产出。 其实这个焦虑在我看来，是可以理解的，但是没有必要过分害怕的。由于很多同学和老师，并没有经历过深入思考和找idea的的训练，所以会产生一…</content>
+    <link href="https://zhuanlan.zhihu.com/p/533205091"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/520628539</id>
+    <title>会议论文和期刊最核心的区别是什么？为什么有些SCI论文可以灌水？怎么水SCI论文？</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>前段时间我有些忙，就没怎么在微信公众号和知乎上面更新一些有意义内容。好在忙碌的事情告一段落了，我现在可以回到这个平台上继续给大家带来一些有用的信息。今天我想讲一个很多人都好奇，但是没人给大家讲清楚的一…</content>
+    <link href="https://zhuanlan.zhihu.com/p/520628539"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>读博士的过程，其实更像是跟一个变态谈了一场恋爱</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>​如果你在知乎上，看到要不要读博士或者具备什么样的能力才可以读博士，类似这种问题，下面的回答一定是非常热闹的。很多人会用他们多年以来积攒的读博士的经验，告诫你，应该做XXX，不该做XXX。要会为人处事…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>你是有逻辑的，但是你的逻辑里面有断层！</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>我们经常看到身边的人说自己的逻辑思维能力弱，然后在做科研的时候做得不好，被老师批评等等。然而，绝大多数人在谈到“逻辑思维”这四个字的时候，根本不知道自己在说什么。今天我想给大家稍微介绍一下，我经常提到…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>我的新微信公众号</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>从2021年的5月17号我在知乎上开始写一些关于科研的经验以后，我就收到了很多同学们的私信，要求加个微信之类的。后来我就弄了个公众号。结果没想到，微信公众号因为上个月发了一篇文章，被坏人给举报了。其实…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>怎样应对审稿意见，才是合理的？</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>我们在投稿到期刊以后，经过漫长的等待，就会拿到审稿人的意见。这时候，我们需要针对审稿人的意见，一条条地修改我们的论文，并且在下一轮提交修改后的论文时，针对每一条意见都写一个回复。 现在有一些会议，也有类…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>我很反感那些把科研复杂化和神话的人</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>我猜，大部分同学们都在国内的驾校学过车吧？在我上大学的那段时间（2007-2011年），黑龙江的绝大多数驾校基本上是不用去花时间学的。交完钱以后，去考一个科目一，然后科目二和科目三基本都是有教练在考场…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>做研究，我需要尝试更多的方向还是深耕一个方向？</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>很多同学都在纠结如何选择一个科研方向。对于科研方向的选择，不同的人有不同的理解。从学生的角度来说，学生会考虑哪些方向比较热门，哪些方向就业比较有优势，哪些方向比较好发论文。从导师的角度来说，他会考虑哪…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/451224311</id>
+    <title>你这么多年做不好科研，可能是因为你对科研有着很大的误解</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>其实人类只对于线性的变化有着一定的理解。比如我们每个月的可以攒下1000块钱。那么一个月以后，我的银行卡里会多出来1000块钱。两个月以后，我的卡里会多出来2000块钱。三个月以后，我可以攒下3000…</content>
+    <link href="https://zhuanlan.zhihu.com/p/451224311"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/447208296</id>
+    <title>写给还在为论文纠结的博士和硕士们：两种提idea的思路，先有问题，再找答案？还是先有答案，再找问题？</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>你们可能会奇怪为什么我把《模拟游戏》的剧照放在封面，为什么我把图灵的照片放在这。其实这个跟我今天要说的内容很有关系。 我以前讲过一种错误的找idea的方式：从别人的论文里面挑毛病。但是我发现，其实很多人…</content>
+    <link href="https://zhuanlan.zhihu.com/p/447208296"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/444360816</id>
+    <title>写给还在为论文纠结的博士和硕士们：你是不是抑郁了？</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>在关注我的同学们里面，大多是都因为科研而感到苦恼。有一些同学甚至因为科研而变得抑郁。更有甚者已经诊断出了抑郁症。因此，我们需要的是正确的面对这个问题。如果你已经有了抑郁的情况，一定先去找医生。我这篇文…</content>
+    <link href="https://zhuanlan.zhihu.com/p/444360816"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/441814075</id>
+    <title>写给还在为论文纠结的博士和硕士们：你花了很长时间去寻找一个idea，这值得么？提出idea的过程，应该是什么样的？</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>我们知道，在读博士和硕士的时候，我们需要完成自己的毕业论文。毕业论文又需要我们展示出我们读博期间的几项研究成果。而很多同学最纠结的就是：如何能过找到几个idea来完成几篇小论文？我猜测，提idea也是…</content>
+    <link href="https://zhuanlan.zhihu.com/p/441814075"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/439441793</id>
+    <title>你是否在写论文的时候，“诚实”地把自己论文的缺点也写了出来？</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>我知道很多同学在写论文的时候，希望把自己对于论文的所以理解都写到里面。有些同学认为，应该在论文里面加入一些对于论文里面的方法的一些局限性的讨论，甚至说明一下自己的论文的一些缺点。 这么写，本身没什么问题…</content>
+    <link href="https://zhuanlan.zhihu.com/p/439441793"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/427703695</id>
+    <title>一篇论文里面的方法，应该理解到什么程度？别人论文无法复现，就是造假么</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>复现别人的实验结果，就像拿着菜谱做菜一样。 很多同学都尝试过复现别人论文里面的方法和实验结果。然而，大多数情况下，别人的实验结果是你根本无法重复得到的。这种情况下，很多同学就非常困惑了，不知道下一步该怎…</content>
+    <link href="https://zhuanlan.zhihu.com/p/427703695"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/423025873</id>
+    <title>你有没有经历过卡在一个科研问题上，几个月都没有进展的绝望？我来教大家自救</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>我相信没有一个科研项目是100%顺利进行的。无论我们在开始一项研究之前，做了多么详细的计划，我们总是会在实际过程中遇到各种各样的问题。这些问题，都可能导致我们的项目失败。有些同学在自己的科研项目上卡住…</content>
+    <link href="https://zhuanlan.zhihu.com/p/423025873"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/420905275</id>
+    <title>作为学生，应该如何判断自己适不适合，某一个科研方向？</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>选择一个科研方向，就像谈恋爱一样。不是所有看着好美好的方向，都适合我们。也不是说，我的能力一般，我就不能研究那些好的方向。 选择一个科研方向，关系到一个学生的未来发展。即使很多学生已经在自己的专业取得了…</content>
+    <link href="https://zhuanlan.zhihu.com/p/420905275"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/416550761</id>
+    <title>为什么你看了那么多论文，却一无所获？你可能被别人灌水的论文给骗了</title>
+    <updated>2024-02-05T13:24:17.592502+00:00</updated>
+    <content>很多同学在读了大量的论文以后，都有一个疑惑，那就是为什么我读了很多的论文，但是却好像什么也没学到？ 这其实是一个非常普遍的问题。刨除掉自己的知识和逻辑不足的原因，还有一个不可忽视的原因就是，你读的论文可…</content>
+    <link href="https://zhuanlan.zhihu.com/p/416550761"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/415317205</id>
+    <title>为什么读了那么多干货，你写的论文还是让别人读不懂？</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>到底什么是写作中最核心的原则？为什么你写的论文别人读不懂？我相信这俩你给个问题，一直困扰着大家。无论是写毕业论文，研究的论文，项目申请书，甚至是竞选演讲稿，都是需要大家精心编写的。然而，我们就是写得让…</content>
+    <link href="https://zhuanlan.zhihu.com/p/415317205"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>idea总被老师否定，你到底错在哪了？</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>我相信每一个做科研的同学，都经历过提idea的过程。这一过程中，最难受的莫过于我们提出来的idea，一次次地被老师否定。有些不负责任的老师会指出idea里面的一些问题后，却不能给学生提供一个好的思路。…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/406794880</id>
+    <title>为什么你的论文总是被批评没意义？论文的动机到底怎么写？</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>很多同学在提出自己的idea以后，经常会受到别人的质疑。有的人质疑你的idea里面的具体步骤，有的人质疑你的应用场景。最让人痛苦的质疑应该就是，你的研究有什么用？ 很多同学在被质疑了以后，往往会觉得很委…</content>
+    <link href="https://zhuanlan.zhihu.com/p/406794880"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/403286071</id>
+    <title>想要训练科研的逻辑思维，请参与我们这个免费课程！</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>想要把科研做好，最关键的能力就是逻辑思维的能力。有了一个严谨的逻辑能力，就可以把别人的论文里面的idea和insight都捕捉到，也可以把多篇论文之间的联系建立起来，从而帮助我们提出自己的idea。在我们动手去实现我们的idea的过程中，我们一定不是一帆风顺的。严密的逻辑可以帮助我们找到出现问题的原因。在写论文的时候，…</content>
+    <link href="https://zhuanlan.zhihu.com/p/403286071"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/403283876</id>
+    <title>科研的逻辑思维训练课1:常见的写作错误和基本的逻辑思维</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>今天是我们开始逻辑思维训练的第一天，第一节课。这套课程，跟大家的想象会不一样。它是完全开放式的，所有人都可以参与的，最重要的是，它是免费的！按照我们的设计，这门课程讲主要是通过大家写的写作来训练大家的逻辑思维。每个人的写的作业都将提交到一个公开的共享文档里里面，供大家互相评价和参考。我们这里没有秘密，只有不断的努力和前…</content>
+    <link href="https://zhuanlan.zhihu.com/p/403283876"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/398010245</id>
+    <title>审稿人是怎么思考的？审稿人关注哪些内容？几个错误案例和一个正确案例</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>​我们在把自己的论文投出去以后，便开始等待着审稿意见。我们都希望论文最终能被录用。但是心里还是很担心，不知道审稿人是怎么看待我们提交的论文的。因此，我在这里给大家讲一下，一个合格的审稿人在审稿过程中到…</content>
+    <link href="https://zhuanlan.zhihu.com/p/398010245"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>我们在科研的过程中，犯过哪些错误？</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>其实，我们应该深刻地明白一个道理：我们在科研过程中经历的几乎全部是错误和失败，而成功对我们来说是非常非常遥远的。于是很多人都犯了一个致命的错误：幻想着通过学习别人“成功”的经验来节省自己的学习的时间。…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/385321410</id>
+    <title>论文的实验部分应该怎么写？读者需要我们给他们展示什么试验结果？</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>到今天为止，我已经介绍了论文的abstract，Introduction，design这三大部分的写作了，一篇文章中最后一块主要内容就是实验结果了。当我把实验部分的写作给大家介绍完以后，大家应该就可以…</content>
+    <link href="https://zhuanlan.zhihu.com/p/385321410"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>如何提高你的论文的档次？你的论文需要重新定位！</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>我知道很多同学都想把自己的论文发表在顶级的会议或者期刊上。可是当大家做完一项科研工作以后，有时候并不能准确地知道自己的论文能发表在什么档次的会议或者期刊上。有的时候，我们的工作并不是很好，如果我们还想…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/382690975</id>
+    <title>如何快速掌握一个新的科研方向？一个新手应该怎么读论文？</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>我现在给大家讲一下，一个科研的新手应该如何读一篇论文，如何快速了解并掌握一个研究方向？了解我的同学们一定会猜到，我要先给大家讲一个错误的方法，然后再告诉大家正确的方法。 对于一个新的科研方向，无论是新手…</content>
+    <link href="https://zhuanlan.zhihu.com/p/382690975"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>如何提高你的论文的档次？你的论文需要重新定位！</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>我知道很多同学都想把自己的论文发表在顶级的会议或者期刊上。可是当大家做完一项科研工作以后，有时候并不能准确地知道自己的论文能发表在什么档次的会议或者期刊上。有的时候，我们的工作并不是很好，如果我们还想…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-ge-ke-xue-jia</id>
+    <title>我们的微信公众号正式上线啦！</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>如果想了解更多关于科研相关的的经验，请看关注我的知乎和微信公众号：“分享科研经验的科学家”。大家可以扫描二维码，或者在微信上搜索“分享科研经验的科学家”来添加我们的公众号 ：…</content>
+    <link href="https://www.zhihu.com/people/yi-ge-ke-xue-jia"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/380218283</id>
+    <title>一篇论文中最核心的部分应该怎么写？看懂了论文写作的逻辑，就会明白为什么读了大量的论文却毫无收获？</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>今天我来讲一讲，一篇论文中最核心的部分--design 部分怎么写。在介绍具体的写作技巧之前，我们应该先了解一下我们写出来的论文尽力去满足哪些要求？ 我认为，一篇论文之所以配得上“论文”这个称号，它应该…</content>
+    <link href="https://zhuanlan.zhihu.com/p/380218283"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/380140010</id>
+    <title>一篇论文中最核心的设计部分应该怎么写？为什么读了大量的论文却毫无收获？</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>今天我来讲一讲，一篇论文中最核心的部分--design 部分怎么写。在介绍具体的写作技巧之前，我们应该先了解一下我们写出来的论文尽力去满足哪些要求？ 我认为，一篇论文之所以配得上“论文”这个称号，它应该…</content>
+    <link href="https://zhuanlan.zhihu.com/p/380140010"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/379305132</id>
+    <title>写给还在为论文纠结的博士和硕士们：向你介绍两种提idea的思路，希望大家不要再为idea纠结了</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content/>
+    <link href="https://zhuanlan.zhihu.com/p/379305132"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/378880030</id>
+    <title>想看科研经验分析的同学们，除了知乎，还可以来https://scientist-with-logic.github.io/</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>我在github上建的一个网站：scientist-with-logic.github.io 未来，我会在知乎以及这个网站里面同步更新我给大家分享的科研经验。在这个github的网站上，我将有更加自由的写作空间。喜欢的同学们可以时常去看看。这个网站刚建立，很快我就会把留言和订阅的功能加上。以后除了我们自己的这个博客以外，…</content>
+    <link href="https://zhuanlan.zhihu.com/p/378880030"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/378319062</id>
+    <title>写给还在为论文纠结的博士和硕士们：你还在为idea纠结么？这里告诉你两种提idea的思路</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content/>
+    <link href="https://zhuanlan.zhihu.com/p/378319062"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/377994641</id>
+    <title>写给还在为论文纠结的博士和硕士们：通过一篇顶级会议的论文，给大家讲解一下一篇论文的insight和idea</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>我现在拿一篇顶级会议的论文当作例子，来给大家剖析一下这篇论文里面的insight和idea。并且帮助大家分析一下，如果从挑别人论文毛病的思路去思考的话，会对这篇论文产生什么样的影响？在下一篇文章中，我…</content>
+    <link href="https://zhuanlan.zhihu.com/p/377994641"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/376326025</id>
+    <title>写给还在为论文纠结的博士和硕士们：怎么提出idea?一个提出idea的过程是什么？</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>我看上一篇文章里面大家对于提出idea的思路还有一些疑问。这个怪我，因为我很难拿我自己的科研的内容给大家分享，导致大家对于这种创新的思路产生了疑惑。那我现在就提idea的思路，再给大家补充一些内容吧。…</content>
+    <link href="https://zhuanlan.zhihu.com/p/376326025"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/376135896</id>
+    <title>写给还在为论文纠结的博士和硕士们：怎么提出idea?一个提出idea的过程是什么？</title>
+    <updated>2024-02-05T13:24:00.311220+00:00</updated>
+    <content>原本接下来我要讲的是，什么因素能够决定一篇论文的创新程度，但是我看上一篇文章里面大家对于提出idea的思路还有一些疑问。这个怪我，因为我很难拿我自己的科研的内容给大家分享，导致大家对于这种创新的思路产生了疑惑。 介绍正题之前，先宣传一下我在github上建的一个网站： 未来，我会在知乎以及这个网站里面同步更新我给大家分享的…</content>
+    <link href="https://zhuanlan.zhihu.com/p/376135896"/>
+  </entry>
+</feed>
