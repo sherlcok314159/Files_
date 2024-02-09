@@ -1,76 +1,3127 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-<channel>
- <atom:link href="https://localhost:3000/users/1/web_requests/12/wx_shoutanji.xml" rel="self" type="application/rss+xml" />
- <atom:icon>https://localhost:3000/favicon.ico</atom:icon>
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://www.zhihu.com/collection/837464991</id>
+  <title>修行-收藏夹</title>
+  <updated>2024-02-09T07:15:56.787424+00:00</updated>
+  <link href="https://rss.diffbot.com/atom?url=https://www.zhihu.com/collection/837464991" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:22:41.276634+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/552026146/answer/2704533190</id>
+    <title>家电家居 | 数码产品 | 幸福生活好物测评 ✨</title>
+    <updated>2024-02-09T07:22:41.276634+00:00</updated>
+    <content>郑自律： 1、 月黑见渔灯，孤光一点萤。微微风簇浪，散作满河星。 —— 查慎行《舟夜书所见》 2、 逢人不说人间事，便是人间无事人。 ——杜荀鹤 《赠质上人》 3、 满目山河空念远，落花风雨更伤春，不如怜取眼前人。 —…</content>
+    <link href="https://www.zhihu.com/question/552026146/answer/2704533190"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/268836036/answer/2753272579</id>
+    <title>喜欢计算数学的民科不会画画所以搞数据可视化</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>空门： 这个问题我勉强能回答，因为 E. T. Jaynes 的遗著给出了两个比较严谨的推导[1]。 具体细节请参考原书，我只正面回答字面上的问题（的一部分[2]）。 香农信息论里面的信息熵公式 99.99…</content>
+    <link href="https://www.zhihu.com/question/268836036/answer/2753272579"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/he-jia-lei-80</id>
+    <title>科研行业 职工</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>干货逻辑： 先跟你玩一个小游戏，这是电影《惊天魔盗团》里面的开头，我最喜欢的一个小情节，一个小魔术，可能很多人不知道，这个小魔术是打破了第四面墙，让屏幕前的观众也参与了进来。 这个小游戏很简单，就是让屏幕…</content>
+    <link href="https://www.zhihu.com/people/he-jia-lei-80"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/372605682/answer/1062436646</id>
+    <title>心理学话题下的优秀答主</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>千叶： 不会错过什么。 这里我想举个自己的例子。 高三的某天，我对着一道非常简单的数学题思考了两个小时。我总是觉得，虽然这道题很简单，但我从来没有真的认识过它，我对它产生了和它的难度极不相称的好奇心。我反复地回溯自己的思维过程（元认知），一步步把我的思维过程写下来，终于明白了我的思维误区。我感到特别愉快，仿佛是那…</content>
+    <link href="https://www.zhihu.com/question/372605682/answer/1062436646"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/67473950/answer/2732530196</id>
+    <title>单这有趣的灵魂便万里挑一</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>远草悠： 《心灵捕手》里尚恩与威尔的对话经典语录： 你只是个孩子，你根本不晓得你在说什么。问你艺术，你可能会提出艺术书籍中的粗浅论调，有关米开朗基罗，你知道很多，他的满腔政治热情，他与教皇相交莫逆，和他的…</content>
+    <link href="https://www.zhihu.com/question/67473950/answer/2732530196"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/279507737/answer/410176958</id>
+    <title>流行音乐等 2 个话题下的优秀答主</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>Chester： 其实很简单的, 1 改掉先挤压腰腹,用大气息冲击喉头的这个发声习惯,也就是说第一意识不是挤压腰腹气息,也不能过度用力或猛然用力. 2 改变唱歌第一动作意识,正确的应该是胸口向下挡气.这样胸…</content>
+    <link href="https://www.zhihu.com/question/279507737/answer/410176958"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/huang-gua-52-1</id>
+    <title>少壮不努力，长大做文案</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>yarimasune： 非自学，在机构学习，三月至今学了半年多点，目前最高能到D5，不过因为是纯咽音，技术也比较初级，不是很稳定，音色也是高频太多，比较尖，刺耳，只唱B4-C5的话可能音色还能好一点。 练…</content>
+    <link href="https://www.zhihu.com/people/huang-gua-52-1"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/484589609/answer/2285082138</id>
+    <title>大佬们知道在哪里可以自学唱歌吗？</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>路人甲： 我就是自学成才，目前统治这一片的ktv。 步骤：1.先掌握腹式呼吸，把它变成说话、唱歌的习惯。 2.经常用“嗯嗯嗯”来哼歌曲（哼鸣练习），这个练得多头声会比较通透，整个通道会顺畅很多，建议长期练习。要求：开口哼和闭口哼出来的声音是一致的。 3.唇颤音练习，刚开始用手指辅助唇颤，足够放松了就可以脱离手指辅助。先是无声唇…</content>
+    <link href="https://www.zhihu.com/question/484589609/answer/2285082138"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/551186435/answer/2666865915</id>
+    <title>流行音乐等 2 个话题下的优秀答主</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>Chester： 来我说人话！！！学会这个东西，立刻就会不一样，喉位的稳定，声音的质量就会提高！ 有部分老师不太愿意点破，或者有部分老师是不懂重点。 入门的第一点就是支撑，没有支撑就谈不上控制气，控制不好气息，那么嗓子就紧张。 气息不仅仅是练习呼吸肌肉群，也不是主要在吸气很多，或者输出很多，气息的第一步要学会保持、学会保持、学…</content>
+    <link href="https://www.zhihu.com/question/551186435/answer/2666865915"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/289645345/answer/584060098</id>
+    <title>流行音乐等 2 个话题下的优秀答主</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>Chester： 首先教你一个不用任何复杂东西的练唱歌的方法，不用乐器、不用乐理、不用别人教的方法，只要你天天哼唱就好了。首先打开喉咙（不是嘴巴张很大，嘴唇微微闭着也没问题，舒适就好），然后保持口部咽东…</content>
+    <link href="https://www.zhihu.com/question/289645345/answer/584060098"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/zvideo/1565758529432211456</id>
+    <title>真实案件改编！万字解读史上最凶的食人魔！经典惊悚片《红龙》</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>今天我们的主角和拔叔有关，是他亲手催生的杀人魔——牙仙。 牙仙前后两次犯案，受害者都是一家五口，就连五六岁大的孩子都不放过。 FBI探员小白临危受命，被迫请求拔叔的协助，要在牙仙再次犯案前抓住他。 关注微… 
+阅读全文
+​
+
+
+
+
+ ​
+ 赞同 153
+  
+
+​
+  ​
+ 22 条评论 
+
+​
+ 分享 ​
+ 收藏 ​
+ 喜欢 
+​
+举报</content>
+    <link href="https://www.zhihu.com/zvideo/1565758529432211456"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/275938752/answer/920014934</id>
+    <title>你所读的统计学方向，有哪些不错的讲义（Notes）？</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>tobinbird： Chewi Sinho 目前在MIT读博，Berkeley本科，他的个人网站把上过课的Notes都打出来了： 包括但不限于 STAT 210 A/B Theoretical Statistics， 老师是Will Fithian 和 Adityanand Guntuboyina STAT 205 A/B…</content>
+    <link href="https://www.zhihu.com/question/275938752/answer/920014934"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/readcat</id>
+    <title>豆瓣9.0也不够，这本书我真想打满分</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>阿猫读书： 今天推荐的这本书在去年6月份推荐过一次。 时隔一年多，又重温了一次，决定再次推荐，重读依然觉得很有帮助（证明自己还没读熟）。 我觉得应该把它当成床头书，直到把书里的内容完全消化了，才能够放下。 为什么我觉得这本书这么重要？ 因为它能够把你从猴子进化成人的一本书，恕我直言，看完书也许你会觉得很多人和猴子差别不大。 这本颠…</content>
+    <link href="https://www.zhihu.com/people/readcat"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/green-rose-53</id>
+    <title>英语渣如何在短期备考托福听力达到满分30？</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>LEON trustworthy： u1s1先晒一下不怎么高的成绩单（大神请自动透明我） 这份成绩单可能在托福110+的大神面前不值一提，但也是来之不易，毕竟我是一个妥妥的英语渣：2020年高考英语考了100多分，刚刚及格的水平，其他科目比英语理想一些。很多老师都说我比较聪明（客观陈述并非沾沾自喜），但就是懒惰。我的自律性…</content>
+    <link href="https://www.zhihu.com/people/green-rose-53"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/574765732</id>
+    <title>科研实习丨香港科技大学统计机器学习实验室招收科研实习生(目前为远程)</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>英国学术科研资讯： 香港科技大学统计机器学习实验室张潼教授招收科研实习生，我们组的研究方向主要有机器学习理论、深度生成模型、强化学习算法、自然语言处理等。更多介绍请见实验室主页： statml.hkust…</content>
+    <link href="https://zhuanlan.zhihu.com/p/574765732"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/xi-zhou-97-62</id>
+    <title>快来判断一下你的身体缺少维生素吗？</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>安新养生： 1.有白头发: 缺叶酸、维生素B6。 2.皮肤干燥: 缺维生素A。 3.脱发: 缺赖氨酸。 4.鼻炎: 缺B族维生素、维生素C。 5.眼睑黄:缺维生素E。 6.头发枯黄开叉: 缺维生素E。 7.牙龈水肿出血: 缺维生素C、维生素K。 8.有口气: 缺维生素B、维生素C。 9.粉刺、雀斑: 缺维生素C。 10.睡觉腿抽筋: 缺钙…</content>
+    <link href="https://www.zhihu.com/people/xi-zhou-97-62"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/zong-you-tai-duo-de-li-you</id>
+    <title>有哪些托福网课很强的老师？最好是一对一的那种？</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>小胡超棒： 如果是指录播课的话，听力推荐张艳老师，口语推荐Fiona，写作建议买本《十天搞定新托福Essay》，仿写一段时间之后在某宝上找作文批改修正。阅读目前网课里没有看到特别强的老师。 很多人都推荐的王子睿写作老师我觉得一般，教的句子都非常简单，整个行文逻辑搭建也很平庸，我看过几节录播课收获比较小。这些课程要找的话去某…</content>
+    <link href="https://www.zhihu.com/people/zong-you-tai-duo-de-li-you"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/519630562/answer/2700157979</id>
+    <title>小说签约作者➕好物种草官→【合作：aeyong1988】</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>她奇遇： 1. 觉醒的人， 既不是在咖啡馆和公园盯着东西看， 也不是假装快乐地把石头推上山， 而是一个有目的地去做事， 而且对所做之事的意义充满信心的人， 是一个真正自由的人。 ——莎拉．贝克韦尔《存在主义咖啡馆》 2…</content>
+    <link href="https://www.zhihu.com/question/519630562/answer/2700157979"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/ru-chu-50-45</id>
+    <title>慢慢来吧，总有一场浪漫是属于你的。</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>林川： 1. 很喜欢《稻盛和夫对年轻人的忠告》里这段话:“大部分人对吃苦的含义了解得太浅了。吃苦不是穷，而是一个人长时间为了某个目标而聚焦的能力。在这个过程中，放弃娱乐生活，放弃无效社交，放弃无意义的消费…</content>
+    <link href="https://www.zhihu.com/people/ru-chu-50-45"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/25365330/answer/2700999057</id>
+    <title>法律职业资格证持证人</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>章渐讲案子： 每天看 2 篇细分领域内的文献。 《孙子兵法》提到，“故兵闻拙速，未睹巧之久也。”用兵只有老老实实的速决，没有说弄巧可以持久的。什么叫老老实实速决，也就是说，在速决之前，要老老实实的积累，等…</content>
+    <link href="https://www.zhihu.com/question/25365330/answer/2700999057"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/30178891/answer/2336408128</id>
+    <title>关注微信公众号「若夏慕夕」，查看更多笔记。来吧，学英语去！</title>
+    <updated>2024-02-09T07:22:28.804229+00:00</updated>
+    <content>若夏慕夕： 桦泽紫苑是日本的精神科医生，连续30年，每月读书20册，合计7200余册。 即便输入量如此惊人，作者也曾为不成比例的成长感到苦恼。 最终是什么帮他打通任督二脉，使他不仅摆脱了“读得多，不见效”的…</content>
+    <link href="https://www.zhihu.com/question/30178891/answer/2336408128"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/63176747</id>
+    <title>里奇微积分(Ricci Calculus)：一种计算向量求导，矩阵求导，张量求导的简单方法</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>Introspector： 在计算反向传播或最优化问题时，经常遇到向量、矩阵、张量对向量、矩阵、张量的求导问题，而类比普通函数求导经常无法处理矩阵转置的问题，因此需要使用一套更简单的符号系统进行运算，即…</content>
+    <link href="https://zhuanlan.zhihu.com/p/63176747"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1802.01528</id>
+    <title>The Matrix Calculus You Need For Deep Learning</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>Introspector： 可以看看这个教程：The Matrix Calculus You Need For Deep Learning，ANTLR之父和Jeremy Howard写的 如果只是想计算矩…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1802.01528"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//www.khanacademy.org/math/calculus-home%3Ft%3Dclasses</id>
+    <title>ZZZZ</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>ZZZZ： 可行的，就看你能不能坚持下来。 如果你英文还可以，试试走一下我下面指出的这条路 先用可汗学院补习微积分： Calculus | Khan Academy | Khan Academy 然后补习MIT的线性代数，具体怎么弄看我另一个回答： 机器学习中用到哪些矩阵知识，如果要补这些知识，求推荐合适的书籍资料？ - yizh…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//www.khanacademy.org/math/calculus-home%3Ft%3Dclasses"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzIwNzc2NTk0NQ%3D%3D%26mid%3D2247483731%26idx%3D1%26sn%3Dba33e72f35defc87393a46f00ca2e909%26chksm%3D970c2985a07ba093619a4ee00a3ab3b6b64219e6ed916cbd235b7c2f6f7acd30f036e560c783%23rd</id>
+    <title>机器学习话题下的优秀答主</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>夕小瑶： 谢邀。 在入门阶段，题主口中的数学主要有四门课：微积分、线性代数、概率与统计、最优化算法。其实我真的很不建议一口气把这四门课学完，那样很容易打击到学习兴趣。所以我尽自己最大的努力安排了一个学习计划/入门指导，贴在这里。 史上最萌最认真的机器学习/深度学习/模式识别入门指导手册(一) 史上最萌最认真的机器学习/深度学习…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzIwNzc2NTk0NQ%3D%3D%26mid%3D2247483731%26idx%3D1%26sn%3Dba33e72f35defc87393a46f00ca2e909%26chksm%3D970c2985a07ba093619a4ee00a3ab3b6b64219e6ed916cbd235b7c2f6f7acd30f036e560c783%23rd"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/295984422/answer/2694736892</id>
+    <title>一个纯粹的人</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>胡一刀： 读过很多关于乔布斯的资料，对他印象深的有几点（凭记忆写的）： 1、他和沃兹小时候研发盗打电话的蓝盒子时，他就敢直接打电话给普惠公司创始人，问对方要一些零件，之后好像还去了惠普公司实习。后来，在重回苹果后，他竟然说服竞争对手比尔·盖茨投资了几个亿美金——盖茨说这是他最大的决策失误之一。乔布斯有一种天生的交际能力和说…</content>
+    <link href="https://www.zhihu.com/question/295984422/answer/2694736892"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/49230922/answer/605669317</id>
+    <title>强化学习（reinforcement learning)有什么好的开源项目、网站、文章推荐一下？</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>量子位： 安利一下，OpenAI出品的强化学习 (RL) 入门教程，叫Spinning Up。 OpenAI说，完全没有机器学习基础的人类，也可以迅速上手强化学习。 有概念，有一系列关键算法的实现代码，有习…</content>
+    <link href="https://www.zhihu.com/question/49230922/answer/605669317"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/326890535/answer/717865868</id>
+    <title>如何开发一个自己的 TensorFlow？</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>科研败犬丶： 啊，开发一个属于自己的TensorFlow？按照题主的描述，貌似TinyFlow（2k+行代码）就完全可以满足的你的需要。 能有这样的想法的话，应该是对deep learning system有些兴趣？？？ 如果题主真的是想从头开始设计一个属于自己的framework的话。。。。 emmm,大半夜睡不着，那就随便…</content>
+    <link href="https://www.zhihu.com/question/326890535/answer/717865868"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/558727364</id>
+    <title>扩散模型背后数学太难了，啃不动？谷歌用统一视角讲明白了</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>机器学习社区： 来自机器之心，链接：谷歌用统一视角讲明扩散模型 欢迎关注 
+@机器学习社区 ，专注学术论文、机器学习、人工智能、Python技巧 最近一段时间，AI 作画可谓是火的一塌糊涂。 在你惊叹 AI 绘…</content>
+    <link href="https://zhuanlan.zhihu.com/p/558727364"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/568230304/answer/2770648014</id>
+    <title>电子竞技话题下的优秀答主</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>策策： 先来介绍一下自己。 之前拿过国服。 也曾打过百星。 在聊王者绝悟新出的英雄练习场之前，我想先分享一下，我是如何练习英雄的。 就以近几个赛季练习夏洛特为例。 首先，去游戏内了解夏洛特的英雄技能机制，再去训练…</content>
+    <link href="https://www.zhihu.com/question/568230304/answer/2770648014"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/31699723/answer/993268530</id>
+    <title>笠道梓： Routledge Philosophy Companions Elsevier Handbook of the Philosophy of Science Wiley Blackwell Com…</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content/>
+    <link href="https://www.zhihu.com/question/31699723/answer/993268530"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/tinzoeyui</id>
+    <title>统计Ph.D.阶段的课程/教材整理</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>流放之路： 今年秋季就要开始攻读统计Ph.D., 因为我之前都是在读数学(概率)方向, 还没有过多的做过统计的研究或者修过太多研究生阶段的统计基础课. 打算自学一下统计一些研究生阶段的基础课, 用这篇文…</content>
+    <link href="https://www.zhihu.com/people/tinzoeyui"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/38253477/answer/2765270831</id>
+    <title>Skadiologist</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>Skadiologist： 都不是我读的方向...... 线性代数： 李文威老师即将出版的神作，不用多说了吧，懂得都懂。 泛函分析： 初学的时候觉得这个notes讲得很全。 形变量子化： 解释Kontsevich那套理论。 辛几何： 从辛几何到深谷范畴的速成。 这才是正经的辛几何入门讲义。 层论： Serre经典文章的英译版。 下降理论：…</content>
+    <link href="https://www.zhihu.com/question/38253477/answer/2765270831"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/31167170/answer/1994290319</id>
+    <title>奇异值分解（SVD）有哪些很厉害的应用？</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>Climber.pI： 这篇打算简单叙述量子算法近年的主要进展 (之一), 即量子奇异值变换 (quantum singular value transform) [1]. 故事的起点是这么一件事: 给…</content>
+    <link href="https://www.zhihu.com/question/31167170/answer/1994290319"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/553624132/answer/2754509208</id>
+    <title>男朋友是武汉大学，而我只是一个普通二本，我们现在感觉越来越远，还应该在一起吗？</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>匿名用户： 作为在武大读了本科，硕士，博士，还当了武大老师的人想和你说：如果你要排等级，那么从中学毕业开始大致有：大专、二本、一本，二本硕士、一本硕士、海外硕士、二本博士、一本博士、海外博士、博士后、海外博士后、十级讲师、九级讲师、八级讲师、七级副教授、六级副教授、五级副教授、四级教授、三级教授、二级教授、一级教授，以及…</content>
+    <link href="https://www.zhihu.com/question/553624132/answer/2754509208"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/584891446</id>
+    <title>注意力机制作用被高估了？苹果等机构新研究：把注意力矩阵替换成常数矩阵后，性能差异不大</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>量子位： 萧箫 发自 凹非寺 量子位 | 公众号 QbitAI 要说Transformer的核心亮点，当然是注意力机制了。 但现在，一篇新研究却突然提出了带点火药味的观点： 注意力机制对于预训练Transfor…</content>
+    <link href="https://zhuanlan.zhihu.com/p/584891446"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/wu-ya-dian-ying</id>
+    <title>飙9分！上线就封神，今年奥斯卡最佳稳了…</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>乌鸦电影： 1968年，冰岛。 一对热恋中的法国情侣，开着别人捐赠的小汽车，拖着大包小包的行李，行驶在寸草不生的土地上。 旅途比预期艰险得多… 腿部陷进沸水里，烫伤状态像脱皮的洋葱； 上山时穿着长裤，等下山时只…</content>
+    <link href="https://www.zhihu.com/people/wu-ya-dian-ying"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/dong-xi-97-29</id>
+    <title>看了一圈，大多数答案其实是在误导刚入门的新手。</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>图灵的猫： 看了一圈，大多数答案其实是在误导刚入门的新手。 我本科是个和计算机、数学毫不相关的人文类专业，后来用了大三、大四两年时间，从中学级别的数学捡起，一路自学、实习、读研到现在。我太熟悉入门时候的坑…</content>
+    <link href="https://www.zhihu.com/people/dong-xi-97-29"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/19934743/answer/2755254818</id>
+    <title>哪里可以大量下载国外杂志 PDF 版？</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>乾卫： Magazinelib Magazinelib，一个全球免费英文杂志下载网站，主要是PDF 和交互式电子杂志，上面收录了全球各个国家关于动物、艺术、商业、时尚、科学、科技等等方面的杂志，可以按照国家、年份和类型查看下载，而且英文杂志不断在更新，杂志下载无跳转，无需注册登录，直接下载PDF格式的杂志。 Magazine…</content>
+    <link href="https://www.zhihu.com/question/19934743/answer/2755254818"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/359558137/answer/2756306438</id>
+    <title>今天有人说我帅我站在阳台上想了很久,究竟是谁走漏了风声。</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>一棵树：</content>
+    <link href="https://www.zhihu.com/question/359558137/answer/2756306438"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/359740428/answer/2731420359</id>
+    <title>Jackie</title>
+    <updated>2024-02-09T07:22:13.513627+00:00</updated>
+    <content>Jackie： 硕士导师在带我的时候已经是白发苍苍的花甲老人了，他在毕业的时候跟我们说：永远不要害怕改变和重新开始，不要太担心沉没成本，如果有一天你们面临需要重新开始的重大选择而纠结，不妨想想你老师我，在做哲学做的还不错的情况下从哲学转行到不太相干的建筑系，还在三十几岁的年龄跑到国外去读一个建筑系的博士，你们还这么年轻，…</content>
+    <link href="https://www.zhihu.com/question/359740428/answer/2731420359"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/590703744</id>
+    <title>MATLAB | 一起来感受数学之美！第一届迷你黑客大赛回顾</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>slandarer： Hey真的是好久不见，最近确实是比较忙更新频率也下来了，过段时间应该能恢复正常更新速度，之前给大家解说过今年举办的math is beautiful迷你黑客大赛，但这其实是第二届大…</content>
+    <link href="https://zhuanlan.zhihu.com/p/590703744"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/571439842/answer/2794986209</id>
+    <title>电子科技大学 电子信息硕士在读</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>NGC13009： 谢 
+@MathHub 邀（我竟然找不到知乎的谢邀在哪里加？？？？？编辑器-1分 当然是这本《计算机代数系统的数学原理》 该书最后一次更新是在2009年，官网链接在这里 当然有pdf版本，…</content>
+    <link href="https://www.zhihu.com/question/571439842/answer/2794986209"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/548910493/answer/2685412105</id>
+    <title>linux不小心用rm -rf把系统库目录（/lib）删了怎么办？</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>洋耗子： 任何linux发行版，不管搞砸成什么样，都有一个永远万能的解决路线： 找个能引导系统的usb或者livecd版本，先跑起来 把原来对应磁盘mount上 评估损失后，拷贝所需的核心文件，主要是恢复包管理系统及相关依赖工具 chroot到原系统 重新用包管理命令把系统重新搭起来，少什么补什么，坏什么修什么 重启，切换回本地硬盘…</content>
+    <link href="https://www.zhihu.com/question/548910493/answer/2685412105"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/569151613/answer/2795516691</id>
+    <title>GPA4.0 | Political Philosophy and Pre-Law | Music Production and Engineering</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>CPAPCF： 什么年代还搞刻舟求剑缘木求鱼照本宣科啊？ 我发第一篇oral时什么瓜书都没看（他们还没写），更没去学什么吴恩达王恩达李恩达王宏毅张宏毅，且现在都没看。 就俩字：没用。要做项目直接做，要发paper找问题找项目干，炼丹不是看书学来的。 问个最简单的：batchnorm和layernorm为什么有性能区别，什么情景…</content>
+    <link href="https://www.zhihu.com/question/569151613/answer/2795516691"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/430479961/answer/2727093049</id>
+    <title>人工智能｜大数据｜科技、家居智能爱好者</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>山中骑士： 《数学简史:确定性的消失》 作者：莫里斯·克莱因 入门书，全书没有一个公式，却能把数学史讲得异常通透，简直就是一部优秀的文学作品，强烈推荐。原名：Mathematics: The Loss of Certainty。 作者还有另外一本书名：《古今数学思想》 一共有4册，是数学史的名著经典，初版以来影响力长盛不衰。描…</content>
+    <link href="https://www.zhihu.com/question/430479961/answer/2727093049"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/gao-kao-zhuang-yuan-48</id>
+    <title>有哪些常见矩阵的逆？</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>愚淼淼： 我们来介绍一个关于矩阵求逆的伍德伯里公式． 所谓的伍德伯里（ Max Atkin Woodbury ，1917-2010，美国生物数学家）公式是指等式 在等号两边的式子有意义时（即涉及到逆的矩阵的…</content>
+    <link href="https://www.zhihu.com/people/gao-kao-zhuang-yuan-48"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/590502154</id>
+    <title>教程｜Kronecker积与Kronecker分解</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>Xinyu Chen： Kronecker 积是张量计算中非常重要的一种运算规则，不同于常见的矩阵运算规则，给定 任意两个矩阵，两者之间进行 Kronecker 积得到的是一个分块矩阵。Kronecker 分解是一种以 Kronecker 积为基础的分解形式，又被称为 Kronecker 积分解、Kronecker 积逼…</content>
+    <link href="https://zhuanlan.zhihu.com/p/590502154"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/487769817/answer/2792055709</id>
+    <title>如何看待TeXmacs？未来能完全取代LaTeX吗？</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>沈浪熊猫儿： 利益相关：本人是GNU TeXmacs的开发者之一。 GNU TeXmacs功能上早已取代LaTeX，只是一些学术垄断机构在强制研究者使用LaTeX而已。 GNU TeXmacs的目标并不是取…</content>
+    <link href="https://www.zhihu.com/question/487769817/answer/2792055709"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/529570983/answer/2792175620</id>
+    <title>伪商业分析*抽风式咨询*个人成长</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>曹小灵： 教父的电影虽然还原度很高，但原著才是真经典。 并且把教父怎么具体「使用」人情的，描述的非常清楚。 江湖上流传一句老话：《教父》是男人的圣经。 别人说的是原著啊……不是电影三部曲……不是BGM……不是…</content>
+    <link href="https://www.zhihu.com/question/529570983/answer/2792175620"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/36442801/answer/2790781443</id>
+    <title>运筹学博士生，对OR中的学习/优化问题感兴趣。</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>Random Walk： G. Polya 的书 How to solve it 里面有这样一句话： 宏大的计划如果不仅仅是基于自负，而是基于洞察了超越那些表面现象的东西，它就越可能获得成功。 这句话的语境是作者指出将一个命题推广，有时候反而会有助于该命题本身的解决。因为推广将问题的某些本质提取出来了。但是上述这句话则是告诫…</content>
+    <link href="https://www.zhihu.com/question/36442801/answer/2790781443"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/564801848/answer/2786902020</id>
+    <title>讲故事的人，才是故事的主人.</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>王翼之： 马斯克所谓的「工作」，与大多数人所说的「工作」，并不是同一件事情。 他对自己的「工作」，有完全的掌控。 对他来说，行住坐卧、洒扫应对，看书、怼人，发推特…… 全是工作。 这种工作，不是坐班点卯。 而是在…</content>
+    <link href="https://www.zhihu.com/question/564801848/answer/2786902020"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/426591942/answer/2769875396</id>
+    <title>好物种草官/治愈文案/流水不争先，争的是滔滔不绝。</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>七十二時： 1、 “你现在状态不对，你就得改，你不能因为一件事情影响你太久，太耽误事了，成本过高，太不划算了。” 2、 困在情绪中，是浪费大脑的资源。 3、 可以短时间不开心，但别长时间不清醒。 4、 生活就是仰卧…</content>
+    <link href="https://www.zhihu.com/question/426591942/answer/2769875396"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/org/tian-yu-jiao-yu-2</id>
+    <title>《The Princeton Companion to Mathematics》By June Barrow-Green</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>天鱼留学： 《The Princeton Companion to Mathematics》By June Barrow-Green 本书是最好的数学书之一，能够让学生理解数学的复杂性，解决数学问题技巧。 《Encyclopedia of Mathematics》By James Stuart Tanton 本书是数学爱好者最…</content>
+    <link href="https://www.zhihu.com/org/tian-yu-jiao-yu-2"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/371659285/answer/2783154465</id>
+    <title>信息技术行业 青年科学家</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>李弘扬Francis： 最大的差距就是世界观。优秀的博士生不会在乎什么所谓的CCF。在乎的真正这个工作到底是否solid，哪怕即使挂arXiv。投了ICLR，也不会来找我说不能投，因为不在CCF里。不会来找我水paper，到处挂名。 做有影响力的工作，背后反映的是对topic深入的思考，尤其是跨domain 的思考，扎实的…</content>
+    <link href="https://www.zhihu.com/question/371659285/answer/2783154465"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/275938752/answer/1496387555</id>
+    <title>你所读的统计学方向，有哪些不错的讲义（Notes）？</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>Allen.Lau： ETH 的 Bandeira，王子屯的 Singer，USD 的 Strohmer 正合著一本 《Mathematics of Data Science》， 年底或者明年出版 王子屯的 范剑青 与 邹慧 等人合著的《Statistical Foundations of Data Science》 伯克利…</content>
+    <link href="https://www.zhihu.com/question/275938752/answer/1496387555"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/552853273</id>
+    <title>《强化学习的数学原理》新书——如何从零开始透彻理解强化学习？</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>西湖大学无人系统： 本文作者：赵世钰，西湖大学特聘研究员 数学是一把双刃剑：使用不好，它会让人望而生畏；使用得当，它能让人沉醉其中、优美而清晰地理解问题。 今天介绍一本新鲜出炉的书《强化学习的数学原理》，也…</content>
+    <link href="https://zhuanlan.zhihu.com/p/552853273"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/49233104/answer/571829368</id>
+    <title>什么样的人才叫好人？我就是一个活生生的例子！</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>陆本： 1.光荣在于平淡，艰巨在于漫长 2.大多数人对的不一定是真理 3.这人呐就很难再喜欢别的地方 4.别混日子了，小心日子把你们给混了 5.我跟你们随便，你们就跟全世界随便啊 6.饭得一口一口吃事得一件一件办，只要今天比昨天好，这不就是希望吗 7.人前的眩晕和说不出的苦处，这就是成功的味道吧 8.人总是要分的，而且越分越远，见不着…</content>
+    <link href="https://www.zhihu.com/question/49233104/answer/571829368"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/585697800</id>
+    <title>卷到纯数学：大佬亲历总结的AI工程师纯数学课程学习之路</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>新智元： 作者：Frank Ding 编辑：QQ 【新智元导读】纯数学最容易懂的大学公开课和教程学习路线。 在入门机器人视觉和机器人运动后，开始逐步接触到了3D计算机视觉中的高阶数学概念，包括三维物体到二维图…</content>
+    <link href="https://zhuanlan.zhihu.com/p/585697800"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/569024071/answer/2781778334</id>
+    <title>我们是孩子,但我们精力充沛,勇往直前✰</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>吾欲揽六龙： 泰格马克的Our Mathematical Universe（中译名太尴尬了）里的数学哲学思想。那个时候我做了套类似大卫·克里斯蒂安大历史的东西，在这个基础上，泰格马克的思想成功引起了我对数学的兴趣，把我从二次函数都没整明白的水平变成了高一期末140（错两道填空，低级错误，哥们讨厌计算）。 其实很多事情都不是…</content>
+    <link href="https://www.zhihu.com/question/569024071/answer/2781778334"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/381410935/answer/2778562763</id>
+    <title>清北本科生怎么和MIT的本科生竞争？</title>
+    <updated>2024-02-09T07:21:59.638482+00:00</updated>
+    <content>theigrams： 最大的问题在于引导上，别的先不说国内老师布置大作业，通常就是给你一个大而泛的题目，然后你自己一头扎进去做，比如「用深度学习进行机器翻译」，是的，整个题目就这一句话。 然后你懵了： 我该…</content>
+    <link href="https://www.zhihu.com/question/381410935/answer/2778562763"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/ldzy</id>
+    <title>北美博士必读清单</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>李丁： 我自己写的原文在此: 北美博士必读清单 复制粘贴放过来。 有很多前人写了博客记录自己的计算机读博生涯。每当读到这些文字的时候都觉得有点相见恨晚的感觉。为了给后人铺路，这个帖子就收集这些的各种链接。…</content>
+    <link href="https://www.zhihu.com/people/ldzy"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/40797593/answer/275171156</id>
+    <title>EM算法存在的意义是什么？</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>史博： Hinton, 这个深度学习的缔造者( 参考 攒说 Geoff Hinton ) ， Jordan 当世概率图模型的集大成者（参考 “乔丹上海行”）， 他们碰撞的领域就是EM算法！这个是PCA外…</content>
+    <link href="https://www.zhihu.com/question/40797593/answer/275171156"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/31034164/answer/553533545</id>
+    <title>编程语言话题下的优秀答主</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>圆角骑士魔理沙： 0：可以完全理解一问题，并且给出对应的代码。 往窄了点说，这就是acm在培养的东西。 并且这不能靠调api完全解决： 有的时候，你的问题需要你把多个标准算法串一起。 比如说最近有个把STLC AST从implicit sharing变成explicit sharing的任务，这靠LCA+reverse topo…</content>
+    <link href="https://www.zhihu.com/question/31034164/answer/553533545"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/421203214/answer/1482641991</id>
+    <title>philosophy 诗人 猜谜者 偶然的拯救者</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>孙树统： 我可以负责任的告诉你，我从小数学就很好。 如果问我有什么窍门，我很早就已经悟出来。 数学有一种必然性，也就是说，出题人既然出题说明答案必然存在。就像小时候玩迷宫，不过是从出发点和终点的同时出发，来…</content>
+    <link href="https://www.zhihu.com/question/421203214/answer/1482641991"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/388621344/answer/2768594075</id>
+    <title>遇见即是上上签</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>珈洛知知： 1、 你害怕抛头露面，害怕出丑丢人，害怕成为重要人物，害怕承担责任，实际上就是你害怕成功，你害怕成功，怎么可能成功？ 2、 一旦你出现明天开始努力的想法，而不是从现在开始，那明天的你大概率还是虚度…</content>
+    <link href="https://www.zhihu.com/question/388621344/answer/2768594075"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/41459109/answer/486684194</id>
+    <title>人工智能话题下的优秀答主</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>微软亚洲研究院： 谢邀鸭！我们来啦！ 如何自学机器学习？需要哪些数理基础？怎样从入门到进阶到大神？ 对于这些问题，作为毕业后投身机器学习研究的数学博士，微软亚洲研究院机器学习组主管研究员陈薇无疑是最有发言权…</content>
+    <link href="https://www.zhihu.com/question/41459109/answer/486684194"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/lin-mei-81-26</id>
+    <title>【上观多元宇宙Bug，下码百科全书1TB】</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>杞鋂： 1.墨菲定律：越怕什么，越发生什么 推论：越害怕什么？就越准备什么，那样发生什么都不需要害怕 2.吉德林法则：把问题清楚记下来，就能解决一半问题 推论：问题越清楚，解决越彻底 3.吉尔伯特法则：工作上的危机信号，就是没有人会告诉你工作要怎么做 推论：有人告诉你怎么做的时候，不一定就是对的 4.福克兰定律：不用做决定时，就不要…</content>
+    <link href="https://www.zhihu.com/people/lin-mei-81-26"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/L.M.Sherlock</id>
+    <title>如何用Anki学数学?</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>Thoughts Memo： 原文: Michael A. Nielsen, “Using spaced repetition systems to see through a piece of mat…</content>
+    <link href="https://www.zhihu.com/people/L.M.Sherlock"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/427922224/answer/2674662330</id>
+    <title>Learning-Opt-Stat-Geometry</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>Proof-Trivial： 补充说明 评论区有人反应刘思齐老师推荐的书籍都偏难，其实刘老师推荐书籍的基本关注点主要在于行文的逻辑性、严谨性以及知识点的连贯性与延伸范围，确实并没有过多考虑普通读者的接受能…</content>
+    <link href="https://www.zhihu.com/question/427922224/answer/2674662330"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/571847580/answer/2804665046</id>
+    <title>天道几何，万品流形先自守；变分无限，孤心测度有同伦!</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>山中花树： 关于实分析，建议读一下《重温微积分》和《微积分五讲》中最后一章 外文书籍好多，任何一个大数学家的文集都绝对可以找得到的。建议关注清华大学求真书院，这一年了丘成桐一直在直播讲许多数学发展史相关讲座。 下面推荐一些中译本: 《古今数学思想》 无需多言，具体的想法发展 推动数学发展的思想都写的很清楚 《黎曼全集》尤其是关…</content>
+    <link href="https://www.zhihu.com/question/571847580/answer/2804665046"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/47436256/answer/2798432636</id>
+    <title>测评家电家居 | 生活好物♥好好生活，慢慢成长（合作请私信）</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>阿慌Zzz： 1、 我不怕在这个时代中沉默，怕只怕，我和很多人一样，最醉心于愤恨与狂欢。 不去读书，不去思考，学不会倾听和宽容。 以至于有一天，当好的时代来临时，我发现自己两手空空。 被厌倦与荒凉拖垮了身体，竟…</content>
+    <link href="https://www.zhihu.com/question/47436256/answer/2798432636"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/tian-chong-ye</id>
+    <title>千古奇文《韬晦术》原文及译文，值得收藏！</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>田凌安： 《韬晦术》是明正德年间状元杨慎所著，明朝三大才子之一。为官后因年轻气盛、禀性刚直，在著名的“撼门事件”中，险些惹下杀身之祸：后发愤研究韬晦之术，得以颐养天年，并有此奇书流传于世。 ​ 《韬晦术》是…</content>
+    <link href="https://www.zhihu.com/people/tian-chong-ye"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/581284422</id>
+    <title>一位给厅级当秘书叔叔告诉我城府深的人都这十大表现</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>大叔讲人情世故： 1、脸上经常挂着笑容，很谦逊，让人看不出真实想法。有城府的人并不像影视剧里那样，面色阴沉、眼神冰冷，就差将心机城府二字写在脸上。恰恰相反，有城府的人都爱笑，只要他跟你对视，就会发现他的脸上挂着笑容，很温和，与他打交道会感觉很舒服。 2、一个简单的吐槽，就能让对方猜到自己内心的需求，一个发泄的动作，就能让对…</content>
+    <link href="https://zhuanlan.zhihu.com/p/581284422"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/41468803/answer/2021112341</id>
+    <title>GAMES 103：基于物理的计算机动画入门</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>wanghmin： 我来打广告了。 2021年底我会在GAMES上开设一门新课 GAMES 103：基于物理的计算机动画入门。这门课主要面向的对象是大三、大四、以及刚读研的同学。如果你对图形学特别感兴趣，…</content>
+    <link href="https://www.zhihu.com/question/41468803/answer/2021112341"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/zun-wen-91</id>
+    <title>世事洞明皆学问，人情练达即文章</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>葫芦娃： 1 气定神闲，不论面对何种处境都镇定自若。 2 贵人语迟，话不多，但每句都在点子上。 3 非常讲究礼仪规矩，言行举止落落大方，很少有失礼之处。 4 少欲知足，欲望越大的人身上油腻之气也就越重，反之则清新脱俗，高贵典雅。 5 谦虚低调，从不夸夸其谈，知道山外有山人外有人。 6 享受独处，不因寂寞而到处攀缘。 7 谨言慎行，很…</content>
+    <link href="https://www.zhihu.com/people/zun-wen-91"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/351504112/answer/2798591054</id>
+    <title>IreneGarcia</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>IreneGarcia： 很多高赞答案废话有点多，其实你只要照着John Carmack和Edward Kmett的这三句话，一定可以成为编程高手。至于会达到多高，剩下的就交给时间吧。…</content>
+    <link href="https://www.zhihu.com/question/351504112/answer/2798591054"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/riroaki</id>
+    <title>从零实现ChatGPT——RLHF技术笔记</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>Akiko： 最近OpenAI推出的问答模型ChatGPT掀起了新的AI热潮，从技术问答到玩场景play，从代写论文到聊天解闷，有趣到让人产生图灵测试已经不在话下的感觉。看了很多对话梗图以后惊艳于技术之…</content>
+    <link href="https://www.zhihu.com/people/riroaki"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/590711111</id>
+    <title>ChatGPT，本来我都成功了，结果一失足成千古恨（见粗体部分）</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>枕水： 之后我多次尝试复现，但再也模拟不出来了，我的猜想是后面服务器使用的人多了，算力不够了。 robot 介绍一下你自己 robot 我是 Assistant，是一个由 OpenAI 训练的大型语言模型。我的工作是回答用户的问题，并尽可能提供准确、及时的信息。由于我是一个计算机程序，所以我不能像人类一样感受和思考，也不能自主学…</content>
+    <link href="https://zhuanlan.zhihu.com/p/590711111"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/wang-kai-73-33</id>
+    <title>朗道：一个二流的物理学家</title>
+    <updated>2024-02-09T07:21:44.282173+00:00</updated>
+    <content>一根弦： 1962年1月7日，在莫斯科通往杜布纳原子核研究所的路上，一辆轿车与迎面驶来的卡车相撞。 这是一起既严重又不严重的车祸。说不严重，是因为在这场事故中其他人都安然无恙，只有一个人受伤了。说严重，是…</content>
+    <link href="https://www.zhihu.com/people/wang-kai-73-33"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/585307825/answer/2904187023</id>
+    <title>复旦 MOSS 团队回应体验非常不好，称距离 ChatGPT 还有很长的路，其发展还需克服哪些难题？</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>嘉慧Lincoln： 凭借Moss这个名号获取了公众流量和关注度，顺带拉高了一波股价，结果产品并没有达到预期的宣传效果，道个歉大家当成饭后谈资一笑而过，消耗了科学界的公信力，最终受伤的依旧只有默默认真做科研不懂炒作宣发的科研工作者。 下次即使真的有人做出来了~结果已经没人敢信了~…</content>
+    <link href="https://www.zhihu.com/question/585307825/answer/2904187023"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/32318281/answer/55588123</id>
+    <title>NLP（自然语言处理）界有哪些神级人物？</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>jiangfeng： 首先想到的不应该是Michael Collins吗…… Michael Collins (Columbia), Jason Eisner (JHU), David Yarowsky (JHU)三位师兄弟（David &gt; Michael &gt; Jason）均师承于Upenn的Mitchell…</content>
+    <link href="https://www.zhihu.com/question/32318281/answer/55588123"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/291266315/answer/474662339</id>
+    <title>国内有哪些自然语言处理(NLP)专业比较厉害的985高校？</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>忆臻： 注意：与标题无关，下面我只介绍我知道的部分实验室，列出的也不一定是厉害的（老师是否靠谱，推荐大家联系毕业同学进行咨询），还有非常多不知道的老师实验室，欢迎大家留言补充！！ 说一下我了解的学校和实验室！排名不分先后，可能包括不是985高校（根据题意，只保留高校）~ 清华大学：孙茂松老师、刘知远 
+@刘知远 老师、刘洋、朱…</content>
+    <link href="https://www.zhihu.com/question/291266315/answer/474662339"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/585307825/answer/2903864608</id>
+    <title>RL &amp; Rep Learning @ UIUC</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>HeptaAI： 搜集了业内人士对于MOSS的看法，在这里汇总一下： 大模型本身的技术难度： ChatGPT的技术难度很大，需要庞大的资金和技术团队才能开发成功。复旦MOSS团队开发的ChatGPT存在一些体验问题和技术差距，需要克服一些难题才能进一步发展和提高性能。 甚至目前的ChatGPT技术仍然存在一些限制和缺陷，需要更…</content>
+    <link href="https://www.zhihu.com/question/585307825/answer/2903864608"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/430994668/answer/1594446402</id>
+    <title>请问数学科班的用什么机器学习书？</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>匿名用户： 利益相关：数学系本科出身（拿过丘赛安慰奖），现在在做machine learning，推荐一些自己看过的书，个人品味对机器学习书的要求就是废话少和尽可能包含一些较新的结果。 这个系列 Foundations and Trends® in Machine Learning 基本涵盖了ML的方方面面，废话很少大多写…</content>
+    <link href="https://www.zhihu.com/question/430994668/answer/1594446402"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/tangyuan-focus</id>
+    <title>优化算法</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>tangyuan： 三. 优化方面的资料： book1: Boyd凸优化 Convex Optimization - Boyd and Vandenberghe book2: Jorge Nocedal 和 Stephen Wright 的 《Numerical Optimization》 复旦大学吴立德老师讲授数值优化，优…</content>
+    <link href="https://www.zhihu.com/people/tangyuan-focus"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/xiaoava</id>
+    <title>2022 Fall CS PhD申请总结</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>Ava Xiao： 碎碎念 选择读博算是人生中数一数二的重大决定了，这条路很难，尤其是现在CV领域竞争白热化，很多次想过放弃，但万幸遇到了很多良师益友，最终一步步走了过来。在此做个记录，希望能给之后打算申…</content>
+    <link href="https://www.zhihu.com/people/xiaoava"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/82622940</id>
+    <title>机器学习 | 近端梯度下降法 (proximal gradient descent)</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>Xinyu Chen： 近端梯度下降法是众多梯度下降 (gradient descent) 方法中的一种，其英文名称为proximal gradident descent，其中，术语中的proximal一词比较耐人寻味，将proximal翻译成“近端”主要想表达"（物理上的）接近"。与经典的梯度下降法和随…</content>
+    <link href="https://zhuanlan.zhihu.com/p/82622940"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/wu-xiao-cun-79</id>
+    <title>统计学至今无法绕过的五本必读书</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>周公子·姬发： 第一本：《统计学习基础》 Trevor Hastie、Robert Tibshirani 和 Jerome Friedman 的《统计学基础》：本书是对统计学习的全面而权威的介绍，涵盖了广…</content>
+    <link href="https://www.zhihu.com/people/wu-xiao-cun-79"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/lesvicissitudes</id>
+    <title>写给未来或正在读PhD的同学们</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>Vicissitude： 本来只是想随便写写，甚至好久不写中文文章，语句都不太通顺。但居然一天就收获了将近200赞。因此我觉得好好修改一下，再做一些补充。 昨天在Linkedin上看到有好友点赞Faheem Ullah发的贴子：PhD students — Do this and 90% of your PhD probl…</content>
+    <link href="https://www.zhihu.com/people/lesvicissitudes"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/35071142/answer/617313877</id>
+    <title>公众号：英语学习笔记；个人微信：hailuenglish</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>张海露Eric： 推荐 English Exposed！作者 Steve Hart 改了 600 多篇论文后，估计是实在受不了了，于是从中总结了一些学术写作中常见的错误把它结集成书，想让大家一起从这些错…</content>
+    <link href="https://www.zhihu.com/question/35071142/answer/617313877"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/47436256/answer/2891318943</id>
+    <title>魔都在逃985硕士丨考研总分411，英语一77分</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>是木野真呀： 突然就释怀了…… 《稻盛和夫给年轻人的忠告》中说道： 不要后悔对任何人好，哪怕被辜负，哪怕撞南墙。 因为你对他好，不代表他有多好，只是因为你很好。 买了就不要再去比价格，吃了就不要后悔，爱了就不要…</content>
+    <link href="https://www.zhihu.com/question/47436256/answer/2891318943"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/606111128</id>
+    <title>苏黎世联邦理工ETH博士岗位开放申请。分布式计算/机器学习/区块链等方向</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>苇名城1025打铁匠： 帮老板扩散 #苏黎世联邦理工学院[话题]# #ETH[话题]# 的博士岗位开放啦，欢迎大家申请。现在申请的是2023年秋季(8-9月份)入学。 信息概括如下： Lab：Distributed Computing Group Prof: Roger Wattenhofer (3.4万+引用) 方向：计算机网…</content>
+    <link href="https://zhuanlan.zhihu.com/p/606111128"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/583133150/answer/2891986124</id>
+    <title>上海交通大学 工学博士</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>赤箭青芝： 某课题组老板是个快六十岁的大佬，从他身上，我看到了要想成大事，所必备的几种素质。 严苛的自律。 他是我见过的自律性最强的人，没有之一。 他大学的时候就意识到锻炼身体的重要性，但那时条件太过简陋，只能穿着胶鞋在操场上跑步，风雨无阻。这个习惯一下子就坚持了三十多年，现在他在家里的大别野专门布置了一个健身房，每天早上六点…</content>
+    <link href="https://www.zhihu.com/question/583133150/answer/2891986124"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/540433389/answer/2549775065</id>
+    <title>深度学习刷SOTA有哪些trick？</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>Gordon Lee： 1. R-Drop：两次前向+KL loss约束 2. MLM: 在领域语料上用mlm进一步预训练 (Post-training) 3. EFL: 少样本下，把分类问题转为匹配问题，把输入构造为NSP任务形式. 4. 混合精度fp16: 加快训练速度，提高训练精度 5. 多卡ddp训练的时候，用到梯度累…</content>
+    <link href="https://www.zhihu.com/question/540433389/answer/2549775065"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/581979171/answer/2884088267</id>
+    <title>英语话题下的优秀答主</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>姜小白： 《创造时间》（Make Time），两位作者是谷歌Gmail跟YouTube的产品经理，曾助纣为虐的到收割用户注意力的infinity pools建设。这本书是他们基于自己的工作经历，反抗免费互联网的成瘾机制detoxing建议。书里仔细分析了为什么娱乐、信息App让人成瘾，他们在设计产品时用了那些行为控制科学…</content>
+    <link href="https://www.zhihu.com/question/581979171/answer/2884088267"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/580157216/answer/2873616328</id>
+    <title>文学话题下的优秀答主</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>萧楚白： 一 追《狂飙》时，看到卖鱼佬高启强看起了《孙子兵法》，我知道他要崛起了。 看到黑老大高启强还在看《孙子兵法》，我知道他要倒霉了。 看得到《孙子兵法》的人很多，但看得懂《孙子兵法》的人太少。 高起强要改变命运时，看《孙子兵法》没毛病。 通过收编队伍，扩张势力，遥控指挥，他成为了整个城市的地下之王，常胜将军，这就是孙子兵法的…</content>
+    <link href="https://www.zhihu.com/question/580157216/answer/2873616328"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/485142113/answer/2199259893</id>
+    <title>Nemo</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>Nemo： 《Science Research Writing for non-native speakers of English》 我读博士期间，真的把这本书背下来一大半。一直到现在，也会时不时背一下。 推荐需要写paper的博士生背下来，写文章事半功倍。…</content>
+    <link href="https://www.zhihu.com/question/485142113/answer/2199259893"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/da-jing-71-8</id>
+    <title>家电家居 | 产品测评 | 好物推荐 | 文案分享</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>大静： 1、 我变得自信有趣， 允许别人踏入我的生活， 我睡的越来越早， 开始在乎前途和未来， 我知道那个我回来了。 2、 拖拖拉拉地熬夜不睡觉， 根本没一点好处。 天一黑就赶快钻进被窝， 早上跟着太阳一起醒来， 这样再好不…</content>
+    <link href="https://www.zhihu.com/people/da-jing-71-8"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/442128772/answer/1721589339</id>
+    <title>物理学话题下的优秀答主</title>
+    <updated>2024-02-09T07:21:29.924731+00:00</updated>
+    <content>笠道梓： 谢邀。今天互联网很发达，国外的学习材料开放度也很高，找到学习材料不可能是件难事。而且，这种获得，收集和处理信息的能力，是很基本的，是现代公民都应该具有的能力，无论是学习，思考，研究，还是工作，交往，消费，娱乐，都是必要的啊，没有这个能力就是联合国教科文组织定义的“文盲”： The most important c…</content>
+    <link href="https://www.zhihu.com/question/442128772/answer/1721589339"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/613407791</id>
+    <title>Bert/Transformer 被忽视的细节（或许可以用来做面试题）</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>LiteAI： 作者： 
+@Ethan Yan （已授权转载） 链接：zhuanlan.zhihu.com/p/55 点击关注 
+@LiteAI ，跟进最新Efficient AI &amp; 边缘AI &amp;am…</content>
+    <link href="https://zhuanlan.zhihu.com/p/613407791"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/588205714/answer/2935061354</id>
+    <title>如何看待Kaiming面试MIT教职?</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>匿名用户： 发张图片证明在现场。 就talk本身的质量来说，挺烂的。 整个talk几乎是用时间线来讲他之前的work， 主要是这几篇：ResNet, Faster R-CNN, Mask R-CNN, M…</content>
+    <link href="https://www.zhihu.com/question/588205714/answer/2935061354"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/460821113/answer/1911547041</id>
+    <title>如何用LaTeX打出这样的方框？</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>王一研究宇宙： tcolorbox 。这个红包有个巨长的文档，有很多选项。比如我配的 （更新：本来只想贴些关键步骤，既然大家要能编译的，那就完整贴上来了） \documentclass{article} \u…</content>
+    <link href="https://www.zhihu.com/question/460821113/answer/1911547041"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/612184540</id>
+    <title>[ICLR'23] What makes convolutional models great on long sequence modeling?</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>sonta： 引言 绝大多数的convolutional model都用到的是kernel size比较有限的local convolution，因此无法建模long-range dependencies。最近，structured state-space model (S4) 及其变种在long sequence mod…</content>
+    <link href="https://zhuanlan.zhihu.com/p/612184540"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/611878363</id>
+    <title>【NLPer收藏】最全国内外自然语言处理（NLP）研究组</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>春阳CYang： 一、中国大陆 微软亚洲研究院自然语言计算组 microsoft.com/en-us/res 清华大学自然语言处理与社会人文计算实验室 nlp.csai.tsinghua.edu.cn 清华大学智能技术与系统国家重点实验室信息检索组 thuir.cn/cms/ 北京大学计算语言学教育部重点实验室 klcl.pku.…</content>
+    <link href="https://zhuanlan.zhihu.com/p/611878363"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/32210068/answer/2771067405</id>
+    <title>对 PhD 一年级新生有什么建议？</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>芯片斯多葛： 以下建议来自导师（加拿大皇家学会院士、工程院院士，IEEE Fellow，人品性格能力等各方面都是人生楷模） No limit. Sky is the limit. Don't block yourself. Be kind and positive: never have enemy in your l…</content>
+    <link href="https://www.zhihu.com/question/32210068/answer/2771067405"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/wayne-43-34</id>
+    <title>一些非常不好的科研习惯</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>压缩即智能： 做实验不扎实，各种细节（如batch size, epoch，training data）都和论文对不齐，感觉闭着眼睛瞎搞 idea killer。都没试过就说这个也不行，那个也不行。很多研究问题都有不确定性，做出来之前没人知道结果，不应该妄下定论。什么都kill，就没有人愿意再给你idea。等一阵子别人都做…</content>
+    <link href="https://www.zhihu.com/people/wayne-43-34"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/524855881/answer/2910509381</id>
+    <title>当你开始专注于科研的过程，不再关注结果时，你会有不一样的神奇体验。</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>wildlife： 当你开始专注于科研的过程，不再关注结果时，你会有不一样的神奇体验。 当你不再急躁，懂得让自己慢下来，不再让自己迅速达成目标，你会有不一样的神奇体验。 当你把每天的科研当成一种对生命的渴望…</content>
+    <link href="https://www.zhihu.com/question/524855881/answer/2910509381"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/576529182/answer/2915612193</id>
+    <title>有没有中国版的chatGPT?</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>匿名用户： 据说复旦做了一个MOSS，内测就崩了。 朋友跟我说的时候，用了一长串哈哈哈哈哈哈哈哈。 问，你怎么这么开心？ 答: 知道我们学校技术烂，没想到如此之烂，偏偏还要拿出来秀，丢人丢到姥姥家了，我这叫悲极生乐。 Orz ———— 续更的分割线 ———— 对不住各位fudaner ，只是答主和朋友的日常闲聊，随手一贴，没想到有了…</content>
+    <link href="https://www.zhihu.com/question/576529182/answer/2915612193"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/302155448/answer/2689453425</id>
+    <title>WEB3 会炼丹的白嫖区答主</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>孤飞： 开源的学习资源：《NLP 新手入门指南》，项目作者为北京大学 TANGENT 实验室成员。 该指南主要提供了 NLP 学习入门引导、常见任务的开发实现、各大技术教程与文献的相关推荐等内容，是一份非常全的适合新手小白初学入门的权威指南。 值得mark! 以下正文： 本教程供新加入 TANGENT 实验室的同学入门 NL…</content>
+    <link href="https://www.zhihu.com/question/302155448/answer/2689453425"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/333935054/answer/743264680</id>
+    <title>为什么很多人说RL不适合用来做NLP ?</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>俞扬： 我认为不是说RL不适合用来做NLP，是目前NLP的任务还没有进展到非要用RL不可的阶段，而如果一个任务不是非RL不可，那就完成可能设计出更好的非RL替代方法。 另外说一下我想象的所谓RL阶段NLP。目前NLP领域主要是基于数据集进行学习，NLP有不少序列决策问题，然而如果是从数据集来学，做成序列决策是不方便的，所以…</content>
+    <link href="https://www.zhihu.com/question/333935054/answer/743264680"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//lwn.net/Articles/250967/</id>
+    <title>每个程序员都应该了解的内存知识（What every programmer should know about memory）</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>Atled： 每个程序员都应该了解的内存知识（What every programmer should know about memory） lwn.net/Articles/250967 people.f…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//lwn.net/Articles/250967/"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/38253477/answer/2921374436</id>
+    <title>让大家一起分享知识的快乐吧</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>来与去： 在基础数学方向，有很多优秀的讲义、笔记、教材和手册可以供学习者使用。下面列举了一些我认为不错的讲义/notes/polycopiés/skript，供大家参考。 MIT OpenCourseWare数学系列 MIT OpenCourseWare提供了数学系列课程的讲义，这些讲义包括从微积分到拓扑的广泛内容，以及线性…</content>
+    <link href="https://www.zhihu.com/question/38253477/answer/2921374436"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/53150027/answer/153024335</id>
+    <title>The Elements of Statistical Learning 需要怎样的数学基础才能读懂？</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>岳子涵： 最近几个月正好在看这本书，目前进展到第十五章，就当写个总结了。 第一章没什么好说的，简单介绍了一下机器学习的几个例子以及本书用到的数据集。 第二章基本上是全书的概览，分类问题，回归问题，偏差-方差分解，维度灾难，以及一些结构化的模型，这一章用到的数学就是一些统计学最基本的概念，期望、条件期望、方差等，当然求解线性回…</content>
+    <link href="https://www.zhihu.com/question/53150027/answer/153024335"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/439461758/answer/1972975457</id>
+    <title>南加大硕+中传本/导演+市场总监/脑洞大开少女/创业人</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>一碗咕咪酱： 中国好导师 激动写下长文 指导门下博士脱单 最后，也欢迎各位来我的其他空间踩踩～ 即刻/微博：一碗咕咪酱 小红书：黑糖鹿丸噗哩 会分享一些生活、留学、职场的感悟/干货/心得，也会分享些好玩有趣的段子…</content>
+    <link href="https://www.zhihu.com/question/439461758/answer/1972975457"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/26668084/answer/33594596</id>
+    <title>迪丽热巴与曾黎研究中心主任</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>山木今可否： 这书网上能找到pdf,然后你也不需要找什么其他的书了,用过都说好,谁用谁知道. 最赞的是这本书的课后习题,环环相扣,一步步夯实你对概念的理解. 最牛逼的是这些习题还能给你营造出一种你解决了…</content>
+    <link href="https://www.zhihu.com/question/26668084/answer/33594596"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/586365516/answer/2915796088</id>
+    <title>怎么看待美国国务卿布林肯称“美国人不喜欢一个大国欺负另一个国家”？</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>科技大昊哥： 这个动图可以说明一切…</content>
+    <link href="https://www.zhihu.com/question/586365516/answer/2915796088"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/359740428/answer/2920349381</id>
+    <title>Seisfish</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>Seisfish： 就在刚刚，我的导师跟同事谈到我时说，"Now Yu is a senior PhD candidate and he is capable of doing what interests him the most. Even though his current project is a bi…</content>
+    <link href="https://www.zhihu.com/question/359740428/answer/2920349381"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/47852685</id>
+    <title>Some Pattern on Programming</title>
+    <updated>2024-02-09T07:20:58.611290+00:00</updated>
+    <content>圆角骑士魔理沙： 我想说一些旧闻。更准确的说，我收集了很多旧闻，想整理一下，变成一个没那么旧的旧闻。 0：对于很多编程语言，我们真能做到‘给出编程语言X跟Y，给X一步步加功能，修改下原本的功能，最后成为Y’。我们姑且叫这做计算力吧。这方面的Work数不胜数。 对于Effect，我们有： C is a purely functi…</content>
+    <link href="https://zhuanlan.zhihu.com/p/47852685"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/53011711/answer/139280504</id>
+    <title>word2vec 相比之前的 Word Embedding 方法好在什么地方？</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>邱锡鹏： Word2vec训练方面采用的HSoftmax以及负采样确实可以认为是创新不大。但Word2vec流行的主要原因也不在于此。主要原因在于以下3点： 1. 极快的训练速度。以前的语言模型优化的目标是MLE，只能说词向量是其副产品。Mikolov应该是第一个提出抛弃MLE（和困惑度）指标，就是要学习一个好的词嵌入。如…</content>
+    <link href="https://www.zhihu.com/question/53011711/answer/139280504"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/589520232/answer/2939872580</id>
+    <title>如何面对自己的 PhD 申请大失败？是否还要坚持读博？</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>匿名用户： 第一，这是什么奇葩卷怪？我以为PhD申请大失败是全聚德，没想到是有BU offer。你要是这么矫情你就拒了offer把机会留给别人。 第二，看看理论计算机界的巨佬Ryan Williams：…</content>
+    <link href="https://www.zhihu.com/question/589520232/answer/2939872580"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/zjfzhihu</id>
+    <title>nvitop: 史上最强GPU性能实时监测工具</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>AGI之心： Code: github.com/XuehaiPan/nv 引言 相信大家在用NVIDIA-GPU训练网络模型的时候，都会习惯性的在终端 nvidia-smi 一下吧？最直接的目的是为了查看哪些卡…</content>
+    <link href="https://www.zhihu.com/people/zjfzhihu"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/xj-rao</id>
+    <title>使用gpt4辅助做Codeforces</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>raoxj： 注意到gpt4的考试测评中在Codeforces一项表现奇差无比，但是很好奇实际上是哪种差，到底差到什么程度，以及能不能在一个合作的人类的帮助下，解出一些需要相对复杂的数学推导的题目（gpt4在部分复杂的数学考试中比前一代有巨大提升，听起来有希望）。如果能的话，cf红名就指日可待了。 这里全篇都在假设一个合作…</content>
+    <link href="https://www.zhihu.com/people/xj-rao"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/614091304</id>
+    <title>大脑里真有ResNet！全球首张「果蝇大脑连接组」面世：耗费十余年，重建三千神经元，超50万突触！</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>新智元： 编辑：LRS 【新智元导读】果蝇幼虫大脑连接组有了，重建人类大脑还远远远远远...... 虽说现代的深度学习早已脱离对「生物神经网络」的模仿，但了解生物大脑的运行机制，对于神经网络模型的未来发展仍然很有帮助。 大脑回路的结构方式影响着大脑的计算能力，但到目前为止，除了在一些非常简单的生物体中，仍然还没有看到任何大脑的…</content>
+    <link href="https://zhuanlan.zhihu.com/p/614091304"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/crowowrk</id>
+    <title>TVM Unity与新一代机器学习编译技术</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>陈天奇： 2023年03月16日，TVMCon在线举行。在上一次TVMCon我们展望了如何突破当前机器学习编译解决方案碰到的瓶颈，并且提出了TVM Unity的技术展望。过去一年我们通过M…</content>
+    <link href="https://www.zhihu.com/people/crowowrk"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/588325646/answer/2929224109</id>
+    <title>为什么现在的LLM都是Decoder only的架构？</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>叉烧包包： 贴一个Google Brain的回答： 个人认为，人们发现模型在scale up之后，尤其是加上instruction tuning之后，其他架构能做的decoder-only模型也都能做了（…</content>
+    <link href="https://www.zhihu.com/question/588325646/answer/2929224109"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/588325646/answer/2940298964</id>
+    <title>为什么现在的LLM都是Decoder only的架构？</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>苏剑林： 从理论视角强答一波，大部分结论源自个人实验，可能会有偏差。 原文链接： 结论： LLM之所以主要都用Decoder-only架构，除了训练效率和工程实现上的优势外，在理论上是因为Encoder的双向…</content>
+    <link href="https://www.zhihu.com/question/588325646/answer/2940298964"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/nipi</id>
+    <title>文本分类中的label embedding</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>uuuuu： 在云栖大会上，听到了小蜜的老师分享的。关于意图识别，提到了match的方法，用的label embedding，不太了解，整理一下 这里的label embedding， 指的是，将一个la…</content>
+    <link href="https://www.zhihu.com/people/nipi"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/liang-zhi-hao-3-22</id>
+    <title>NeRF系列工作个人总结</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>氵景页： 前言 在 NeRF 这个领域也算做了有一段时间了，这段时间在知乎上很难看到有比较有深度还有系统性的关于 NeRF 的总结。于是萌生了写这个个人总结的想法，也算是给自己的一个交代。我将沿着我自己工…</content>
+    <link href="https://www.zhihu.com/people/liang-zhi-hao-3-22"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/60648826/answer/179181973</id>
+    <title>NLPer@PowerLaw AI</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>涂存超： 谢老板
+@刘知远 邀请。 了解过一些word embedding的工作，做过一些network embedding(graph embedding)的工作，对于维度的选择，根据个人经验，感觉需要从…</content>
+    <link href="https://www.zhihu.com/question/60648826/answer/179181973"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/588325646/answer/2928836108</id>
+    <title>为什么现在的LLM都是Decoder only的架构？</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>Erutan Lai： 一些猜测。 1、GPT 系列一直在用Decoder only的结构，而最近大家都看到GPT系列做得不错，让你产生了LLM都是Decoder only的架构的错觉。 2、其实LM一般都是Decoder only的，从古老的 n-gram LM 到 RNNLM 再到 LLM 都是。 3、BERT 搞得 ma…</content>
+    <link href="https://www.zhihu.com/question/588325646/answer/2928836108"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/xyor-wz</id>
+    <title>一本分析与数值并重的偏微分方程教材</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>xyor wz： 最近，我曾经关注过的一本德国PDE教材出了英译本，在此推荐给感兴趣的读者。 这本书是Wolfgang Arendt , Karsten Urban所著的(GTM 294)Partial…</content>
+    <link href="https://www.zhihu.com/people/xyor-wz"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/374835153/answer/2108264167</id>
+    <title>为什么 Bert 的三个 Embedding 可以进行相加？</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>铁心核桃：
  
+铁心核桃
+ 13 次咨询 
+ 
+5.0
+ 清华大学 工学博士
 
- <title>手谈姬</title>
- <description>这是手谈姬的 feed</description>
- <link>https://localhost:3000</link>
- <lastBuildDate>Mon, 05 Feb 2024 22:53:39 -0800</lastBuildDate>
- <pubDate>Mon, 05 Feb 2024 22:53:39 -0800</pubDate>
- <ttl>60</ttl>
- <item>
-  <title>姬音惊</title>
-  <link>https://mp.weixin.qq.com/s?__biz=MzkzMzYxMDE0Mg==&amp;mid=2247555239&amp;idx=1&amp;sn=21b8790ade8dfde013a99a9e54d33691&amp;chksm=c24b8f56f53c064075d733618a1274db9cff75aac98cfba23b6921f3df18f59c0eadadfb5401&amp;scene=58&amp;subscene=0#rd</link>
-  <pubDate>Mon, 05 Feb 2024 22:48:04 -0800</pubDate>
-  <guid isPermaLink="false">16</guid>
- </item>
- <item>
-  <title>成人漫画家的全年龄向作品，引网友围观感叹</title>
-  <link>https://mp.weixin.qq.com/s?__biz=MzkzMzYxMDE0Mg==&amp;mid=2247555275&amp;idx=1&amp;sn=ff0249452fdedadff98d35f59adad576&amp;chksm=c24b8f3af53c062c7adc6edd367b0f8a2559a790c523fe40fbbcc04e0abad277669464e14fa9&amp;scene=58&amp;subscene=0#rd</link>
-  <pubDate>Mon, 05 Feb 2024 22:48:04 -0800</pubDate>
-  <guid isPermaLink="false">15</guid>
- </item>
- <item>
-  <title>那部以“哒咩 哒咩”破圈的作品，出中文音声了</title>
-  <link>https://mp.weixin.qq.com/s?__biz=MzkzMzYxMDE0Mg==&amp;mid=2247555322&amp;idx=1&amp;sn=e4392360962cc86e14b2dda59add6a22&amp;chksm=c24b8f0bf53c061dc157fee1b8d9913c9688fe1cc7357bf6babc52f6438fd4f1915811c622bc&amp;scene=58&amp;subscene=0#rd</link>
-  <pubDate>Mon, 05 Feb 2024 22:48:04 -0800</pubDate>
-  <guid isPermaLink="false">14</guid>
- </item>
- <item>
-  <title>《恋与制作人》新卡的尺度引热议</title>
-  <link>https://mp.weixin.qq.com/s?__biz=MzkzMzYxMDE0Mg==&amp;mid=2247555425&amp;idx=2&amp;sn=6596e69e310fc36dfb3304f67c79cf03&amp;chksm=c24b8e90f53c07861a643571cc8940760b806af9287f31e9d576ec96e3e9998a0779cf29d405&amp;scene=58&amp;subscene=0#rd</link>
-  <pubDate>Mon, 05 Feb 2024 22:48:04 -0800</pubDate>
-  <guid isPermaLink="false">13</guid>
- </item>
- <item>
-  <title>与其等着春晚跳科目三包饺子，我推荐你看这个！</title>
-  <link>https://mp.weixin.qq.com/s?__biz=MzkzMzYxMDE0Mg==&amp;mid=2247555425&amp;idx=1&amp;sn=e5bed974c675fbd0853cd708e2f6c0e7&amp;chksm=c24b8e90f53c07865909765cf83c2eacc13d83b914a0a63d37ce5c4ef199f25cacc7b1a6daa4&amp;scene=58&amp;subscene=0#rd</link>
-  <pubDate>Mon, 05 Feb 2024 22:48:04 -0800</pubDate>
-  <guid isPermaLink="false">12</guid>
- </item>
- <item>
-  <title>《倩女幽魂》手游在狂送内裤</title>
-  <link>https://mp.weixin.qq.com/s?__biz=MzkzMzYxMDE0Mg==&amp;mid=2247555488&amp;idx=2&amp;sn=7548d3e7ecf1670e38235431d27968d1&amp;chksm=c24b8e51f53c07472eea298c59f02109687c73b72c59ee651410f6976094b019a858797fa1b8&amp;scene=58&amp;subscene=0#rd</link>
-  <pubDate>Mon, 05 Feb 2024 22:48:04 -0800</pubDate>
-  <guid isPermaLink="false">11</guid>
- </item>
- <item>
-  <title>导管仙人、白墨乱喷、大腚怼脸，这群玩家怎么就整成了癫佬传奇？</title>
-  <link>https://mp.weixin.qq.com/s?__biz=MzkzMzYxMDE0Mg==&amp;mid=2247555488&amp;idx=1&amp;sn=94272a42dc4dd99ebc9c6c44355b576b&amp;chksm=c24b8e51f53c0747c66912b7f855e05fd2b91715aa182fdd50c34591e92b0b8a863cc126ecbe&amp;scene=58&amp;subscene=0#rd</link>
-  <pubDate>Mon, 05 Feb 2024 22:48:04 -0800</pubDate>
-  <guid isPermaLink="false">10</guid>
- </item>
- <item>
-  <title>因作品被魔改，原作作者愤而自杀。</title>
-  <link>https://mp.weixin.qq.com/s?__biz=MzkzMzYxMDE0Mg==&amp;mid=2247555532&amp;idx=1&amp;sn=f3c2e8e3aff820abe2a47aad6cc54ee7&amp;chksm=c24b8e3df53c072bb804d589bb79f124886b9bbab9cc5801fe971770d512580a43268a891b29&amp;scene=58&amp;subscene=0#rd</link>
-  <pubDate>Mon, 05 Feb 2024 22:48:04 -0800</pubDate>
-  <guid isPermaLink="false">9</guid>
- </item>
- <item>
-  <title>宁愿和AI模拟对话，也不愿和家人真正对话</title>
-  <link>https://mp.weixin.qq.com/s?__biz=MzkzMzYxMDE0Mg==&amp;mid=2247555563&amp;idx=1&amp;sn=74f924159ff943701f770a4e9fcede12&amp;chksm=c24b8e1af53c070c7f921a659e414b97343985cc2e6b57e18355b92a526747767b9792d02b7e&amp;scene=58&amp;subscene=0#rd</link>
-  <pubDate>Mon, 05 Feb 2024 22:48:04 -0800</pubDate>
-  <guid isPermaLink="false">8</guid>
- </item>
- <item>
-  <title>重大通知：手谈姬要结婚了</title>
-  <link>https://mp.weixin.qq.com/s?__biz=MzkzMzYxMDE0Mg==&amp;mid=2247555601&amp;idx=1&amp;sn=47cc6f2c2ca6c5ae25373e861de12c85&amp;chksm=c24b8de0f53c04f69f9534ca964b70fca3b49f479714ff77d36421334d88a5aad324b4c83f0c&amp;scene=58&amp;subscene=0#rd</link>
-  <pubDate>Mon, 05 Feb 2024 22:48:04 -0800</pubDate>
-  <guid isPermaLink="false">7</guid>
- </item>
+ 12009 次赞同
 
-</channel>
-</rss>
+去咨询 之前回答这个问题写了巨多，但答非所问。用“BERT如何做的嵌入”或者是“BERT的输入是什么”回答了“为什么 Bert 的三个 Embedding 可以进行相加”这个问题。这里按照题意，重新…</content>
+    <link href="https://www.zhihu.com/question/374835153/answer/2108264167"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/588325646/answer/2932131238</id>
+    <title>为什么现在的LLM都是Decoder only的架构？</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>Minimum： 这个问题还挺值得思考的。在这里从一个NLP从业者的角度来说一说decoder-only的优点，也讨论一下encoder-decoder模型会不会有翻身的空间。 1. 更好的Zero-Sh…</content>
+    <link href="https://www.zhihu.com/question/588325646/answer/2932131238"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/36324957/answer/68133666</id>
+    <title>ML @ Google Research</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>曾文俊： 取决于你想学的程度，只是想混口饭吃没有太多必要花很多时间补别的东西，不用看懂证明，你知道的大概，能用软件做出个结果就够了。 想认真学的话： 1. 数学方面：微积分、矩阵论 矩阵这一块，了解的越多对你推倒计算方面能力的提升提高非常多。当然，只想看懂不要求证明的话，本科的线性代数够用了(我指的是真的好好学线性代数...)…</content>
+    <link href="https://www.zhihu.com/question/36324957/answer/68133666"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/36324957/answer/292226166</id>
+    <title>阔别知乎三年。我又回来啦。</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>打铁烧砖： 谢
+@杉数科技 邀。顺便附上我本人在本科和硕士曾经读过的这方面的书。 关于机器学习所需要的数学知识，个人认为包含以下几个方面： 必须（不会的话，根本玩不转的） 概率论与数理统计。相当于大学工科概率论或者数理统计。这个一定要会，因为很多机器学习的数学推导就是基于概率论的。而且概率论+数理统计与许多机器学习的知识体系和思…</content>
+    <link href="https://www.zhihu.com/question/36324957/answer/292226166"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/36324957/answer/232838379</id>
+    <title>数学等 2 个话题下的优秀答主</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>机器之心： 机器之心整理 本文作者依据自身经验给出了一套快速上手的可行方法及学习资源的分类汇总，机器之心在其基础上做了增益，希望对读者有所帮助。 先决条件 机器学习的基础是数学。数学并非是一个可选可不选的理论方法，而是不可或缺的支柱。如果你是一名计算机工程师，每天使用 UML、ORM、设计模式及其他软件工程工具／技术，那么请闭…</content>
+    <link href="https://www.zhihu.com/question/36324957/answer/232838379"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/589094770/answer/2935864461</id>
+    <title>如何看待 Together 推出的开源聊天大模型 OpenChatKit？能否替代 ChatGPT？</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>wuxiaojun： 作为普通用户，非常感谢开源，让大家在避免被openai统治的路上再次迈出了重要的一步！ 它包含 基于 EleutherAI 的 GPT-NeoX-20B预训练语言模型，并且在 4300…</content>
+    <link href="https://www.zhihu.com/question/589094770/answer/2935864461"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/xie-tian-bao-69</id>
+    <title>从海量论文内化到脉络的一些经验：渠道篇</title>
+    <updated>2024-02-09T07:20:47.013927+00:00</updated>
+    <content>Timothyxxx： 最近一位朋友联系我请教为什么能整理出来一个领域的重要的工作捋出来一条线，在有些时候还能稍微走在很前沿的上道的地方。我把一些自己的经验贴出来，希望能帮助大家 我一般从这些渠道收集论文。 1）重要论文的 "相关工作 "部分，它指出了在该领域工作很久的作者的观点，他比我们熟悉很多，是一个捋出…</content>
+    <link href="https://www.zhihu.com/people/xie-tian-bao-69"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/600466715</id>
+    <title>ICLR 2023：环境标签平滑，一行代码提升对抗学习稳定性/泛化性</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>yearn： Domain adaptation（DA: 域自适应），Domain generalization（DG: 域泛化）一直以来都是各大顶会的热门研究方向。DA假设我们有有一个带标签的训练集（源域），这时候我们想让模型在另一个数据集上同样表现很好（目标域），利用目标域的无标签数据，提升模型在域间的适应能力是DA…</content>
+    <link href="https://zhuanlan.zhihu.com/p/600466715"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/org/teng-xun-yun-ji-zhu-she-qu</id>
+    <title>这波可以，终于有内行人把 GPT-4 说透了。</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>腾讯云开发者： 腾小云导读 近三个月 ChatGPT 方兴未艾，昨日凌晨 OpenAI 趁势发布多模态预训练大模型 GPT-4 ，其能力的升级和应用的拓展又一次引爆国内外网络。腾讯算法工程师冉昱将通过1…</content>
+    <link href="https://www.zhihu.com/org/teng-xun-yun-ji-zhu-she-qu"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/599887666</id>
+    <title>十分钟读懂Diffusion：图解Diffusion扩散模型</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>绝密伏击： 在之前的文章中，我们曾经介绍过Diffusion的具体原理，但是讲的还是比较偏理论，为了让大家快速了解Diffusion原理，这篇文章我们通过图解的方式。 1. Diffusion文字生成图片…</content>
+    <link href="https://zhuanlan.zhihu.com/p/599887666"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/be_with_you</id>
+    <title>LoRA:大型语言模型的低秩适配器</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>Johnson7788： 原文：LORA： LOW-RANK ADAPTATION OF LARGE LAN-GUAGE MODELS 作者： Edward Hu∗ Yelong Shen∗ Philli…</content>
+    <link href="https://www.zhihu.com/people/be_with_you"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/he009</id>
+    <title>BLIP2：下一代多模态模型的雏形</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>竹鼠商人： 最近ChatGPT风头正劲，但只能理解文字或多或少限制其才华的发挥。得益于Transformer在NLP和CV领域的大放异彩，多模态近几年取得了非常大的进步。但之前的工作大多数局限在几个特定…</content>
+    <link href="https://www.zhihu.com/people/he009"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/590152131/answer/2941812514</id>
+    <title>集成 GPT-4 的代码生成器 Cursor 使用体验如何？怎么用更高效？</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>赤子泛舟： 可恶它不但降级，还开始收费了！刚开始几天是免费的，甚至还是免费GPT4，本文的回答是在当时背景下完成的，望周知。 -- 以下原回答 在读研究生，虽然算是从事AI相关的领域，各种diffusion…</content>
+    <link href="https://www.zhihu.com/question/590152131/answer/2941812514"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/22331856/answer/2942179586</id>
+    <title>IEEE Folk Fellow</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>华年ss： 本课程来自加州伯克利大学2022年春季课程 UCB CS267并行计算机应用。主讲人为Aydın Buluç 和 Jim Demmel。课程地址包括视频与幻灯片。 本文将收录于以下专栏 本号…</content>
+    <link href="https://www.zhihu.com/question/22331856/answer/2942179586"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/54743941</id>
+    <title>有了Transformer框架后是不是RNN完全可以废弃了？</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>张俊林： 结论是很显然的，目前很多研究表明Transformer在各方面相对CNN和RNN占据优势，尤其RNN劣势非常明显。 可以参考分析文章：放弃幻想，全面拥抱Transformer：自然语言处理三大特征抽取器（CNN/RNN/TF）比较 进退维谷的RNN 为什么说RNN进退维谷呢？有几个原因。 首先，如果靠原生的RNN…</content>
+    <link href="https://zhuanlan.zhihu.com/p/54743941"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//johanwind.github.io/2023/03/23/rwkv_details.html</id>
+    <title>RWKV的RNN CNN二象性</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>sonta： 推荐阅读：johanwind.github.io/202 03/29更新：对照着「推荐阅读」矫正了一些公式，之前理解出现了一些小偏差，但影响不大 :) 前言 Decoder-only LLM已经展现出了足够惊艳的能力，但基于Transformer的模型的自回归解码复杂度相较于RNN还是过高。另外一个非常有竞争力…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//johanwind.github.io/2023/03/23/rwkv_details.html"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/612504717</id>
+    <title>ChatGPT作者John Schulman：我们成功的秘密武器</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>OneFlow： 来源｜TalkRL OneFlow编译 翻译｜杨婷、徐佳渝、贾川 除了OpenAI，外界可能很少有人知道ChatGPT模型成功的真正原因，实际上，OpenAI也会对ChatGPT拥有的巨大影…</content>
+    <link href="https://zhuanlan.zhihu.com/p/612504717"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/560134313/answer/2731254368</id>
+    <title>为什么强化学习里很少有预训练模型（Pretrained Model）？</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>赵鉴： 今年去大厂面试，都是问你想不想干决策大模型。。。说明强化学习的预训练模型已经箭在弦上，不得不发了。 目前AI的应用模式，基本就是各大大厂有个参数量庞大的预训练模型，然后下游来任务，就在少量（相对）数据上进行finetune。这样呢既保证了商业护城河（预训练模型的质量和大小），然后呢又保证了AI领域所谓的开源性（你看…</content>
+    <link href="https://www.zhihu.com/question/560134313/answer/2731254368"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/587976656/answer/2938887516</id>
+    <title>Eric</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>Eric： 如果你用的是torch.nn.MultiheadAttention，并且设置了dropout，你有可能忽略的是：torch.nn.MultiheadAttention里的dropout不是对输出的dropout，而是对注意力权重的dropout。 见官方文档 torch.nn.MultiheadAttentio…</content>
+    <link href="https://www.zhihu.com/question/587976656/answer/2938887516"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yuan-dong-39</id>
+    <title>深度学习编译器印象</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>袁进辉： 最近Google推出了MLIR，很多朋友在关注，深度学习编译器这个话题备受关注。我们公司也在研究这些问题，走马观花研究了一下常见深度学习编译器的源代码，包括Google XLA, MLIR，Facebook Glow, TC, DLMC TVM, MIT Tiramisu，把一些印象和见解发表出来，抛砖引玉，希…</content>
+    <link href="https://www.zhihu.com/people/yuan-dong-39"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/615227156</id>
+    <title>Alpaca-Lora:训练你自己的ChatGPT</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>LokLok： 最近在测试开源chatgpt方案的时候发现了这个alpace-lora， 确实是行。简单来说就是仍旧使用alpaca那套训练数据，仍旧基于LLaMA 7B, 但是把训练方式改成用lora训练，我测试下来V100上3个epoch（1000+ step）大概需要8个小时左右，就可以达到和alpaca差不多的效…</content>
+    <link href="https://zhuanlan.zhihu.com/p/615227156"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//tvm.apache.org/docs/tutorial/relay_quick_start.html</id>
+    <title>【TVM 学习资料】快速入门：编译深度学习模型</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>HyperAI超神经： 本篇文章译自英文文档 Quick Start Tutorial for Compiling Deep Learning Models 作者是 Yao Wang,Truman Tian。更多 TVM 中文文档可访问→ TVM 中文站 这个例子展示了如何用 Relay Python 前端构建神经网络，并…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//tvm.apache.org/docs/tutorial/relay_quick_start.html"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/615233365</id>
+    <title>Transformer 是一种逻辑 rules-base</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>甄景贤： 这个想法是我们的 AGI 理论的一个基石，之前已经讲过，这是最新的最易懂的版本： PDF 下载：github.com/Cybernetic1/ 下一步也是达到 AGI 的最后一步，就是将 Tran…</content>
+    <link href="https://zhuanlan.zhihu.com/p/615233365"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/615131132</id>
+    <title>五段代码复现Alpaca-LoRA：A minimal Implementation of Alpaca-LoRA</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>JerryYin777： Alpaca-LoRA: Low-Rank LLaMA Instruct-Tuning !pip install bitsandbytes !pip install -q da…</content>
+    <link href="https://zhuanlan.zhihu.com/p/615131132"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/lqfarmer</id>
+    <title>深挖 ChatGPT 原理，保姆级解说！</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>深度学习与NLP： 最近，很多非常聪明、精通技术的人都在讨论 ChatGPT，但我感觉他们都没有说到点上，他们对这款机器人的核心组件以及各个部分如何协同工作，并没有透彻理解。 需要说明的是，我并不是说自己了解 ChatGPT 的一切。我和其他人一样，包括活跃的机器学习研究人员，仍在学习和思考中。 我希望通过本文说明一下自己的…</content>
+    <link href="https://www.zhihu.com/people/lqfarmer"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/589639535/answer/2938505487</id>
+    <title>OpenAI 发布 GPT-4，有哪些技术上的优化或突破？</title>
+    <updated>2024-02-09T07:20:34.037587+00:00</updated>
+    <content>孙天祥： （简答一下，后面有空再仔细分析） TLDR: GPT-4相对于3.5的突破远小于3.5相对于3的突破 论文里所谓的core component: Predictable scaling跟之前讲的emergent ability是相互矛盾的，能预测就不是涌现，是涌现就没法预测。技术报告里也提到有的数据集没法预测，而能…</content>
+    <link href="https://www.zhihu.com/question/589639535/answer/2938505487"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/587479829/answer/2944825280</id>
+    <title>清华创客空间创始人/Coding/Gaming</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>Maker毕： 我用openai的示例放到LLaMA上做了一些对比测试，给大家看看对比效果。没放出来的例子就是效果太差了答非所问。 我测试的基本配置参数： 系统：Windows 11 显卡：2070 内存：32…</content>
+    <link href="https://www.zhihu.com/question/587479829/answer/2944825280"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/586501015/answer/2946173154</id>
+    <title>高考话题下的优秀答主</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>rq cen： 看完的都说好系列： 《The Calculus Lifesaver: All the Tools You Need to Excel at Calculus》/《普林斯顿微积分读本》（Adrian Banner） 《Linear Algebra and Its Applications》/《线性代数及其应用》…</content>
+    <link href="https://www.zhihu.com/question/586501015/answer/2946173154"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yang-qun-7</id>
+    <title>NVIDIA GPU性能优化基础</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>起名困难症： 1 introduction 本文介绍NVIDIA GPU上做性能优化的一些基础知识，包括SM structure, memory hierarchy, execution model等体系…</content>
+    <link href="https://www.zhihu.com/people/yang-qun-7"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/21823487/answer/2948375749</id>
+    <title>神经科学话题下的优秀答主</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>神经现实： 当斯坦福大学心理学教授李·罗斯（Lee Ross）向他的学生解释“基本归因错误”（fundamental attribution error）的含义时，他喜欢引用乔治·卡林（George C…</content>
+    <link href="https://www.zhihu.com/question/21823487/answer/2948375749"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/615905432</id>
+    <title>AIGC放大招了！Action-GPT：利用GPT实现任意文本生成动作！</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>LiteAI： 作者： 
+@数源AI （已授权转载） 链接：zhuanlan.zhihu.com/p/61 点击关注 
+@LiteAI ，跟进最新Efficient AI &amp; 边缘AI &amp; 模型轻量化技术，跟进最新DL &amp; CV技术。 从Stable Diffusion 大火以来，AIGC相关的方法和应用成…</content>
+    <link href="https://zhuanlan.zhihu.com/p/615905432"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/lucy-cheng-9</id>
+    <title>家电家居 | 数码产品 | 幸福生活好物测评 ✨</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>郑自律： 1、 你开始炫耀自己，往往都是灾难的开始，就像老子在《道德经》里写到： 光而不耀，静水流深。 2、 一个冷知识： 屏蔽力是一个人最顶级的能力，任何消耗你的人和事，多看一眼都是你的不对。 3、 如果别人说你两…</content>
+    <link href="https://www.zhihu.com/people/lucy-cheng-9"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/616212110</id>
+    <title>Knowledge Neurons in Pretrained Transformers 北大-微软使用积分梯度从Transformer的FFN层提取“知识神经元”</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>LiteAI： 作者： 
+@雨伞 （已授权转载） 链接：zhuanlan.zhihu.com/p/61 点击关注 
+@LiteAI ，跟进最新Efficient AI &amp; 边缘AI &amp; 模型轻量化技术，跟进最新DL &amp; CV技术。 chatGPT提供强大的检索能力，体现了大模型作为知识图谱的潜力。一般的知识…</content>
+    <link href="https://zhuanlan.zhihu.com/p/616212110"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/615646636</id>
+    <title>Alpaca-Lora (羊驼-Lora): 轻量级 ChatGPT 的开源实现（对标 Standford Alpaca）</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>珍妮的选择： 总览 本文介绍 Alpaca-Lora (羊驼-Lora)，可以认为是 ChatGPT 轻量级的开源版本，它使用 Lora (Low-rank Adaptation) 技术在 Meta 的…</content>
+    <link href="https://zhuanlan.zhihu.com/p/615646636"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/615293984</id>
+    <title>开源 ChatFlow：打破流程设计的壁垒，让  ChatGPT 为你提供高质量的服务</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>phodal： 太长不读版：ChatFlow 作为一个正经的开源项目，现在你可以在 ClickPrompt 上完成一切工作以外的活动：角色扮演、玩游戏、看小说、AI 画画等等，如下图所示： 于是，我们抽取…</content>
+    <link href="https://zhuanlan.zhihu.com/p/615293984"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2211.12507</id>
+    <title>OpenFE: 开源的高性能特征自动生成器，生成与机器学习专家相媲美的特征</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>Spectator： 论文 | OpenFE: Automated Feature Generation beyond Expert-level Performance 代码 | github.com/Z…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2211.12507"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/615442395</id>
+    <title>5 个令人惊艳的 ChatGPT 项目，开源了！</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>GitHub Daily： 自 3 月初 Open AI 开放 ChatGPT API 以来，GitHub 上诞生的开源项目数量之多，着实多得让我眼花缭乱、应接不暇。 今天，我将着重挑选几个对日常工作、生…</content>
+    <link href="https://zhuanlan.zhihu.com/p/615442395"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2210.11416.pdf</id>
+    <title>使用 DeepSpeed 和 Hugging Face 🤗 Transformer 微调 FLAN-T5 XL/XXL</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>Hugging Face： Scaling Instruction-Finetuned Language Models 论文发布了 FLAN-T5 模型，它是 T5 模型的增强版。FLAN-T5 由很多…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2210.11416.pdf"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/524848351/answer/2941325935</id>
+    <title>公众号：【毛荷西】家居家电｜产品测评｜数码科技｜合作看简</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>毛荷西： 1.很多人喜欢你，是因为你有点漂亮，好看，懂事，而有的人喜欢你是看你哭了，明白你的狼狈，他提着小灯，坐到你的身边，想把肩膀和糖果都给你 2.“我一米五都没有，好难受” “玫瑰花不需要长高，小王子会…</content>
+    <link href="https://www.zhihu.com/question/524848351/answer/2941325935"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/li-xin-chun-6-51</id>
+    <title>Metric Learning科普文</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>李新春： 度量学习（Metric Learning）是机器学习里面的一个研究方向，主要是用来学习一个距离或者用来降维，比如PCA、NCA等等都属于度量学习算法。 本文参考《A Tutorial on Di…</content>
+    <link href="https://www.zhihu.com/people/li-xin-chun-6-51"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/cvhub-40</id>
+    <title>万字长文带你入门增量学习</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>CVHub： 导读 增量学习( Incremental Learning )，亦称为持续学习( Continual Learning )或终身学习( Life-Long Learning )，是一种机器学习方法，它允…</content>
+    <link href="https://www.zhihu.com/people/cvhub-40"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yang-xu-dong-6</id>
+    <title>深度度量学习中的损失函数</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>杨旭东： 度量学习（metric learning）研究如何在一个特定的任务上学习一个距离函数，使得该距离函数能够帮助基于近邻的算法（kNN、k-means等）取得较好的性能。深度度量学习（deep m…</content>
+    <link href="https://www.zhihu.com/people/yang-xu-dong-6"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/320174043/answer/1843623987</id>
+    <title>深度学习中Attention与全连接层的区别何在？</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>Rulcy： 高票已经说得nice了，但感觉没有解惑。谈一下个人理解。实际上在实现方式上，Attention和全连接层可以说没有什么太大的区别。 比如说，网络的第一层fc Layer，我们可以认为对于输入向量的不同维度给了一组不同的权重进行组合，然后将它们映射到另一个不同维度的向量空间。这组权重如果我们把它看做Attent…</content>
+    <link href="https://www.zhihu.com/question/320174043/answer/1843623987"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/huang-jie-51-49</id>
+    <title>我的AI军械库，分享11个好用的AI工具</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>Jerry正在学AI： 最近集中体验了上百款AI工具、插件等，结合自己的体验，本次分享实际工作场景中，还算比较好用的插件和工具，后期不定期更新其他类别。 4.24更新下，最近和小伙伴们做了个prompt网站，欢迎来玩 火花spark 一、学习研究类 1.chatpdf 地址：chatpdf.com/ 好用指数：4颗星（本来5星，最近…</content>
+    <link href="https://www.zhihu.com/people/huang-jie-51-49"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIyMzA5NjEyMA%3D%3D%26mid%3D2647657787%26idx%3D1%26sn%3D1de9463b5d5e096687f21611ce94d2ff%26chksm%3Df007d16cc770587a31b73d1ee895a170dce9235cc99e89549db3426afb7b73f8e62d55ad7123%26scene%3D21%23wechat_redirect</id>
+    <title>你要的AI工具大全都在这里了！（下）</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>数字生命卡兹克： 书接上文：你要的AI工具大全都在这里了！（上） 全世界现在AI式工具多如牛毛，除了ChatGPT和midjourney以外，还有很多不为人知的非常好用的AI工具，我把我自己用过并且觉得偏…</content>
+    <link href="https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIyMzA5NjEyMA%3D%3D%26mid%3D2647657787%26idx%3D1%26sn%3D1de9463b5d5e096687f21611ce94d2ff%26chksm%3Df007d16cc770587a31b73d1ee895a170dce9235cc99e89549db3426afb7b73f8e62d55ad7123%26scene%3D21%23wechat_redirect"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/589544812/answer/2936291864</id>
+    <title>如何判断某个深度学习技术是 insight 还是 engineering trick？</title>
+    <updated>2024-02-09T07:20:12.606535+00:00</updated>
+    <content>谢凌曦： 挺好的问题，适合我发(da)表(fang)看(jue)法(ci)。在回答问题之前，先做个通俗一些的类比。 这个世纪的头十年，篮球迷中经常会讨论邓肯和奥尼尔谁更厉害的问题。当时常见的一个说法是，邓肯主要靠技术打球，而奥尼尔主要靠身体打球，所以上述讨论有时候也会变成“打篮球的时候身体和技术哪个更重要”之类的问题。很长…</content>
+    <link href="https://www.zhihu.com/question/589544812/answer/2936291864"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DdO4TPJkeaaU</id>
+    <title>压缩即智慧</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>许欣然： 最近看 
+@周昕宇 
+@周舒畅 安利的 Jack Rae 的讲座视频，Compression for AGI - Jack Rae | Stanford MLSys #76，花了点时间把为什么模型…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DdO4TPJkeaaU"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/616203793</id>
+    <title>Automated Progressive Learning for Efficient Training of Vision Transformers</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>Taki： 不积跬步无以至千里 cvpr2022 openaccess.thecvf.com/c 动机 不难看出，小模型收敛很快。 所以，这个任务的背景就是：先训小模型，用小模型的权重初始化大模型的权重，或者边训边扩大小模型的参数量，最后更快地获得大模型。 Method 非常有趣的思路，相比直接copy层之间的参数，这里引入一个 影子…</content>
+    <link href="https://zhuanlan.zhihu.com/p/616203793"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/616770567</id>
+    <title>《Life3.0读书笔记》by Max Erik Tegmark（MIT教授、物理学家、宇宙学家、机器学习研究者）</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>青青说： About the Author 作者 Max Erik Tegmark (born 5 May 1967) is a Swedish-Americanphysicist, cosmologist and machine learning researcher. He is a professor at the…</content>
+    <link href="https://zhuanlan.zhihu.com/p/616770567"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//pan.quark.cn/s/fde564363f54</id>
+    <title>天涯神贴《拔开迷雾看未来》第二篇</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>张介子： 原出处天涯论坛：《拔开迷雾看未来》 原作者：庖丁医命 原文完整版：pan.quark.cn/s/fde56436 备用链接：pan.quark.cn/s/49181c7e 第二篇 由小观大，见微知著，我们从个人的命运模型中可窥一 个国家的命运走向。 从目前的时间节点看，经济的趋势已经走到从富裕—贫 穷的阶段，我们将经历长时间的…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//pan.quark.cn/s/fde564363f54"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/xie-tian-bao-69</id>
+    <title>科学边界、GPT-4、我的博0.5</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>Timothyxxx： 前一阵和组里面的同学开玩笑讨论，面对OpenAI公司和GPT-4(或者是大家假想敌加强版的GPT-4)，真的被三体言中，和大刘笔下一样研究者们分成了三个派别： 降临派：开始拥抱大语言模型进入自己的研究，争做prompt小将(无恶意因为我也是其中一个哈哈哈)，搭建各种demo等待OpenAI收编正规军…</content>
+    <link href="https://www.zhihu.com/people/xie-tian-bao-69"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yue-ye-de-ti-cao</id>
+    <title>"but we won’t go out quietly."</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>冰度有限： 不是最近，但： 人有随时离场的权利。 人没有向他人解释的义务，除非你心甘情愿打算让他人奴役自己。 在健康的环境里疯狂通往的是毁灭，在病态的环境里疯狂通往的是超越。…</content>
+    <link href="https://www.zhihu.com/people/yue-ye-de-ti-cao"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/buhezuobugaoxing</id>
+    <title>RNN最简单有效的形式是什么？</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>sonta： 前言 RNN文艺复兴，吾辈义不容辞（ 笔者在研究RWKV的时候，想对其设计灵感进行追溯。RWKV是受到苹果的Attention-Free Transformer的启发。笔者发现Attention-Free Transformer（以及近两年state-space model的工作）跟之前简化RNN工作（例如Mi…</content>
+    <link href="https://www.zhihu.com/people/buhezuobugaoxing"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/483524293/answer/2096336966</id>
+    <title>深度学习（Deep Learning）话题下的优秀答主</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>王峰： supervised training的batch size不能简单地从字面上理解，最后一层fc的weight可以理解为每一类的template，它们代表了大量的负样本。 而contrastive learning的样本都是要过一整个网络的，负样本多少直接取决于batch size大小。…</content>
+    <link href="https://www.zhihu.com/question/483524293/answer/2096336966"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/589704718/answer/2949086341</id>
+    <title>GPT-4 发布后，你的 NLP 研究发生了怎样的变化？</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>艾伦： 坐标美国 Top 10 的 CS PhD。 最近听到很多NLP换方向的故事。我本人当初本来想做NLP方向，刚开始读博时临时改成Data Mining。 可以看到这是AI领域内的失业，将来领域外必然更…</content>
+    <link href="https://www.zhihu.com/question/589704718/answer/2949086341"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/34878706/answer/665429718</id>
+    <title>LSTM如何来避免梯度弥散和梯度爆炸？</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>Quokka： “LSTM 能解决梯度消失/梯度爆炸”是对 LSTM 的经典误解。这里我先给出几个粗线条的结论，详细的回答以后有时间了再扩展： 1、首先需要明确的是，RNN 中的梯度消失/梯度爆炸和普通的 MLP 或者深层 CNN 中梯度消失/梯度爆炸的含义不一样。MLP/CNN 中不同的层有不同的参数，各是各的梯度；而…</content>
+    <link href="https://www.zhihu.com/question/34878706/answer/665429718"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=http%3A//arxiv.org/pdf/2303.08433.pdf</id>
+    <title>【简读】The Benefits of Mixup for Feature Learning</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>ZehaoDou 窦泽皓： 20230321 第205篇 arxiv.org/pdf/2303.08433.pdf 作者：Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu Affiliations: the University of Hong Kong, Carnegie Mellon…</content>
+    <link href="https://link.zhihu.com/?target=http%3A//arxiv.org/pdf/2303.08433.pdf"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/374835153/answer/1080315948</id>
+    <title>为什么 Bert 的三个 Embedding 可以进行相加？</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>邱锡鹏： 这是个好问题。虽然在深度神经网络里变得非常复杂，本质上神经网络中每个神经元收到的信号也是“权重”相加得来。具体细节的分析这里就不提了，有兴趣的同学可以自己推一推。 这里想说一下宽泛一点的分析(瞎扯)。 在实际场景中，叠加是一个更为常态的操作。比如声音、图像等信号。一个时序的波可以用多个不同频率的正弦波叠加来表示。只…</content>
+    <link href="https://www.zhihu.com/question/374835153/answer/1080315948"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/616079388</id>
+    <title>弥补斯坦福70亿参数「羊驼」短板，精通中文的大模型来了，已开源</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>机器之心： BELLE 基于 Stanford Alpaca，对中文做了优化，模型调优仅使用由 ChatGPT 生产的数据（不包含任何其他数据）。 距离 ChatGPT 的最初发布，过去差不多四个月的时间了。就在上星期 GPT-4 发布时，ChatGPT 第一时间上线了新版本。不过众所周知的一个秘密是，不管是 ChatGP…</content>
+    <link href="https://zhuanlan.zhihu.com/p/616079388"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/512241162/answer/2935559413</id>
+    <title>智能家电|家庭自装中|数码电子（合作看简介）</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>陈知意： 1、我碰到一个女孩，前几年她很活泼开朗， 现在满身疲惫，两眼无光， 我很想安慰她，于是我伸手碰了碰镜子。 ——《我在人间凑数的日子》 2、不要怪她什么都不懂， 她只是把见识世界的时间与金钱花在了你身上。…</content>
+    <link href="https://www.zhihu.com/question/512241162/answer/2935559413"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/cvhub-40</id>
+    <title>万字长文带你入门带你入门变分自编码器</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>CVHub： 本文首发至微信公众号：CVHub，不得以任何形式转载或售卖，仅供学习，违者必究！ 导读 随着 AIGC 的火爆出圈，其背后的底层技术——扩散概率模型也逐渐浮出水面。这是一类相比于 GAN 更…</content>
+    <link href="https://www.zhihu.com/people/cvhub-40"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//pan.xunlei.com/s/VNj1rJkSRL94VvEe5PwZb9y4A1%3Fpwd%3Dx2fa</id>
+    <title>天涯神贴《社会不教，精英不讲，坎儿还得自己过（揭秘人才成长规律）》第五篇</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>张介子： 原出处天涯神帖：《社会不教，精英不讲，坎儿还得自己过（揭秘人才成长规律）》 原作者：e路狂飙 原文完整版PDF：pan.xunlei.com/s/VNj1rJ 第五篇跨国金领的低级错误 接着讲的这个案例，更具有代表性，主角属于我们普通 人眼里非常典型的金领。父母都是高级工程师，他从幼儿园到高中，上的都是当地重点学校。上世…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//pan.xunlei.com/s/VNj1rJkSRL94VvEe5PwZb9y4A1%3Fpwd%3Dx2fa"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/436008648/answer/2833931089</id>
+    <title>算法岗平时需要自己写cuda吗？</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>匿名用户： 招聘要求：熟悉cuda编程 你以为的cuda编程：用cuda写算子然后nvcc编译 实际上的cuda编程：model.to("cuda")…</content>
+    <link href="https://www.zhihu.com/question/436008648/answer/2833931089"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/cai-cai-cai-cai-cai-si-cai-cai-cai</id>
+    <title>对标ChatGPT有哪些开源的方案？</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>冯偲： 2023/3/26 更新-- ChatGLM+lora方法 斯坦福的Alpaca 斯坦福的 Alpaca 模型基于 LLaMA-7B 和指令微调，仅使用约 5 万条训练数据，就能达到类似 GPT-3.5 的效果。坦福基于 Meta 的 LLaMA 7B 模型微调出一个新模型 Alpaca。该 研究让 OpenAI 的…</content>
+    <link href="https://www.zhihu.com/people/cai-cai-cai-cai-cai-si-cai-cai-cai"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/615938331</id>
+    <title>UC Santa Cruz VLAA Lab招2023暑期科研实习生</title>
+    <updated>2024-02-09T07:20:00.150586+00:00</updated>
+    <content>Cihang Xie： 实验室主页： 实验室简介：Vision · Learning · Assured Autonomy (VLAA) Lab是由谢慈航教授和周郁音教授两位导师共同指导。实验室目前有4名…</content>
+    <link href="https://zhuanlan.zhihu.com/p/615938331"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>创建于 2022-10-11 • 0 人关注</title>
+    <updated>2024-02-09T07:19:44.546504+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>创建于 2022-10-11 • 0 人关注</title>
+    <updated>2024-02-09T07:19:28.466914+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/617968294</id>
+    <title>赶紧收藏！网上疯传的150个ChatGPT「超级提问模型」，都在这里了</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>运营黑客： 这是自 ChatGPT大爆发以来，全网（国内外）收录的150个，已经被成功验证、测试最多的「超级提问模型」。 这150个模型，在站外Github上，被超过1000w+人用来学习、体验如何向 C…</content>
+    <link href="https://zhuanlan.zhihu.com/p/617968294"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/i4w2qpL1P0mZk4qQY_BznA</id>
+    <title>开源组合llama+langchain，蹭上ChatGPT几行代码轻松搭建个人知识库私人助理聊天机器人</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>那个少年回来了： 1、前言 我的ChatGPT 系列文章 5、ChatGPT开源的whisper音频生成字幕，可本地搭建环境运行，效果质量很棒 4、开源组合llama+langchain，蹭上ChatGPT几…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/i4w2qpL1P0mZk4qQY_BznA"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/dou-hong-jian-44</id>
+    <title>百篇论文纵览大型语言模型最新研究进展</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>AI Box专栏： 作者：王晓磊 @王晓磊，中国人民大学高瓴人工智能学院博士二年级，导师为赵鑫教授，研究方向为对话式信息获取。 导读 去年底，OpenAI 推出的 ChatGPT 在短短数月内已经风靡全球。…</content>
+    <link href="https://www.zhihu.com/people/dou-hong-jian-44"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/590338541/answer/2959785643</id>
+    <title>清华大学 计算机科学与技术博士</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>黄世宇： 1. 引言 在PyTorch Conference 2022 上，研发团队发布了PyTorch 2.0的新特性，即支持通过一行代码实现模型运行加速。直到2023年3月份，PyTorch 2.0才…</content>
+    <link href="https://www.zhihu.com/question/590338541/answer/2959785643"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/456887860/answer/2465926009</id>
+    <title>加州大学伯克利分校-计算机视觉-博士在读</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>Xudong Wang： 简单分享一下我的北美Summer Research Intern申请经验 ～ 首先简单说一下我的背景，我目前是UC Berkeley EECS 二年级博士，GPA 4.0（根据我的经验，似乎没有人关心，甚至申请的公司全部没有要求提供成绩单），申请时有A类会一作五篇，在投一作两篇，二作及其他若干。…</content>
+    <link href="https://www.zhihu.com/question/456887860/answer/2465926009"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/567662038</id>
+    <title>PyTorch的vmap函数：提速百倍的矢量化GPU加速利器</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>曾伊言： 简单介绍vmap函数（以及pmap函数） PyTorch 2.0 已经更新了 vmap 函数，原本只能用vmap并行推理，现在能用vmap函数并行训练了！ pytorch.org/tutori…</content>
+    <link href="https://zhuanlan.zhihu.com/p/567662038"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/617841028</id>
+    <title>天涯神帖：《社会不教，精英不讲，坎儿还得自己过（揭秘人才成长规律）》摘要</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>吧啦Q先生： 原出处天涯神帖：《社会不教，精英不讲，坎儿还得自己过（揭秘人才成长规律）》 原作者：e路狂飙 ——愤青们的惨痛代价 铁律之一：将更多时间浪费在抱怨当中，而没有用在实际能力的锻炼、提高和结构优化方面，这会影响到自己专业素养的持续和稳定提高。即使某天机会突然降临到头上，往往也会由于水平不够，眼睁睁地看着它们从身边溜走…</content>
+    <link href="https://zhuanlan.zhihu.com/p/617841028"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/38102762/answer/85238569</id>
+    <title>深度学习（Deep Learning）话题下的优秀答主</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>魏秀参： 被 
+@王语斌 邀了好久。 这里分五部分简单解释一下Batch Normalization (BN)。 1. What is BN? 顾名思义，batch normalization嘛，就是“批规范化”咯…</content>
+    <link href="https://www.zhihu.com/question/38102762/answer/85238569"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//pan.quark.cn/s/cd9a87cee022</id>
+    <title>天涯神贴《社会不教，精英不讲，坎儿还得自己过（揭秘人才成长规律）》第十篇</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>张介子： 原出处天涯神帖：《社会不教，精英不讲，坎儿还得自己过（揭秘人才成长规律）》 原作者：e路狂飙 原文完整版PDF：pan.quark.cn/s/cd9a87ce 第十篇 要“练手机会”还是要“浮名” 在实践性较强的领域，能否获得数量众多、 结构合理的练手机会，对于能力发展和专业素养提升，有着 极为重要的意义。倘若这样的机会争…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//pan.quark.cn/s/cd9a87cee022"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/617884815</id>
+    <title>一份数学书单（Pierre Schapira书单）</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>朝阳0618： 这份数学书单是很早以前收集，已经忘记原始出处了。按照这里面说的，既然是Pierre Schapira写的，我就起名为Pierre Schapira书单了。有时候炒炒这种冷饭或许有些许意义…</content>
+    <link href="https://zhuanlan.zhihu.com/p/617884815"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/617893506</id>
+    <title>让Chatgpt回答强大十倍——prompt技巧宝典</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>饼干聊医药与量化： 本文旨在分享chatgpt中如何用prompt词更加准确和满足需求地达成目的。感谢IBRAHIM John的分享，如有侵权，会删除 已更新，可以下载附件。…</content>
+    <link href="https://zhuanlan.zhihu.com/p/617893506"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/533670950/answer/2898934446</id>
+    <title>大家还记得天涯的哪些神贴？</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>匿名用户： 棍！ 网上认识十几年，一直跟着他的思维操作的我们这批人确实赚到钱赚到知识了。 他全家欧洲多国定居二十多年，经济理论知识丰富，在国内的时候做过类似智库专家这样的事，最关键的是每次精准预测出政策目的，这个对于投资者太重要了，远的有08金融危机和房价，近的有p2p和p2p爆雷，，教培行业，数字rmb，城投债，金税四期，…</content>
+    <link href="https://www.zhihu.com/question/533670950/answer/2898934446"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/584402332/answer/2956335225</id>
+    <title>ChatGPT最实用的提示（Prompts）写法有哪些？</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>卜寒兮： 授人以鱼不如授人以渔。 OpenAI在D站的官方服务器上有一个 prompt-library 的频道，这个频道用于给各路大神展示和讨论其创建的prompt。上面有各种用途的prompt，比如私人助手…</content>
+    <link href="https://www.zhihu.com/question/584402332/answer/2956335225"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/617905470</id>
+    <title>【AI科普】Stable Diffusion显存不够用的拯救者插件</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>月咏幻： 【先点赞再收藏嘛你们看这个比例太可怕了】 省流版：如果你是小显存，装他，装他。如果想画很大很大的图，装他，装他。 开宗明义：SD是一款很强大的AI绘画软件，使用GPU进行大量运算后生成图片。但是这个算法非常吃显存，在我这篇文章中 （【AI教程】AI绘画硬件科普-显卡挑选指南）， 我认为最甜的显存线是12G，且相对小…</content>
+    <link href="https://zhuanlan.zhihu.com/p/617905470"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/618229430</id>
+    <title>MLSys入门资料整理（tvm&amp;mlir&amp;llvm）</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>BBuf： 我之前维护了一个仓库 用来记录mlsys相关的学习博客或者视频，主要是 llvm/tvm/mlir 相关的，最近又整理并更新了一些资料。对于想入门mlsys或者想深入学习某种编译器的开发者…</content>
+    <link href="https://zhuanlan.zhihu.com/p/618229430"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/zvideo/1624826808636776448</id>
+    <title>我是如何快速学习一个领域的？</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>有很多小伙伴问小Lin如何整理一篇内容、如何了解一个行业、学习一个新领域、如何写论文、如何解决问题... 今天来分享一个对我自己学习、工作、创业、做自媒体都非常有帮助的一个小诀窍，希望也能帮你提升工作和学…</content>
+    <link href="https://www.zhihu.com/zvideo/1624826808636776448"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/60155649/answer/2900532124</id>
+    <title>如何在大学四年修炼成一个高级编程人才？</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>雷艾伦： GitHub上有个学习项目，详细的记不清了，意思是一个老外自学编程，一年的时间成功入职AWS做开发。他这套学习list可不简单，不是21天学Java那种低幼级别的。 还有一个网红老外，文科背景，写了本书叫超速学习，用一年时间，挑战自学MIT CS四年全部课程且都通过考试。 这两个case，如果你愿意，不妨选一个拿来…</content>
+    <link href="https://www.zhihu.com/question/60155649/answer/2900532124"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/617103688</id>
+    <title>使用 Z-Library+Calibre+静读天下+坚果云，构建自由可控的数字图书馆和云同步阅读方案</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>路人甲的世界： 在放缓文章更新速度的这两年内，笔者不少的时间都花在了阅读和学习上，尤其是对社科、心理学、哲学、历史等学科的学习。起初为了方便获取书籍资源和方便的云同步，笔者选择了在用户体验和出版物数量上…</content>
+    <link href="https://zhuanlan.zhihu.com/p/617103688"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/447409620/answer/2941476569</id>
+    <title>代尔夫特理工大学 理学硕士</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>amelia： 提供一个例子。 我的毕设导师，欧洲人，曾两次让我考虑读博： 第一次，她说几个月后隔壁系（和她的方向有关）预计有个新的opening，让我看看那个领域有没有我想做的主题，然后讲了半小时她当初为什么进入学术界、有什么收获； 第二次是在我毕业后，虽然之前我已经不止一次说过我找到工作了，她还是给我推了一个跟她有合作的E…</content>
+    <link href="https://www.zhihu.com/question/447409620/answer/2941476569"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/zhi-zhi-5-71</id>
+    <title>Transformer 之逐层介绍</title>
+    <updated>2024-02-09T07:19:12.630913+00:00</updated>
+    <content>鱼先生： 写在前边： 学习 Transformer 的过程中，找到了Ketan Doshi 博客中关于Transformer系统的介绍文章，感觉非常棒，于是进行了翻译。该系列一共有4篇文章。本篇文章为该系…</content>
+    <link href="https://www.zhihu.com/people/zhi-zhi-5-71"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/ma-qin</id>
+    <title>给小姐姐换黑丝的后续来了</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>马小帅： 上一篇不是分享了 Meta 的图像分割模型 SAM 嘛，最后说要来一个局部修改的 AI 绘画教程，能看出来大家都很热情。 但重点说在前面，从左边的光腿，到右边的黑丝，没做到想象中的一键出图。 而是…</content>
+    <link href="https://www.zhihu.com/people/ma-qin"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/440729199/answer/1700625415</id>
+    <title>NLP码农一枚</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>哈啾路亚： 说个估计没多少人熟悉的文章 《opening the black box of deep neural network via information》 信息瓶颈理论，在信息论的框架内解释了监督学习的训练过程原理，稍微扩展一下就能理解为什么需要使用mini batch，为什么需要激活函数，为什么drop out能…</content>
+    <link href="https://www.zhihu.com/question/440729199/answer/1700625415"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//www.yuque.com/meta95/hmc3l4/ozgy13dx4akv7v17%3FsingleDoc%23</id>
+    <title>低算力大模型（例如 LoRA )的学习路线是什么？</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>Meta： yuque.com/meta95/hmc3l4 《让天下没有难Tuning的大模型-PEFT技术简介》 最近，深度学习的研究中出现了许多大型预训练模型，例如GPT-3、BERT等，这些模型可以…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//www.yuque.com/meta95/hmc3l4/ozgy13dx4akv7v17%3FsingleDoc%23"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/623004492</id>
+    <title>Chinese-LangChain：基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>致Great： Chinese-LangChain Chinese-LangChain：中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成 github.com/yanqiangmiff 俗称：小必应，Q.Talk，强聊，QiangTalk 效果演示 特性 20…</content>
+    <link href="https://zhuanlan.zhihu.com/p/623004492"/>
+  </entry>
+  <entry>
+    <id>http://www.zhihu.com/question/29418639/answer/55548989</id>
+    <title>JAIST 情报科学硕士</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>Hakase： 总算找到一个可以传授毕生功力的话题了！ 先贴一个链接zhihu.com/question/2941 我差不多是这样，但没那么走火入魔，也不失眠 我非常喜欢分析数据并找到有价值的信息，专业都选的信息系统及信息管理！ 以前看夏洛克，福尔摩斯，被其接近于未卜先知的分析能力所折服，从此爱上数据分析不能自拔！ 就目前的能力而…</content>
+    <link href="http://www.zhihu.com/question/29418639/answer/55548989"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/622970740</id>
+    <title>ICLR2023 | DIFFormer：扩散过程启发的Transformer</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>Qitian： 分享一下我们的ICLR23工作DIFFormer，有幸在首轮审稿中收到了10/8/8/6的评分 论文题目：DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion 论文地址：arxiv.org/pdf/23…</content>
+    <link href="https://zhuanlan.zhihu.com/p/622970740"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/592179428/answer/2964134770</id>
+    <title>会一点点编译的东西</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>科研败犬丶： 最近看到好多人都准备入坑深度学习编译器，也有很多小朋友私下问过怎么从AI上层应用的开发转到编译器的开发。其实，如何回答好这个问题得从你最终想要达到的目的来进行分析， 1）如果你仅仅是想为了在工业界找份找工作而学习深度学习编译器，那么可能并不需要书籍就可以完成你的需求，因为大部分的书籍只会让你在学习深度学习编译…</content>
+    <link href="https://www.zhihu.com/question/592179428/answer/2964134770"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/586298694/answer/2991647868</id>
+    <title>耗时很长的程序忘加nohup就运行了怎么办？</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>ipid君： 这题我会！！只需要三步操作，你就能把任何程序放到后台运行，就算关掉终端，程序也不会停止！ 假设我们正在运行一个耗时很长的程序，叫……一个耗时很长的程序： 这个程序没什么追求，唯一会干的事情就是…</content>
+    <link href="https://www.zhihu.com/question/586298694/answer/2991647868"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/589225682/answer/2990235423</id>
+    <title>Python 为什么要保留显式的 self ？</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>有丘直方： 现有的回答大部分都没说到点子上. 关于 Python 的 self, 往深里说能写一大篇长文... 实际上我这篇回答写着写着就变成一篇对 Python 的面向对象的逻辑的阐述短文, 而不仅限于关于 self 的讨论了. 如果你对于 Python 的面向对象的底层逻辑感兴趣, 这篇回答多半会给你一些帮助. 不过…</content>
+    <link href="https://www.zhihu.com/question/589225682/answer/2990235423"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/623309752</id>
+    <title>10元将Vicuna升级成多模态GPT-4，从图片中读取生命和宇宙的终极答案</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>游凯超： 开源社区每天给OpenAI一点小小的开源震撼，原来10元钱就可以将Vicuna升级成多模态GPT-4。我已经搭建好了一个示例网站，想要尝鲜的朋友可以直接到评论区体验；想要自己搭建示例网站的朋友…</content>
+    <link href="https://zhuanlan.zhihu.com/p/623309752"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/447412618/answer/2993646606</id>
+    <title>Xiaoxiaolu</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>Xiaoxiaolu： 前两年多写几篇trans，别嫌水，只是向别人证明你很强(hui shui) 接着找两个来所里实习的研究生，以辅导为名带他们给你写论文，他们一作你通信，顺便注意培养他们(所里有活让他们干) 达到毕业条件出去大厂找份实习，所里活有人帮你干无牵无挂，结合读博单位薪资，轻松月入过万，当然挣钱了要常请实习生们吃…</content>
+    <link href="https://www.zhihu.com/question/447412618/answer/2993646606"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/391900914/answer/2902128296</id>
+    <title>DC大冒险</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>DC大冒险： 是梯度和反向传播的问题。 如果两个样本相聚太远，它们的KL Divergence对应的梯度为0，不可微，无法做法想传播。 类似的是JS Divergence，对于相聚太远的两个样本，JS Divergence 对应的梯度为一个常数，log2。同样无法反向传播。 也在这宣传一下其他散度吧： Maximum Mean…</content>
+    <link href="https://www.zhihu.com/question/391900914/answer/2902128296"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/622134699</id>
+    <title>如何正确复现 Instruct GPT / RLHF?</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>蜗牛在花园跑酷： 前言 最近几个月随着 OpenAI Instruct GPT/ChatGPT/Anthropic Claude/文心一言等大语言模型的火爆，GitHub上开源了不少 ChatGPT复现方案。总体来说这些复现库分为两类： 基于 ChatGPT API 接口抓取指令数据基于开源大模型权重做指令微调，比如基于 L…</content>
+    <link href="https://zhuanlan.zhihu.com/p/622134699"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/james-8-59</id>
+    <title>低成本训练医疗ChatGPT踩坑记</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>JamesFreeman： 半个月前我们发布了v0.01版本的DoctorGLM，一个在ChatGLM基础上进行supervised finetuning（SFT，监督微调）的问诊语言模型: 三月时节，眼…</content>
+    <link href="https://www.zhihu.com/people/james-8-59"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/nullgate</id>
+    <title>Limitations of LLaMA</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>空门： TL;DR; 最近关于 LLaMA 的 hype 很多[1]，所以我打算唱唱反调，说一些 LLaMA 的局限性。 本文所说的 LLaMA 仅指 Meta 发布的预训练模型，以及这些预训练模型上微调的…</content>
+    <link href="https://www.zhihu.com/people/nullgate"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/39872326/answer/118705625</id>
+    <title>数据挖掘等 2 个话题下的优秀答主</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>豆豆豆豆豆豆豆叶： 是时候放大招了，今天我要谈谈什么是Wasserstein distance，以及为什么它那么有用。之前子元已经给了一个初步的介绍，我这个回答谈的更多的会是这个distance背后的直觉，抽象，和未被完全挖掘的潜在应用价值，并不想涉及太多公式。这也是我本人博士论文方向的重要课题。 Wasserstein …</content>
+    <link href="https://www.zhihu.com/question/39872326/answer/118705625"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/596323476/answer/2990135504</id>
+    <title>如何得到神经网络反向传播的计算量（FLOPs）？</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>Alexandra： 推荐使用微软的Deepspeed，它里面实现了一个Flops Profiler的功能，是我目前知道的最强大的运算性能分析的工具，它的github仓库地址和教程地址如下： 在第二个链接里，可以看到BERT-Large的分析，我直接贴一下Overall的部分： -----------------------…</content>
+    <link href="https://www.zhihu.com/question/596323476/answer/2990135504"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/618389519</id>
+    <title>GPT-4 “认为” 我们的开源版对话模型达到了ChatGPT 90%的性能 —— Vicuna 开发深度经验分享</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>SIY.Z： 我全面参与了一次开源对话模型（俗称为开源版“ChatGPT”）开发的非凡之旅。在这个过程中，我有幸与一群来自UCB（主导这个项目）、CMU、Stanford、UCSD的充满热情且能力强劲的…</content>
+    <link href="https://zhuanlan.zhihu.com/p/618389519"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/464413497/answer/2934628896</id>
+    <title>如何评价你所带的研究生？</title>
+    <updated>2024-02-09T07:18:59.844531+00:00</updated>
+    <content>匿名用户： 35岁，副高，带了两届，合计4名研究生。 本着认真负责的态度，一步一步教实验、一行一行教编程、一句一句教汇报；有交流学习的机会，都尽量带上学生；培养经费全部给他们，每月额外给800生活费，项目做完会发现金或者送Ipad等礼物；组织爬山、郊游、自驾等等。 对于学生，其专业知识匮乏、专业技能生疏都不是问题，毕竟还在学…</content>
+    <link href="https://www.zhihu.com/question/464413497/answer/2934628896"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03/collections</id>
+    <title>欲上青天揽明月 的其他收藏夹</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content>查看全部</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03/collections"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/837464991</id>
+    <title>2024-02-08 更新 · 521 条内容 · 0 人关注</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content>修行</content>
+    <link href="https://www.zhihu.com/collection/837464991"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/811622976</id>
+    <title>2023-09-28 更新 · 7 条内容 · 0 人关注</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content>壁纸</content>
+    <link href="https://www.zhihu.com/collection/811622976"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/925200260</id>
+    <title>博士申请</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content/>
+    <link href="https://www.zhihu.com/collection/925200260"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/842220166</id>
+    <title>2023-08-19 更新 · 45 条内容 · 0 人关注</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content>笑话</content>
+    <link href="https://www.zhihu.com/collection/842220166"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/837425759</id>
+    <title>2023-03-01 更新 · 3 条内容 · 0 人关注</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content>影视</content>
+    <link href="https://www.zhihu.com/collection/837425759"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/831562223</id>
+    <title>2022-09-13 更新 · 1 条内容 · 0 人关注</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content>搞笑</content>
+    <link href="https://www.zhihu.com/collection/831562223"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/63971646</id>
+    <title>小说素材</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content>2024-02-08 更新 · 1663 条内容 · 3090 人关注</content>
+    <link href="https://www.zhihu.com/collection/63971646"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/195628558</id>
+    <title>真实的外国</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content>2024-02-08 更新 · 3062 条内容 · 7268 人关注</content>
+    <link href="https://www.zhihu.com/collection/195628558"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/20355573</id>
+    <title>让世界变清晰的知识集</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content/>
+    <link href="https://www.zhihu.com/collection/20355573"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/31180103</id>
+    <title>随便收着</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content/>
+    <link href="https://www.zhihu.com/collection/31180103"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/38411239</id>
+    <title>2024-02-08 更新 · 2726 条内容 · 1134 人关注</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content>神答案
+
+2024-02-08 更新 · 2726 条内容 · 1134 人关注</content>
+    <link href="https://www.zhihu.com/collection/38411239"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/collection/41318823</id>
+    <title>个人修养</title>
+    <updated>2024-02-09T07:18:30.970623+00:00</updated>
+    <content>2024-02-08 更新 · 6168 条内容 · 6179 人关注</content>
+    <link href="https://www.zhihu.com/collection/41318823"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>修行</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/connolly-41</id>
+    <title>PyTorch显存机制分析</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>Connolly： 咳咳，我最近两年在研究分布式并行，经常使用PyTorch框架。一开始用的时候对于PyTorch的显存机制也是一知半解，连蒙带猜的，经常来知乎上来找答案。经过两年的研究，现在回过头来看，能从大家的答案中找出不足的地方。但是两年过去了，也没有一篇很好的文章来总结PyTorch的显存机制的方方面面，那么我就…</content>
+    <link href="https://www.zhihu.com/people/connolly-41"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/49608607/answer/3091504409</id>
+    <title>有哪些东西是你读博士以后才懂的？</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>匿名用户： 科研本质就是一堆人炒概念。一个圈子的人一起骗国家经费。 很多新的概念其实是几十年前做烂的东西改个高大上的名字，包装，炒冷饭。 所谓多学科结合就是一个领域搞不下去了。把另一个领域的东西加进来，排列组合，继续灌水。 学术圈典型的劣币驱逐良币。真正十年磨一剑搞科研的人过不下去了，灌水炒作发流水线文章的人过得很舒服。 学术同…</content>
+    <link href="https://www.zhihu.com/question/49608607/answer/3091504409"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/s-45-17-75</id>
+    <title>懂比爱重要，性格色彩卡牌大师</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>S小茹： 罗翔老师说：“你注意观察你的周围，所有动不动就生气的人，没有一个是智者，生活过的一团糟。永远不要气愤，所有的气愤都是愚蠢的。高手心里只有一件事，就是解决问题，解决不了换办法再试，也不被情绪带偏…</content>
+    <link href="https://www.zhihu.com/people/s-45-17-75"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/heda-he-28</id>
+    <title>USTC博士生|ChatPaper作者|和AI一起进化</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>强化学徒： 最近熟悉的朋友们都顺利毕业了，而我还在等RHER这篇工作被正式接收，才能毕业，夜深时刻，记录一下最近的感悟。 RHER－自我引导探索强化学习，是我博士期间最有价值的一篇工作，最近反思最近的学习和生活的时候发现，RHER其中涉及到的一些概念，确实在反向指导我自己的决策，非常有意思的一个现象，因此趁着假期的时候，拿…</content>
+    <link href="https://www.zhihu.com/people/heda-he-28"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/601191036/answer/3032554025</id>
+    <title>爱，一切皆体验｜随生命自如流转</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>云山星火： 个人评分，7.5/10。值得一读。当前讲思维模型的书不少，如何选择“重要”的思维模型，本身也体现了作者的态度。 这本书《思考的框架》汇总了九个常见的思维模型，包括鼎鼎大名的奥卡姆剃刀和第一性原…</content>
+    <link href="https://www.zhihu.com/question/601191036/answer/3032554025"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/catherine-7-37</id>
+    <title>INTJ/ 阅己，越己，悅己。水晶爱好者</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>似舟： 1《隐姓亿万富豪》 B站评分9.9分 豆瓣评分：9.7分 和 9.8分 豆瓣评分9.1，讲述了亿万富翁Glenn Stearns 隐姓埋名到陌生城市，身上只有100美元和一辆卡车，从零开始创业，竟然用…</content>
+    <link href="https://www.zhihu.com/people/catherine-7-37"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/33336270/answer/2975284328</id>
+    <title>Homo sapiens</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>飞檐： 人生的最终目的是让自己快乐无悔的度过一生。 名利都是过眼云烟，亲朋都是如鳞过客，没有虚构的上帝伸出救赎之手，要争取我们的幸福只能靠我们自己。 于是就不再自己骗自己，不再相信那些他人画的饼，我尝试我所有想尝试的，永远只考虑自己会不会后悔这一个选项。 我可以今天就死，也可以明天活着。 当你勇往直前时，世俗慢慢为你让路，因为他…</content>
+    <link href="https://www.zhihu.com/question/33336270/answer/2975284328"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/440729199/answer/3154469327</id>
+    <title>CV算法</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>范天天： 顶一手clip。 一没改很复杂的网络设计，二没加数据，只是在原有backbone结构基础上重新设计训练方式；在很多下游任务，比如搜索、分类等等都表现得都非常好，也缓解了很多长尾问题。 基于clip后衍生了很多blip、blip2等等多模态模型，都在各自领域达到sota或者近似sota，非常惊艳。 ==========…</content>
+    <link href="https://www.zhihu.com/question/440729199/answer/3154469327"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/49689245/answer/3148945726</id>
+    <title>Numerical Optimization和Convex optimization 两本书的选择?</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>Kantorovich： Convex Optimization和Numerical Optimization这种课已经经过千锤百炼了，花太多精力去精读两本七百来页的砖头书不是太划算，很多短小精悍lecture notes都可以在网上找到。这里推荐Gatech ISyE 6663的lecture notes，三百来页的讲…</content>
+    <link href="https://www.zhihu.com/question/49689245/answer/3148945726"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/382826337/answer/3134613434</id>
+    <title>编程语言话题下的优秀答主</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>圆角骑士魔理沙： 有一个&lt;疯狂斗兽法&gt;： 把工作分为三类。 0:你不屑于做的工作。 对于这类工作直接跳过。费时不说，还会污染科研品味。 这样可以有效降低焦虑。很多时候，你看一个其他研究员，可能他文章很多引用也很多。 在陷入焦虑以前，认真看一看他的工作，问自己 - ‘你愿意做这些工作吗？’ 正所谓"他强由他强，清风…</content>
+    <link href="https://www.zhihu.com/question/382826337/answer/3134613434"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/67472285/answer/256651581</id>
+    <title>如何评价mixup: BEYOND EMPIRICAL RISK MINIMIZATION？</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>张宏毅： 2018.1.16更新： CIFAR和GAN实验的PyTorch代码：github.com/hongyi-zhang 11月10日更新： Q: 为什么data augmentation是理解为控制模型复杂度？ A: 准确地说，我觉得data augmentation既不能简单地理解为增加training data，也不…</content>
+    <link href="https://www.zhihu.com/question/67472285/answer/256651581"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/franx-44</id>
+    <title>ICML 2023 手记 - 诸神之战的最前线</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>Franx： 符尧 2023 年 7 月 30 日 在 ICML 2023，OpenAI, Anthropic, Google DeepMind, Meta，各大名校的 rising star PhD，顶级 hedge fund 与 VC ，most popular startups 悉数到场，这里是诸神之战的最前线 Mon…</content>
+    <link href="https://www.zhihu.com/people/franx-44"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/633879303</id>
+    <title>23Fall CS PhD Application Journey</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>Sizhe Chen： 个人背景 Background Currently: UC Berkeley CS PhD with Prof. David Wagner Offer: UW, UIUC, Harv…</content>
+    <link href="https://zhuanlan.zhihu.com/p/633879303"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/590940326/answer/3132254099</id>
+    <title>如果中国 AI 领域出现 Ilya Sutskever 式领袖，会是谁？</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>刘斯坦： 首先需要指出的是， Ilya Sutskever出现在舞台中央，一是因为他领导的那条路走通了，成果在公众领域影响力大，所以他成为了焦点。还有很多其他人，其实也是颇具领袖气质，不过还没有产生影响…</content>
+    <link href="https://www.zhihu.com/question/590940326/answer/3132254099"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/404301610</id>
+    <title>《How to Look for Ideas in Computer Science Research》：来自钱志云的教导</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>孙挺Sunt： Zhiyun Qian（钱志云）是UC Riverside的副教授，研究方向是计算机系统，尤其是计算机安全。在UC Riverside时，他以系里最快的速度在四年内拿到了终身教职。经Fe…</content>
+    <link href="https://zhuanlan.zhihu.com/p/404301610"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/599355386/answer/3015113479</id>
+    <title>闪击与噬咬，胜利不是来自一击穿心，而是千刀万剐</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>滋滋乱崩： 可解释性，需要用到微分几何与黎曼流形，《Geometric Understanding of Deep Learning》，如果你真的能较好得解释神经网络，那就能大规模应用到safe-related的领域，比如医疗和自动驾驶，现在这些领域无法大规模应用深度学习就是因为无法解释神经网络的行为，不知道出问题的具体…</content>
+    <link href="https://www.zhihu.com/question/599355386/answer/3015113479"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/somebody-81-70</id>
+    <title>自己写的CUDA矩阵乘法能优化到多快？</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>nicholaswilde： 1. Introduction 最近研究了一下Nvidia GPU搭载的Tensor Core，开始手写半精度浮点类型（half or fp16）的矩阵乘法算子（c = a…</content>
+    <link href="https://www.zhihu.com/people/somebody-81-70"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/425747510/answer/3101732176</id>
+    <title>高考话题下的优秀答主</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>rq cen： 高一从零开始花了一年多基本自学完了高中数理化生，然后又从零开始搞数理化生竞赛最后进了一门省队和三门省二（扩招前），保送清华后在清华基科班又拼命地学了四年，现在还把学习当作业余兴趣，单纯地汲取知识增加对世界的了解就是最大的爱好。 学习其实是非常讲究方法的事情，学习方法得当的话，学习效率会非常高。虽然每个人的先…</content>
+    <link href="https://www.zhihu.com/question/425747510/answer/3101732176"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//math.mit.edu/academics/undergrad/roadmaps.php</id>
+    <title>数学笔记在“主页”-“专栏”。</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>大师姐： 看这里：math.mit.edu/academics/ ，这是MIT数学系提供的纯数学和应用数学的课程学习路径，访问网站，鼠标置于课程编号上就会显示课程名称。…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//math.mit.edu/academics/undergrad/roadmaps.php"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1ts4y1T7UH/%3Fshare_source%3Dcopy_web%26vd_source%3Da0e91ceeeddaf4fc60dc364143cb1828</id>
+    <title>宾夕法尼亚大学 计算机与信息科学硕士</title>
+    <updated>2024-02-09T07:18:20.560835+00:00</updated>
+    <content>Uranus： 收藏了的朋友，麻烦动动发财的小手，也点个赞吧 :) 了解一下也不一定要 H100，A100。 理论部分 Overview Andrej Karpathy 前一段时间在微软 Build 大会上的演讲是一个挺不错： 【精校版】Andrej Karpathy微软Build大会精彩演讲： GPT状态和原理 - 解密Open…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1ts4y1T7UH/%3Fshare_source%3Dcopy_web%26vd_source%3Da0e91ceeeddaf4fc60dc364143cb1828"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/liu-zhu-73-47</id>
+    <title>博士是怎么废掉的？</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>voyage： 缺少正反馈。 大概率博士会做一个没人做过的课题，甚至是导师也不是完全懂的东西。没有设备，没有理论体系，甚至连问题都没有定义明白，都不知道从哪下手。漫长的四五年，在漫无目的的旅行中会迷失，尤其是连一口解渴的水都喝不到。 久而久之你会心生各种想法和困惑，要不要转行，要不要退学，像一个拿着锹快要渴死的人到处挖坑，甚…</content>
+    <link href="https://www.zhihu.com/people/liu-zhu-73-47"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/michael-jackson-4</id>
+    <title>Michael Jackson</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>Michael Jackson： 纯粹的科研有两个G点： 1）顿悟，比如最近充电Graph neural network，一开始一头雾水，脑子里没有概念，浏览了一些论文后，突然领悟到message passing和node/edge embedding这些机制的基本原理后，即使还没详细看各种复杂的变体，但感觉豁然开朗，仿佛…</content>
+    <link href="https://www.zhihu.com/people/michael-jackson-4"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/622200768/answer/3213548523</id>
+    <title>如何用大段数学把自己的AI论文做solid？</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>民科局长： 根据本人浅见，大概有3种主流套路 证明收敛性 这种有固定套路，随便写写就好几页 而且别人也懒得来看 证明泛化误差，这个略微麻烦，比如有基于复杂度的，基于信息论的，基于范数的，花样很多 证明差分隐私，一般可以加个moment accountant，比较简单 除此之外，还有一些其他的套路，比如证明模型鲁棒性，搞出一个凸优…</content>
+    <link href="https://www.zhihu.com/question/622200768/answer/3213548523"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/526750527/answer/3005980357</id>
+    <title>加州大学伯克利分校 Pieter Abbeel 教授是一个怎样的人？工作/生活中都有哪些趣事？</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>匿名用户： 更新： 完全反对另一位高赞答主的回答，虽然可能在BAIR呆过但是显然对Pieter的了解基于各种臆想，简直是胡编乱造地黑，杜撰了一个符合大众猎奇兴趣的形象。Pieter对人是非常非常nice的，不管是PhD学生还是本科生。这里举证实锤，这位答主所说的“Abbeel有大量本科生给他当苦力军团，一年大概能有20+。…</content>
+    <link href="https://www.zhihu.com/question/526750527/answer/3005980357"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/616153347/answer/3163037645</id>
+    <title>Fabrice Bellard</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>flaneur： Fabrice Bellard 是有目共睹的编程王。 形容一个人编程牛逼，就说此人 “有 Fabrice Bellard 之风”。 比如人们形容前段时间一晚上给 alpaca.cpp 加了一把 mmap的妹子 Justine Tunney 有多牛逼时是这样： Justine Tunney is a true…</content>
+    <link href="https://www.zhihu.com/question/616153347/answer/3163037645"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/21969879/answer/3194688113</id>
+    <title>为什么在硅谷印度人混得非常成功，而中国人则不如？</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>ccccll： 在坡县认识不少印度同学同事的人的来说一下。 印度人有个非常可贵的品质，就是他们从来不吃Pua。印度人是“反‘反思怪’”。因此国内很多古墓派公知的话术，你跟一个印度人说，他能笑得捧肚皮然后拍拍你肩膀说：“Hey bro, you really believe that?”。对于印度人来说，和人的交往本质就是“…</content>
+    <link href="https://www.zhihu.com/question/21969879/answer/3194688113"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/gpsbird</id>
+    <title>codemap.info 作者</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>源码绝学-gpsbird： 推荐试试这个：https://codemap.info 我以前也是这样的，调用链太深，而且各种函数名、文件名都非常相似，只能用笔记录下来，像这样的 不过，后来我就用codemap…</content>
+    <link href="https://www.zhihu.com/people/gpsbird"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/364269312/answer/3107942044</id>
+    <title>公众号AI知识物语    分享领域Nerf三维重建，3D视觉</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>出门吃三碗饭： 今天分享的是一位深度学习领域的大佬在2020年7月份写的一篇博客，看完或许对有缘的你带来些启发。 英文原址：大佬博客地址 theorangeduck.com/page/ 1：我希望作为一名…</content>
+    <link href="https://www.zhihu.com/question/364269312/answer/3107942044"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/571612887/answer/2801496281</id>
+    <title>香港城市大学电机工程系博士在读</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>开飞机的嘟嘟： hkpfs基本上面试完了，其实你这个背景很强，但是其实港校很少给海本校长的奖学金…….都是内地985+国奖或者港本这种配置，身边基本上都是这种情况。不知道是不是因为招的少，所以不好统一比…</content>
+    <link href="https://www.zhihu.com/question/571612887/answer/2801496281"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/37-77-11-3-2</id>
+    <title>苏黎世联邦理工学院 计算机科学技术硕士在读</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>P等于NP： 看有很多人对convex optimization很感兴趣，我还是认真地修改一下回答，避免误人子弟。 在介绍ETH的Optimization课之前，先简单回答一下深度学习和凸优化的关系。假设我们现在有个f，一个从x到y的映射。深度学习里的f，通常是几层MLP（不管里面是GCN还是CNN还是Self-atten…</content>
+    <link href="https://www.zhihu.com/people/37-77-11-3-2"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/343396567/answer/3207437807</id>
+    <title>关注我3天后，送你一个男（女）朋友</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>择恩： 今天看书的时候，看到了这么一段话，分享给大家： —————— 原答案： YJango 对于「学习」和「知识」的理解是片面甚至错误的。《学习观》整个视频都是建立在错误的前提之上，越到后面错的越多。 这篇回…</content>
+    <link href="https://www.zhihu.com/question/343396567/answer/3207437807"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/32210068/answer/2955886169</id>
+    <title>对 PhD 一年级新生有什么建议？</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>3mjun： 建议实在太多了，因为读博期间的坑太多， 尤其在导师完全散养不管的状态下，会难上加难 如果踩到一个坑，需要费时费力爬出来； 如果连续踩三个坑，PhD会读的相当辛苦； 再多踩几个坑，可能会延期毕业………</content>
+    <link href="https://www.zhihu.com/question/32210068/answer/2955886169"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/614752745/answer/3201496774</id>
+    <title>黄牛是如何做到把OpenAI的API-Key变得这么便宜的？</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>袋鼠哥： 可以查看这个GitHub的议题：github.com/pengzhile/pa 其中回答给出了一个项目，可以使用OpenAI账号生成api，而不计入价格，所以耗费为0，只要不封号就可以一直用 更新 库被删了。。。。各位拜拜 再次更新 chat.zhile.io这个镜像站还是可以用的 作者博客在: 原议题：…</content>
+    <link href="https://www.zhihu.com/question/614752745/answer/3201496774"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/shan-zhui-yan-cheng-10</id>
+    <title>炮打学而思的 MathGPT</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>JioNLP团队： 教育机构 学而思（现在叫好未来） 也投身 AI 大模型领域了，主打的是数学大模型 MathGPT，可以解决从小学到高中的各种数学考试题目。昨天，它发布了内部测试链接。 放心，我这里不是…</content>
+    <link href="https://www.zhihu.com/people/shan-zhui-yan-cheng-10"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/606676255/answer/3130015800</id>
+    <title>上海交通大学 工学博士</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>赤箭青芝： 给自己20-30天的时间，在目标研究领域，找10篇5年以内发表的、引用量还算不错（也可以直接偷懒找高引）的文章，然后试着去回答以下十个问题。 基本上可以分为Air、Pro、Max、Pro Max四个层次。 [Master Air] Q1. 你是否能够在规定时间内（20-30天）读完这十篇文献？ 是：具有基本的意志力和…</content>
+    <link href="https://www.zhihu.com/question/606676255/answer/3130015800"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/19643285/answer/530924322</id>
+    <title>加密资本丨ENFP丨有问必回 | 随时私信小窗</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>Calvin Zhang： 第一次看到这本书是通过一个博主的推荐，原话是这么说的 One person 创业模式 如果是 Eric Ries 创造的 lean startup 成为了 VC 模式的灵活之选，那么 Tim Ferriss 则吧 lean 模式发挥到了极致：一个公司只有一个人。在享受稳定收入的同时，可以掌控自己的…</content>
+    <link href="https://www.zhihu.com/question/19643285/answer/530924322"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/432978599/answer/2650448172</id>
+    <title>加密资本丨ENFP丨有问必回 | 随时私信小窗</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>Calvin Zhang： 直接对比看看两个人对于同一件事情的思考角度就可以高下立判： 很巧两个人在其书中都有论述同一个股票： 本杰明.格雷厄姆： 导致普通股价格偏低的第三个原因，有可能是市场没有了解公司的实际利润状况。这方面的一个典型例子就是北太平洋铁路公司——1946~1947年，该公司的股价从36美元跌到了13.5美元。…</content>
+    <link href="https://www.zhihu.com/question/432978599/answer/2650448172"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/452384702/answer/3172643581</id>
+    <title>RL &amp; Rep Learning @ UIUC</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>HeptaAI： 泻药。最近做了几个Talk，分享了我作为学生对于研究的一些思考，包含了我从各位教授处得到的启发，翻译成中文与大家分享。内容主要包括对可解释性的思考、对研究价值的思考以及对学术中“三个圈子”的思考。有些思路在国内的氛围下是过度理想化的，因此这个talk也有一些局限性，但还是希望对大家有所启发。 研究价值 在与…</content>
+    <link href="https://www.zhihu.com/question/452384702/answer/3172643581"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/hao-jiu-bu-jian-76-47</id>
+    <title>北回归线</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>北回归线： 《接纳自己》 《暴力手段的基本常识》 《如何避免打击》 《贿赂与挑拨》 《克制欲望与积累》 《费曼原理与心流》 《阅读人类的行为》 《什么是斗争》 《放弃幻想》 我觉得以上应该纳为必修课的行列，但黑魔法一般是不能教给大家的。…</content>
+    <link href="https://www.zhihu.com/people/hao-jiu-bu-jian-76-47"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/410413388/answer/1940097224</id>
+    <title>会飞的鲲</title>
+    <updated>2024-02-09T07:18:03.638631+00:00</updated>
+    <content>会飞的鲲： Yoshua Bengio的高徒Brady Neal在网上开放了个公开课Introduction to Causal Inference，所有的资源都是开放的，以及小哥自己准备的资料。本课程…</content>
+    <link href="https://www.zhihu.com/question/410413388/answer/1940097224"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/594167706/answer/3210483039</id>
+    <title>吐槽下读博的一些焦虑</title>
+    <updated>2024-02-09T07:17:50.229639+00:00</updated>
+    <content>521 个内容</content>
+    <link href="https://www.zhihu.com/question/594167706/answer/3210483039"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/63-7-89-11-84</id>
+    <title>有哪些给在读博士的建议？</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>小温学姐： 1、第一次见面，不要当面问别人读到博士第几年了，也不要问人家有没有对象，这些都不礼貌，背景打听打听就算了。 2、找对研究方向比瞎努力更重要！不要在一棵树上吊死，plan B, plan B, plan B，重要的事情说三遍。 3、与课题组成员保持一定的距离，朝夕相处，距离太近难免产生矛盾，与同门分享秘密要三思，万…</content>
+    <link href="https://www.zhihu.com/people/63-7-89-11-84"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/513696236/answer/3197494836</id>
+    <title>财富是对认知的补偿，而不是对勤劳的奖赏。</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>现实潜规则： 央视记者曾经采访过《明朝那些事》的作者当年明月，下面是其中的一个采访片段。 当年明月：经常，上自习11点多，我自己在教室自习，自习完了自己出去。那个时候没有人了，教室没有人了，路上都没有人了，我记得是秋天，晚上很冷，我就走在路上，往宿舍走，只能听到我自己的脚步声。哪怕是出去玩的人，都回来了，只有我自己的脚步声…</content>
+    <link href="https://www.zhihu.com/question/513696236/answer/3197494836"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/shun-jian-amor</id>
+    <title>优质文案|家电家居|数码产品|好物测评</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>瞬间amor： 1、 永远不要在意别人对你的看法。 记住是任何人，特别是那些非亲非故的人，有很多人就是打压你，故意地看不起你，看不上你，让你不快乐，或者是喷你，嫉妒你，这些全部都是给你的精神内耗添油加料，所…</content>
+    <link href="https://www.zhihu.com/people/shun-jian-amor"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/371659285/answer/2967581534</id>
+    <title>优秀博士生和普通博士生差距能有多大？</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>3mjun： 1、王者博士： 看到科研难题两眼放光 自带铲子挖掘未知金矿新方向 讲起故事起承转合娓娓道来 paper写作一气呵成，能发PRL不在乎发nature push导师干活，导师累并快乐着 --- 2、优秀博士…</content>
+    <link href="https://www.zhihu.com/question/371659285/answer/2967581534"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/28325298/answer/3042290064</id>
+    <title>也渡劫去了。</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>澎湃王侯： 去年看了一本书，叫《走出心无力》，其中摘录了一些读书笔记，因为我自己也需要面对这些问题。大致内容比较符合这个问题，在这里借花献佛： PS： 本书的关键词是“内耗”和“自我PUA”； 以访谈录的形式…</content>
+    <link href="https://www.zhihu.com/question/28325298/answer/3042290064"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/563874394/answer/3136616087</id>
+    <title>财富是对认知的补偿，而不是对勤劳的奖赏</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>江湖规则： 1、钝感力+屏蔽力=人生无敌 不要去窥探别人的生活，也不要去揣测别人的想法，更不要陷在过去忧虑未来，任何引起你内耗的人和事，多想一下都没必要。 把时间和精力还给自己，在声色名利中守住本心，在世俗目光里信步前行。 翻译：关我屁事+关你屁事=岁月静好 因为顶级的能力是屏蔽力，任何消耗你的人和事，多看一眼都是你的不…</content>
+    <link href="https://www.zhihu.com/question/563874394/answer/3136616087"/>
+  </entry>
+  <entry>
+    <id>https://zhuanlan.zhihu.com/p/652930677</id>
+    <title>XAI方法横评：Gradient-base &amp; Perturbation-based</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>HeptaAI： 泻药。XAI有前途，而且可以做的很多！最近在做实验benchmark一些effective XAI方法，这里做一个对各个XAI方法的入门级总结，包括各种方法的思路、效果和性能。从结果来…</content>
+    <link href="https://zhuanlan.zhihu.com/p/652930677"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/67-22-48-26</id>
+    <title>公众号:柠檬刷新你的世界</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>清茶续杯： 1.一个屡试不爽的法则：当你全身心觉得舒服，觉得自己超级无敌棒，自信满满，从内到外闪闪发光，做事非常有干劲，元气十足的时候，你原来一直纠结对方喜不喜欢你的人，你原来一直梦想的事业机会，你一直渴望得到的资源，会一下子朝你涌来。 2.要想崛起，首要第一关就是要洞悉人性，这样做起事来才会如鱼得水，不然即使空有一身本事…</content>
+    <link href="https://www.zhihu.com/people/67-22-48-26"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/61112719/answer/1861012412</id>
+    <title>新开了个公众号《花花的碎碎念》写日记记录成长</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>日行一善： 信自己 晒晒书单，曾经说，看完没人敢娶我了 看完了一半吧，算不上精通，儒道释都接触过一二 今天读资治通鉴第233天，每天一个小时 周易，儒，道，释，哲学，毛选，马克思，终究是殊途同归 我们都想登山看到…</content>
+    <link href="https://www.zhihu.com/question/61112719/answer/1861012412"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/556543536/answer/3215460343</id>
+    <title>有哪些给在读博士的建议？</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>曾经有盏灯： 1、一定要认清自己是否适合继续搞科研。 最直观的表现就是：能不能发高分文章（10分以上）？ 因为拿川大举例，最新的评副教授要求是四篇川大分级为B的文章，B是什么概念？通俗点讲就是10分起步的文…</content>
+    <link href="https://www.zhihu.com/question/556543536/answer/3215460343"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/269678897/answer/3151490818</id>
+    <title>分享外面看不到的人情世故、职场经验和社会潜规则</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>也无风雨也无晴： 1、建议所有畏手畏脚的年轻人，反复阅读这句话：所有人的看法和评价都是暂时的，只有自己的经历和成绩是伴随一生的。几乎所有的担忧和畏惧，都是来源于自己的想象，只有你真的去做了，才会发现有多快乐。 2、敢于拥抱成功。罗翔说过："你害怕抛头露面，你害怕出丑丢人露面，害怕成重要人物，害怕承担责任，实际上就是…</content>
+    <link href="https://www.zhihu.com/question/269678897/answer/3151490818"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/30178891/answer/3189691236</id>
+    <title>有哪些让人欲罢不能的学习方法？</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>上善在若水： 可以参考哥伦比亚大学100种学习方法 1.读得慢，长期来下读得少。 2.阅读中有30%-50%都是没用的。 3.敲打节拍来避免大脑阅读出声，以刺激皮层，但不可以来过多。 4 情绪是可以操控的，尽量往好的方向引导，行为才会改变。 5.预习学会20%,上课学会50%，回顾学会 100%，复习时应无新知识。 6.写下问题，越清…</content>
+    <link href="https://www.zhihu.com/question/30178891/answer/3189691236"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/47436256/answer/3079118657</id>
+    <title>家有两位小王子 | 读书写作| 个人精进| 自律生活</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>两只小煜： 1、 任何寻求安慰的行为都不会让你成长: 宿醉、旅行、甚至和朋友促膝长谈，因为这些都只是让你在长期停留的茧房里感觉安全、良好。 成长其实是特别艰难的自省，你必须抛弃所有说给别人和自己听的漂亮话，…</content>
+    <link href="https://www.zhihu.com/question/47436256/answer/3079118657"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/457212453/answer/3054709712</id>
+    <title>物理学等 2 个话题下的优秀答主</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>PeiLingX： 不是做科研的，但出于工作需要和个人兴趣，也经常会思考一些技术问题和基础概念理解的问题。 仔细回忆了一下，我的大部分灵感还真的都是在完全独处、方圆十米内没有旁人的场景下产生的，而且有一点很重要的是，我无论走到哪里都会随身带一个小本子和自动铅笔，灵感产生的瞬间会随时随地把它记下来（手机就算了，打字太辛苦，而…</content>
+    <link href="https://www.zhihu.com/question/457212453/answer/3054709712"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/alex-4-79</id>
+    <title>EPFL Postdoc</title>
+    <updated>2024-02-09T07:17:33.858309+00:00</updated>
+    <content>Alex： 博士到博后换了个大环境，从美国来了欧洲。最好的状态是现在，因为我现在活着，每天把自己的时间安排的充实，晚上锻炼减肥，开心。 假期焦虑：有很多事情要做，总会感觉自己不配拥有假期。享受假期的心态很有必要。 薪资焦虑：有朋友在IT赚很多，有朋友在金融赚很多，有朋友在创业赚很多，其中有些在纽约上东区买房了。可能是因为我懒…</content>
+    <link href="https://www.zhihu.com/people/alex-4-79"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/3mjun</id>
+    <title>知识★球：科研充电宝</title>
+    <updated>2024-02-09T07:17:33.857312+00:00</updated>
+    <content>3mjun： 读博的压力，大部分来源于自我要求过高的心魔。能读研读博士的人，一般都有上进心强、自强不息、锲而不舍的性格。然而一味追求上进、要从外界去争去抢，很容易产生戾气，如果没有对应的心法化解，就会产生心魔。 类似的事情在《天龙八部》里面也讲到过，萧远山、慕容博和鸠摩智他们仨强行修炼少林绝技武功，不仅没学成，还导致身体差…</content>
+    <link href="https://www.zhihu.com/people/3mjun"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yi-suo-yan-yu-ren</id>
+    <title>BeyondSelf</title>
+    <updated>2024-02-09T07:17:33.857312+00:00</updated>
+    <content>BeyondSelf： 一个人： 有强大的抗压能力，面对导师的催促，审稿人的拒绝，同行的质疑，同学的碾压，都能扛得住。 有对科研的激情。 有耐心，有野心，有信心。即使碰到巅峰的泰森，也能潇洒的打出闪电五连鞭。 有能够发现新问题的能力 有能够解决问题的创造力 严谨的思考模式 有志于在学术事业中发展，如果知乎上有人给你200万让你退学，一…</content>
+    <link href="https://www.zhihu.com/people/yi-suo-yan-yu-ren"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/zhangruogu</id>
+    <title>计算机体系结构、芯片设计</title>
+    <updated>2024-02-09T07:17:33.857312+00:00</updated>
+    <content>张若谷： 本文内容来源于Kayvon Fatahalian的slides。说了12条如何做出清晰talk的建议。 动力： 给学生演讲的建议几乎是一样的；它只是一套简单的技巧和原则的应用，在演讲时一直有用； 这…</content>
+    <link href="https://www.zhihu.com/people/zhangruogu"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>修行</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/ma-ci-55-43</id>
+    <title>新加坡南洋理工大学 机械与航空学院博士</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>韩博Spurs： 前两天读了一篇Nature Catalysis Perspective, 里面有句话真是说到我的心里了。 这篇文章主要讲的是电催化固氮生氨（NRR）领域所遇到的挑战与潜在的机遇。 在谈到最…</content>
+    <link href="https://www.zhihu.com/people/ma-ci-55-43"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/47436256/answer/3170411704</id>
+    <title>你读过的最有力量的一段文字是什么？</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>向阳： 你觉得父母可怜，对他们愧疚， 意味着， 你和父母的位置和次序一直是颠倒的， 你一直没把父母当作成年人， 也没把自己当作小孩。 父母和孩子之间爱联结得很深， 出于忠诚和爱， 孩子力图通过接过父母的痛苦来照顾他们。 可是，想去替父母承担， 并不能帮他们减轻， 相反，你只是在复制父母的命运。 爱和序位的错乱意味着一代代痛苦的延续， 我们要舍得…</content>
+    <link href="https://www.zhihu.com/question/47436256/answer/3170411704"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/berkeley-you-yang</id>
+    <title>最好的管理方式</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>尤洋： 英伟达市值已经突破万亿美元，创始人黄仁勋先生可能成为未来的世界首富，他的管理方式或许值得我们学习： 他有40名直接下属，但没有一对一固定交流时间 - 相信最扁平的组织是最有权力的组织，并且从顶层开始…</content>
+    <link href="https://www.zhihu.com/people/berkeley-you-yang"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/he-bao-rong-3</id>
+    <title>Unicorn</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>Unicorn： 研究生三年有两年睡实验室里，当然也不是因为卷，纯粹是喜欢在实验室的感觉（个人癖好）。而且睡实验室里容易梦见业界大牛。。。 即便在跑步的时候也在思考科研思路，解决问题的方法还有许多细节和方法论。 为了出国留学从研二开始，科研笔记换成了英文。 即便自己是二作的文章一样认真讨论审稿人意见，仔细修改。 出国以后因为不能…</content>
+    <link href="https://www.zhihu.com/people/he-bao-rong-3"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/47436256/answer/3171345167</id>
+    <title>公众号:柠檬刷新你的世界</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>清茶续杯： 1.人最大的软肋是希望别人喜欢自己。把这一条放下基本就金刚不坏了。要有一种“你爱喜欢不喜欢我，反正不影响我拉屎”的态度。 2.在以前信息闭塞的年代，普通人的一生，就真的是平平淡淡没有什么大起伏的一生，相亲，结婚，生儿，育女，熬到退休，一辈子真的就是一辈子，每个人都是同一套模板，乡里乡亲差距也没有太大。 现在呢，其…</content>
+    <link href="https://www.zhihu.com/question/47436256/answer/3171345167"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/359740428/answer/3117191207</id>
+    <title>中用的科研废物</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>宁窈窈： 她说：你心思太细腻而容易思前想后，这样会拖慢你的速度。一个真正的科研人需要快慢有度。你要学习你老师我的杀伐果断。你要再来回摇摆，你老师我真得要生气了。 她说：你要有野心。我在读博的时候也没想到后面可以这样。以后你要厉害了，我们出去打架都有底气。 她说，承诺程度决定一个人的发展。如果你答应别人一些事情，要尽力在截止日…</content>
+    <link href="https://www.zhihu.com/question/359740428/answer/3117191207"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/371659285/answer/2928247218</id>
+    <title>Anti-aging</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>Anti-aging： 转述一下我们大老板的观点： 1）一流学生，不需要给他课题，自己摸索科学问题，然后迅速实施，能够自主撰写论文，少量修改后发表在PRL、子刊甚至正刊； 2）二流学生，自己找不到课题，导师给他一个课题，能够顺利出色地完成，并且最终发表在PRL或子刊上； 3）三流学生，自己找不到方向，导师给他指明了一个课题，但…</content>
+    <link href="https://www.zhihu.com/question/371659285/answer/2928247218"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/xiao-mu-biao-78-58</id>
+    <title>生活百般滋味，也要笑着面对，苦尽甘来的搬砖人</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>罗翔老师说：“你害怕抛头露面，你害怕出丑丢人，害怕成为重要人物，害怕承担责任，实际上你就是害怕成功，你害怕成功，怎么可能成功？” 我们害怕走到人前，害怕在众目睽睽之下出丑丢人，更害怕成为被关注的重要人物，承担起更多的责任。 然而，我们是否曾想过，实际上这种害怕的本质，其实是害怕成功？ 成功对每个人来说都是一种向往，但成功背后…</content>
+    <link href="https://www.zhihu.com/people/xiao-mu-biao-78-58"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/27154943/answer/1955317220</id>
+    <title>一个还在线的老博士</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>Frossmann： 你这么问，其实没有啥意义。 从我的老板告诉我自己开始，我也一直这样告诉手下同学/年轻科学家/博后 —— 科研，不仅仅是要勤学苦干，更是要靠悟的。不管什么学科，单纯的坐在实验室里面是没有前途的。思路的不通的时候，别让自己低效的工作，出去干点别的啥，不需要你高效科研但是花时间的那种。 于是乎，我基本的选择，…</content>
+    <link href="https://www.zhihu.com/question/27154943/answer/1955317220"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/424578087/answer/3124095533</id>
+    <title>公众号:柠檬刷新你的世界</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>清茶续杯： 1.一定要少说话，少说话，少说话，重要的事情说三遍。仔细想想看，你哪次喋喋不休之后，你身体里的能量都会被透支，消耗得严重，心也会越来越累。越是好朋友，越要有边界感。 2.不要掺和别人的事，不要再关注他人的生活，尽管这个人是你的父母，别产生圣母心，你是拯救不了别人的，你连你自己都拯救不了你自己。当你的眼光向外时，…</content>
+    <link href="https://www.zhihu.com/question/424578087/answer/3124095533"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/shun-jian-amor</id>
+    <title>优质文案|家电家居|数码产品|好物测评</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>瞬间amor： 2、钝感力很强 领导说破嘴来PUA的话，只要自己没咋听明白，生气的那肯定是对方，毕竟力的作用是相互的。有损健康的事不必过脑子，更不用过心。 3、耐得住寂寞 这个世界上从来没有随随便便的成功，只…</content>
+    <link href="https://www.zhihu.com/people/shun-jian-amor"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/a-liu-shi</id>
+    <title>一个延期博士的幡然悔悟！</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>回甘： 最近看到不少博士延期的讨论，感慨万千，自己曾经也是其中一员，发不出文章差点放弃，最后痛定思痛，发了5篇SCI于去年12月顺利毕业。分享一下历程，希望对需要的人有所帮助。 本人是某985工科博士，家境普通，导师虽然不太管你，但也不会故意卡你毕业，达到要求（4-6篇SCI，论文好点4篇就行，…</content>
+    <link href="https://www.zhihu.com/people/a-liu-shi"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/359740428/answer/3118286749</id>
+    <title>你的导师对你说过什么让你至今难以忘怀的话？</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>西城徐公： 我毕业的时候，导师在毕业聚餐时对我们几个要毕业去工作的人说过这么一句话：“这个世界上聪明的人太多，傻子太少；你们去工作以后沉下心来去解决别人解决不了的问题，去做别人做不了事的，当那个聪明人中的傻子，终归会显出来的。” 这句话我一直记着，记着不是因为我听懂了，听进去了。而是其中的道理我不太明白，或者不敢确信是否果…</content>
+    <link href="https://www.zhihu.com/question/359740428/answer/3118286749"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/619362543/answer/3186626922</id>
+    <title>大家反向思考，希望能有帮助，不要太焦虑哦~</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>周周学姐： 给大家推荐一篇： 导师神总结：读博失败的10个作死大法 大家反向思考，希望能有帮助，不要太焦虑哦~ 这是犹他大学的Matt Might教授（计算机科学家，生物学家，教育家），总结并发表了著名的“10 Easy Ways to Fail a Ph.D. ”“读博失败的10大常见原因”，可谓是鞭辟入里、针针见血。 1、过…</content>
+    <link href="https://www.zhihu.com/question/619362543/answer/3186626922"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/382865988/answer/3072334127</id>
+    <title>科研过程中，有哪些让你羡慕的技能?</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>3mjun： 见过一个博士师兄，他有项技能，可以分分钟秒杀其他博士，并且这项技能可能是不少人既鄙视又梦寐以求的。 它不是文献调研想idea的技能，也不是画图发top期刊的技能，它就是基于沟通能力的资源整合技能（高大上的说法），说人话就是混社会的技能。 比如，有次周五有个大佬临时来访问，已经下午快五点了，老板让定吃饭的包间。正…</content>
+    <link href="https://www.zhihu.com/question/382865988/answer/3072334127"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/458196603/answer/3175761023</id>
+    <title>在这里分享三大牛人看文献的方法，果断收藏！</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>周周学姐： 首先要多看文献！！！ 在这里分享三大牛人看文献的方法，果断收藏！ 1 从phd到现在工作半年，发了12篇paper，7篇first author。 我现在每天还保持读至少2-3篇的文献的习惯。读文献…</content>
+    <link href="https://www.zhihu.com/question/458196603/answer/3175761023"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/465230693/answer/3068337841</id>
+    <title>科研新手在学术上有哪些易犯的错？</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>3mjun： 新手容易犯的错误太多了，尤其是在被导师散养不管的情况下，几乎一步一个坑。 有的错误问题不大，最多耽误几天时间；但有的错误影响深远，会耽误几年时间甚至还会影响毕业以后的很多年，比如： 1、研究方向 1) 选择了一个容易发论文的研究方向，然后发现这个方向很难找企业的工作。 2) 选择了一个容易找工作的研究方向，然后发现…</content>
+    <link href="https://www.zhihu.com/question/465230693/answer/3068337841"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/23913984/answer/2823486063</id>
+    <title>生命成长教练｜一对一咨询｜哀伤辅导、情绪处理、成长性思维</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>大自然的女儿： 1、读懂对方的意图 掌握自己的主动性 大概是2年前，mentor讲了自己的一个案例，大约是她的一个朋友为另一个人转述求助的需求，大概是捐点医疗费。当时在讨论这个案例的时候，mentor就在问我，你觉得这个朋友，为什么会来跟我说这个事儿？ 我当时懵了，我怎么知道那个人怎么想的。后来mentor有提醒我，当别人来…</content>
+    <link href="https://www.zhihu.com/question/23913984/answer/2823486063"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/48749292/answer/2668048751</id>
+    <title>微信：gusiwugg，公众号：古寺屋，欢迎交流！</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>古寺屋： 这篇文章是给所有年轻人的一份自律大礼，倾尽我一生所学和45岁的满身经验（伤痕），无论如何请求你看完它，对你的人生至关重要。 因为这里有个离大谱，那就是追求自律的人都废了，但追求真生命的人反而都自…</content>
+    <link href="https://www.zhihu.com/question/48749292/answer/2668048751"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/458196603/answer/3181146071</id>
+    <title>浙江大学 医学博士</title>
+    <updated>2024-02-09T07:17:17.636670+00:00</updated>
+    <content>jojo： 1.先决条件：选个好组，搞好关系。 你的老板起码要有title有经费，记住，导师的资源以及导师对你的培养力度大概率决定了你博士期间表观的优秀程度。所以，好好舔导师，利益和情感并存是最牢靠的。此外，想要拥有后劲儿的话，你的师兄师姐最好有人在教职圈奋斗，这就是你进入学术圈的投名状，你的门第，你关系网的初始根系。后面…</content>
+    <link href="https://www.zhihu.com/question/458196603/answer/3181146071"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/19993841/answer/2298081912</id>
+    <title>什么文本编辑器能打开 11MB的文本 不卡？</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>韦易笑： EmEditor，没有之一。 对于 EmEditor 而言，打开 11MB 根本不算啥，很多编辑器都可以打开 11MB 的文件，但是稍微来个全文查找替换，你见过的编辑器，大部分 Native 的编辑器都跪了，web based 的编辑器更是直接冻结无响应，只有 EmEditor 没问题。 我曾经用 EmEditor…</content>
+    <link href="https://www.zhihu.com/question/19993841/answer/2298081912"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/304440293/answer/2884905342</id>
+    <title>疯子、天灾与野玫瑰。</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>柯烟： 我和我男朋友异地六七年了吧。 最开始我们俩异地还是天津和北京这种，一周见一次，虽然实在很费钱（主要是酒店，一周住两天酒店，大概7/800吧），最开始住酒店的钱还是我出的。 图啥，我现在想想也不知道。 毕竟我俩算是网恋奔现，见面了也没什么可聊的，就在酒店里一起打游戏，然后出去吃饭。 最开始我不仅出酒店钱，我还出饭钱，一天两…</content>
+    <link href="https://www.zhihu.com/question/304440293/answer/2884905342"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/462521612/answer/2927156165</id>
+    <title>2022-10-01起失业，擅长VBA+SQL+OFFICE</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>TuskAi： steam上花70块钱买个名叫Turing Complete的游戏，用书里的知识通过所有关卡，就能学会了 游戏宣传片…</content>
+    <link href="https://www.zhihu.com/question/462521612/answer/2927156165"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/bao-f</id>
+    <title>招AIGC实习生</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>Baof： 对AIGC感兴趣的小伙伴，欢迎一起探索AIGC的前沿研究与应用落地（也欢迎推荐和扩散~） 基本要求： 深度学习基础和编程基础的学生。 工程能力优秀，做事严谨认真。 能实事求是的对问题进行定位和诊断。 实习时间6个月以上，每周至少线下实习三天，工作地点在北京（五道口附近）。 研究课题： 端到端的扩散模型网络架构（欢迎有low…</content>
+    <link href="https://www.zhihu.com/people/bao-f"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/qing-guo-ni-de-na-zhen-feng</id>
+    <title>财富是对认知的补偿，而不是对勤劳的奖赏</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>江湖见闻录： 1、《金瓶梅》中李瓶儿跟潘金莲聊天时说：“莲妹妹，记住姐一包话，这世上的事儿，凡是禁止的，往往是有好处但不想分给你。凡是提倡的，大概率是有坑需要你去填。“瓶儿的一句话，让金莲醍醐灌顶。 2、人一生的能量和生命力如果倾注在一件事情上，是热爱、发展和成就；如果倾注在一个人身上，便是压抑、捆绑和缠结。穷其一生，找一…</content>
+    <link href="https://www.zhihu.com/people/qing-guo-ni-de-na-zhen-feng"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/Y.L.Qu-XJTU</id>
+    <title>读博之路常见问题的几点个人建议</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>Ready-Player： 2021年9月30日编辑 先送给大家一首歌：Wake Me up When September Ends 写作目的是十一想一个人静静心，习惯码字静心，顺手传递给有缘人。 1 Ready-Player的苦行现状 博士的整体工作已经做完了，后续就是写完大论文和一本专著。 只算一作的话，13 accepted…</content>
+    <link href="https://www.zhihu.com/people/Y.L.Qu-XJTU"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/521647979/answer/2948982823</id>
+    <title>都是挣扎求生的俗人,刻意营造惊艳就忒没劲了吧?</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>沉默的象： 刚好手机里存了几个图. 真假不知,权当看个乐呵.…</content>
+    <link href="https://www.zhihu.com/question/521647979/answer/2948982823"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/322253369/answer/3184660427</id>
+    <title>SuperNG6</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>SuperNG6： 今天在上GitHub的时候，偶然间看到一个项目，makeding aria2b。浏览一下，发现可以通过调用aria2c rpc获取peers 客户端名称，然后调用iptables进行…</content>
+    <link href="https://www.zhihu.com/question/322253369/answer/3184660427"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/472871856/answer/2018067609</id>
+    <title>坚持生产力发展方向，牢记人民根本利益</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>啦啦嘟嘟嘟啦啦嘟： 科研人员最不缺的是idea，真正缺的是对idea可行性的评估和判断能力。 平均一个正常的科研人员储备的idea在100个以上，按最保守估计，30个。以最简陋的估算，把这30个idea都做完大概需要20年（这里面完全不考虑在实验过程中新产生的idea，which is impossible）。而如果你是一…</content>
+    <link href="https://www.zhihu.com/question/472871856/answer/2018067609"/>
+  </entry>
+  <entry>
+    <id>https://link.zhihu.com/?target=https%3A//blog.samaltman.com/how-to-be-successful</id>
+    <title>十万个为什么</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>小小： 山姆·奥特曼是OpenAI的首席执行官，他带领团队创造了轰动全球的聊天机器人ChatGPT。以下是他在2019年写的博客。 原文链接：blog.samaltman.com/how- 如何成功 我观察了上千位创始人，并且思考了要如何赚大钱，或者创造出有价值的东西。 通常，人们一开始追求前者，但是最终追求后者。 这里有 13…</content>
+    <link href="https://link.zhihu.com/?target=https%3A//blog.samaltman.com/how-to-be-successful"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/593165185/answer/2964260602</id>
+    <title>博一在读。深感自己基础太差。科研水平十分不够。没有人带实验，应该怎么补上。（本科期间基础很不扎实）?</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>张小凡： 完全不需要担心。 没有人是把全部基础都打好了才开始科研，”边学边做“才是科研人的常态，“学完了再做”不切实际，因为根本学不完。而且前者会学的更扎实。 通常博士新生有这种“打基础”的想法，其实是对科研的逃避心理，觉得科研太难，想读一些课本，做一些题，回到自己舒服的领域。 要意识到逃避科研的方法有很多种：有些人摆烂，有些…</content>
+    <link href="https://www.zhihu.com/question/593165185/answer/2964260602"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/wei-wei-53-54-95</id>
+    <title>对文字有执念，对内容有期待，对生活有理想！</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>薇薇： 一、《简单的逻辑学》 这是一本足以彻底改变你思维世界的小书。美国著名逻辑学家、哲学教授D.Q.麦克伦尼，将深奥宽广的逻辑科学，以贴近生活、通俗易懂、妙趣横生的语言娓娓道来。 它既没有刻板的理论教条，…</content>
+    <link href="https://www.zhihu.com/people/wei-wei-53-54-95"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/20475880/answer/2743821825</id>
+    <title>公众号改为:毛选方法论  专研于毛泽东分析和解决问题的方法论</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>遨游之舟： 教员《毛泽东选集》和达利欧《原则》，真正颠覆并重塑旧有的世界观和方法论，进化整个人生的存在方式和发展策略。读后暗喜。特别是《毛选》。 从《毛泽东选集》学到的最根本的东西——改变整个人生方式和做…</content>
+    <link href="https://www.zhihu.com/question/20475880/answer/2743821825"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/576623619/answer/3201883786</id>
+    <title>努力打工的普通人，了解众多省份电网招聘，繁琐答疑请走付费</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>翻涌的花生酱： 1.文字功底深厚 2.善于人际沟通，可以和其他课题组人员产生交集 3.和领域大牛攀谈能力，共名 4.根据大家说的再加一个不要脸能力 上面才是最重要的，下面的也需要，但重要程度比上面差得多 可以熬夜的脑子 一副抗造的身体 一颗强大的内心 剩下的只是开始的时候需要，打个基础。看似重要，其实可有可无 1.可以静下心阅读本领域期刊…</content>
+    <link href="https://www.zhihu.com/question/576623619/answer/3201883786"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/524855881/answer/3175370937</id>
+    <title>物理学话题下的优秀答主</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>刘易安： 感觉就是从我博士延期了以后，到开始延期第二年的时候，我的科研能力才突飞猛进。 因为我读博的时候一直在导师的思路下搞科研，他的那种模式出文章特别慢，总是要把一个理论课题把它做到别人没有办法再继续做的程度，把这个课题终结的程度，一点余地都不留的那种。如果可以往下做下去，就让学生一直往下做，所以学生几年都出不了一篇文章…</content>
+    <link href="https://www.zhihu.com/question/524855881/answer/3175370937"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/491712456/answer/2196480922</id>
+    <title>Ph.D., Harvard University</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>Dr.施德龙： 这是我之前写的一个答案，转到这里，希望能对师弟师妹们有所帮助。 我在海外读博(美国top5藤校)，好的坏的导师都经历过。好的导师能够照亮人的一生，而碰到坏导师轻则放弃学业，重则身心受损。就我个人经历而言，博士生选导师应当（至少）考虑以下几个维度，重要性依次递减。 说起选导师，很多人第一反应就是学术方向/志趣相…</content>
+    <link href="https://www.zhihu.com/question/491712456/answer/2196480922"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/sophia-28-8-9</id>
+    <title>博士生涯的17条简单“生存”法则</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>SOPHIA： Next Scientist 是一个专门帮助博士生获取并保持动力、实现毕业和指导在业界求职的网站。本文作者 Julio Peironcely 就是 Next Scientist 的创始人和编辑，曾在荷兰莱顿大学的 PhD 期间做代谢组学和代谢产物鉴定的研究。在这篇文章中，Julio 结合自己的亲身经历，给…</content>
+    <link href="https://www.zhihu.com/people/sophia-28-8-9"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/57-68-72-58</id>
+    <title>我是三有青年:有勇气，有魄力，有创造力！</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>白日梦： 一：做事的一些原则 1.凡做事，必有方法。 （绝不依赖于感觉做事是我给自己卡的标准，我会强制让自己思考和提炼出科学的方法，SOP流程，通用原则等，做事我追求的是可重复，可复制的科学式打法，而不是今…</content>
+    <link href="https://www.zhihu.com/people/57-68-72-58"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/399452902/answer/2738762564</id>
+    <title>要找到自己真正热爱和擅长的事，需要的不是各种尝试，而是选一样后深入实践。</title>
+    <updated>2024-02-09T07:16:56.029019+00:00</updated>
+    <content>崔丁： 《毛选》中有讲。 1 要找到自己真正热爱和擅长的事，需要的不是各种尝试，而是选一样后深入实践。 认为自己真正热爱和擅长的事是找出来的，需要各种尝试去找，这个本身就是错误的路线。 这么干造成的后果会有两个纠结点。一就是简单的尝试失败了，但很难判断到底是自己不擅长，还是因为实践太短。二是如果想要花很多时间去深入实践，这是不是…</content>
+    <link href="https://www.zhihu.com/question/399452902/answer/2738762564"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/537007032/answer/3234105853</id>
+    <title>对大规模机器学习和MLsys感兴趣，学习路线是什么？</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>孙挺Sunt： 不然先自己写一个DL framework吧，推一推基础公式（比如矩阵微分），实现一下各种基础算子、优化器、自动微分、NDArray（包括CPU、GPU等后端），把ResNet跑起来。然后在这上面实现些简单点的research ideas，比如天奇哥的checkpointing。 我试过一次，在做完CMU 1…</content>
+    <link href="https://www.zhihu.com/question/537007032/answer/3234105853"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/322567627/answer/669787970</id>
+    <title>请问作为一个即将入学的PhD学生，怎么去发掘或者说判断出一个非常有潜力的领域呢?</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>Yuhang Liu： 谢邀。 真有心做也不难，就是要花点时间。你去找统计领域学术水平比较好的学校，比如前20前30的学校，去查他们最近2-3年新招的博后、ap的资料，看他们导师是谁、主要做什么领域，publication大致看一看，应该心里就有数了。这差不多是“结果反推原因”——能找到大牛校职位的新人做的方向，往往就是比…</content>
+    <link href="https://www.zhihu.com/question/322567627/answer/669787970"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/322567627/answer/670948050</id>
+    <title>请问作为一个即将入学的PhD学生，怎么去发掘或者说判断出一个非常有潜力的领域呢?</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>Dr.Wu： 1、认同科研界选择大于努力。 2、科研领域，找出有潜力的领域的难度大于PhD毕业的难度。 有一句老话说得好：大牛挖坑，小牛灌水，菜鸟找坑。如果你已经可以很好地找坑了，那你已经具备了PhD毕业的素养，成为了一个小牛。大家可以阅读一下一篇古老的文章： 信息不对等的问题，在科研界非常的严重。试想某一天有一个农民发现了…</content>
+    <link href="https://www.zhihu.com/question/322567627/answer/670948050"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/30022694/answer/224725970</id>
+    <title>数学话题下的优秀答主</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>dhchen： 谢邀。 专业： 应用数学。 方向：抽象发展方程、数学物理、偏微分方程反问题、最优化控制。 实际上吧，我现在很长时间没看论文了，最近两个月主要在写论文。一般来说，我一般会在下面情况下开始看paper：第一，一个项目定好题目后，我会开始搜集paper以调查“研究现状”和“常用的工具”。第二，写论文的过程中对某个技术…</content>
+    <link href="https://www.zhihu.com/question/30022694/answer/224725970"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/30022694/answer/224410056</id>
+    <title>作为入行数年的专业科研工作者，你每周看几篇 paper ？</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>厉岳洲： 寻找课题的时候，和确认开始课题时，需要寻找兴趣点和学习计算技术，会下一堆文章读，但大多可能不会那么仔细，一般就看核心的计算技术部分，无聊时读读introduction。(寻找课题时基本上只读abstract)。在课题如火如荼的进行中时，几乎是不读文献的，直到手里的思路和工具实在无法将工作进行下去时，又回到上述步…</content>
+    <link href="https://www.zhihu.com/question/30022694/answer/224410056"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/30022694/answer/224543003</id>
+    <title>作为入行数年的专业科研工作者，你每周看几篇 paper ？</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>田渊栋： 背景：人工智能，强化学习 追求数目没有意义。读文章一般两个目的： 1. 看大家在做什么，找方向。 这时候一般读读Abstract和Introduction，对领域有初步了解，知道它主要关于什么，搞清一些概念的含义和联系。这时候不懂没关系，多看几篇文章就懂了。一般聪明的人这一步可以做得很快。 2. 搞清细节 找一个自己感兴…</content>
+    <link href="https://www.zhihu.com/question/30022694/answer/224543003"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/623203902/answer/3231533843</id>
+    <title>C-Chosen</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>C-Chosen： 引用陈希孺院士编著的《数理统计学教程》序言 院士尚且如此，更何况我们呢。希望对题主有帮助。…</content>
+    <link href="https://www.zhihu.com/question/623203902/answer/3231533843"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/620935206/answer/3232618874</id>
+    <title>一些AI顶会论文的大几段数学，感觉很难读懂，怎么办？</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>Qs.Zhang张拳石： 这个问题问出来的时候，问题和答案就已经反了。如果不关注AI方向，对于很多领域的学术论文来说，看不懂本来就是常态，每个方向都要啃下一些硬骨头才能看懂。但AI领域目前的情况是，对于相当一部分比较优秀的博士毕业生来说，很多论文只需要读10-20分钟。如果读一篇“应用型论文”，看完摘要就可以想象出后面的…</content>
+    <link href="https://www.zhihu.com/question/620935206/answer/3232618874"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/yale-kenvin</id>
+    <title>机器学习界的小学生，中国厨艺训练学院第105届辍学生</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>懂王就是懂： 局部敏感哈希，输入向量越接近，输出碰撞的概率就越大</content>
+    <link href="https://www.zhihu.com/people/yale-kenvin"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/qing-feng-77-90</id>
+    <title>深度学习的本质是什么？</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>清风： 感觉mlp cnn的本质是拟合，但是transformer的本质是哈希+拟合</content>
+    <link href="https://www.zhihu.com/people/qing-feng-77-90"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/599713780/answer/3018222382</id>
+    <title>如何入门 GPT 并快速跟上当前的大语言模型 LLM 进展？</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>叶兀： 作为CEO，Sam将OpenAI的内部氛围组织的很好，有位OpenAI的前员工告诉拾象团队，当2018年GPT-2的论文被驳回时，Sam在团队周会上将拒信的内容朗读给所有员工，并告诉大家在通往成…</content>
+    <link href="https://www.zhihu.com/question/599713780/answer/3018222382"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/624021058/answer/3230880147</id>
+    <title>唯刀百辟，唯心不易</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>Quokka： 1、分解可能是为了加某种约束（一般是低秩约束）。例如对大语言模型做 lora 微调，把一个 dxd 的矩阵拆成 dxr 和 rxd 的矩阵，这样微调的参数量更少，而且这两个矩阵的乘积的秩一定不超过 r。 如果想用单独一个 dxd 矩阵 W 来实现这种效果会比较麻烦，例如需要使用梯度投影法：先做一步梯度下降，…</content>
+    <link href="https://www.zhihu.com/question/624021058/answer/3230880147"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/359740428/answer/3179649564</id>
+    <title>在搞化学的INTP，喜欢一切千奇百怪的事物</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>厄休拉： 1. “不用在意这些小事，你只需要做好你的research就好了” 2. “论文应该写作到什么程度才合适： 读者不看图，只读文字，就可以了解科学事实 读者不看文字，只看图，也可以了解科学事实” 3. 论文的introduction要把繁写简 不要拘泥于细节 自己工作要把简写繁 不要遗漏细节…</content>
+    <link href="https://www.zhihu.com/question/359740428/answer/3179649564"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/dai-bin-87-44</id>
+    <title>it is a good day to die</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>feby： 看论文，做研究一眼看穿问题的本质。香农传记电影里面采访信息论大牛Gallager，他说有一次找他导师香农讨论一个问题。香农说如果去掉一个条件，再去掉一个条件，再再去掉n个条件，你看原始问题的问题等价成什么了？ 真正的科研大牛具有从复杂问题中抽丝剥茧，发现问题本质的能力。 慢慢学吧，活到老学到老。…</content>
+    <link href="https://www.zhihu.com/people/dai-bin-87-44"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/618622565/answer/3222228940</id>
+    <title>交流请到公众号：墨子连山</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>墨子连山： 跟腱断之前，我时不时去校园里投投篮，有时没场地了，也会加入别人打打野球。 别看是野球，想要打得爽有套路的，套路不对你可能连球都摸不到。 刚开始打，谁都不认识谁，这时候千万别谦让。 一般防守的话，我都会主动断个球，进攻则上去要球，总之先把球权拿到。 拿到球权，别怕独，先自己攻两个。 手感好，就投篮，手感差，就突篮下，就算…</content>
+    <link href="https://www.zhihu.com/question/618622565/answer/3222228940"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/458196603/answer/1945330900</id>
+    <title>Waymo研究员，UCLA自动驾驶博士，18线武侠小说作家</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>叶小飞： 由于不清楚题主研究方向，以下回答只针对ML/DL/CV/NLP方向。 先泼个冷水，如果你本科积累不多，也不是天赋异禀，硕士成为真正的科研大佬是不太可能的，成为“灌水大佬”倒是有可能。因为在我看来，只有真正做出能对学术界与工业界有很大启发的研究作品的人才能被称作大佬（比如搭积木提高一两个百分点就别拿出来吹了吧。。。…</content>
+    <link href="https://www.zhihu.com/question/458196603/answer/1945330900"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/458196603/answer/2317287533</id>
+    <title>二十楼研学社，一个帮你人生精进的公众号</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>家里有只肉丸子： 新读研的科研小白，抱着满腔热情（也可能仅仅是为了混毕业）投身科研圈，却发现—— 科研需要的技能和能力，为啥本科从来没讲过？ 蹉跎了一年又一年，终于摸清了科研基本套路，培养了基本能力后抬头一…</content>
+    <link href="https://www.zhihu.com/question/458196603/answer/2317287533"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/458196603/answer/1932012948</id>
+    <title>科研等 2 个话题下的优秀答主</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>酸菜： 首先，必须要坚持每天泛读文献！ 科研圈有句玩笑话：日看论文300篇，不会科研也会编！ 当一个领域读多了，基本都是那个实验方法，基本都是那几个原理和逻辑，所以一扫就过了……一篇文章半小时，so eas…</content>
+    <link href="https://www.zhihu.com/question/458196603/answer/1932012948"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/458196603/answer/3226357972</id>
+    <title>教师资格证持证人</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>没眼睛的Lip： 国家杰青保姆级培养你做科研大佬—强烈推荐小破站up主：X_LAB （国家杰青，教授钟澄）论文引用量18000+ 钟澄老师B站教程视频个人页 钟澄老师谷歌学术个人页面 老师已经在B站持续更新…</content>
+    <link href="https://www.zhihu.com/question/458196603/answer/3226357972"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/39-49-70-64-71</id>
+    <title>农业 从业人员</title>
+    <updated>2024-02-09T07:16:42.425447+00:00</updated>
+    <content>說書先生： 目前为止，最治愈我的一段话是出自《肖申克的救赎》里的这一段台词：“任何一个你不喜欢又离不开的地方，任何一种你不喜欢又摆脱不了的生活，就是监狱。如果你感到痛苦和不自由，希望你心里永远有一团不会熄灭的火焰，不要麻木，不要被同化。”</content>
+    <link href="https://www.zhihu.com/people/39-49-70-64-71"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/580810624/answer/3251186344</id>
+    <title>深度学习｜多模态学习 | AI for Science</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>FishDreamer： 本文是发表于NeurIPS2023上的马毅教授团队发布了最新研究成果，设计了一个完全可用数学解释的白盒Transformer模型CRATE，并且性能接近ViT效果。同时图灵奖得…</content>
+    <link href="https://www.zhihu.com/question/580810624/answer/3251186344"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/xie-xiao-fei-78-24</id>
+    <title>Waymo研究员，UCLA自动驾驶博士，18线武侠小说作家</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>叶小飞： 在2023年九月里的平凡的一日，我通过了答辩，正式成为了一名刀客特。我朋友问我答辩成功后怎么庆祝，我说我要先把自己知乎头衔“UCLA在读博士”的“在读”俩字去掉。 今天我在这里写下这篇文章，一是想和大家，尤其是那些博一博二处于迷茫、或者正在苦苦挣扎的小伙伴分享一些自己的经验心得，二是为自己此时此刻一些微不足道的感…</content>
+    <link href="https://www.zhihu.com/people/xie-xiao-fei-78-24"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/616179189/answer/3230281054</id>
+    <title>AIGC/Human Pose Generation</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>妖妖： 这篇大名鼎鼎的将扩散模型和SDE（随机微分方程）结合起来的工作，同样一作为宋飏博士，为 ICLR 2021 Outstanding Paper Award（这个奖一共8篇paper）。这篇工作就…</content>
+    <link href="https://www.zhihu.com/question/616179189/answer/3230281054"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/359740428/answer/3180882857</id>
+    <title>你的导师对你说过什么让你至今难以忘怀的话？</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>饕餮爨： 提前进组第一次组会汇报，老师给我的建议。 You can date an idea, but you can't marry an idea until there's enough evidence of it.…</content>
+    <link href="https://www.zhihu.com/question/359740428/answer/3180882857"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/438708854/answer/3220038348</id>
+    <title>你读过最冷门，但「含金量极高」的书是什么？</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>付明鑫： 冷门却含金量极高六本书 《聪明人的个人成长》 作者：[美] 史蒂夫·帕弗利纳(Steve Pavlina) 译者：一炜 全球上亿用户一致践行的成长7原则》 本书就成体系的介绍个人成长的七个原则，分别是…</content>
+    <link href="https://www.zhihu.com/question/438708854/answer/3220038348"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/624959488/answer/3240690600</id>
+    <title>绘画等 3 个话题下的优秀答主</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>刘斯坦： 纯属搞个大新闻的文章，蹭世界模型的关键词，某媒体跟着在这带节奏就让人很难绷。。。这文章和世界模型的关系可以用一句话评价：not even wrong 文章研究的是什么 首先看看这文章干了啥，其实就…</content>
+    <link href="https://www.zhihu.com/question/624959488/answer/3240690600"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/605039282/answer/3117768060</id>
+    <title>强关联/高次谐波/角分辨光电子能谱/超快电子衍射，都不会</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>YF.Su： 当然是的。 我博士第一年上课的时候，MIT著名印度裔凝聚态理论大佬就跟我们说，Research, in general, is for entertainment. 就我个人平时自己设计课题而言，基本就两个标准：1.好玩。2. 能做。剩下的事情做了再说。 很多人都以为科研真的是像初中教科书上写的一样：提出假设-&amp;…</content>
+    <link href="https://www.zhihu.com/question/605039282/answer/3117768060"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/625185576/answer/3243188858</id>
+    <title>NE0Matrix</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>NE0Matrix： 说实话，我既不关心巴勒斯坦和以色列的恩恩怨怨，也不关心他们的历史和纷争。 在我看来，巴以冲突爆发之后，有，且只有一样东西是值得我们中国人去关心的，那就是这场冲突的爆发，验证了我这些年…</content>
+    <link href="https://www.zhihu.com/question/625185576/answer/3243188858"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/32210068/answer/3233833625</id>
+    <title>Assistant Professor@UVA CS</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>Chang Lou： 在很多人的印象里，博士生的初期淘汰是一个基于能力的筛选过程。他们认为过得不如意的博士生大多数是因为科研能力缺乏。但根据过去的经验，我认为出现这类情况并不是能力问题。许多博士生之所以…</content>
+    <link href="https://www.zhihu.com/question/32210068/answer/3233833625"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/492914851/answer/3242859707</id>
+    <title>编程语言话题下的优秀答主</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>圆角骑士魔理沙： 在大庭广众下把自己做成烤羊肉串好像有损公序良俗。 羊肉串也要配上啤酒跟孜然，但是半场开香槟是著名糟糕行为之一。 可我还是要这么做。我身上发生的剧情太光怪离奇了。我必须写下来。 在羊肉串过期以前写下来。在我的愤怒与不甘还没有完全转化为自我感动跟刻奇以前写下来。 在这个特殊时刻写下来。在赛马娘3刚开播的时候写下来。…</content>
+    <link href="https://www.zhihu.com/question/492914851/answer/3242859707"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/63036854/answer/3184036744</id>
+    <title>懂比爱重要，性格色彩卡牌大师</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>S小茹： 有人刁难你的时候，压根就不用害怕，给他倒杯水，让他喝点水慢慢说； 对你上纲上线的人，可以鼓励他说细节，他说的越是详细就会越显得他小题大做，不管对方说什么你都给他定性为情绪问题。 如果你实在不耐烦，忍不住想要怼回去，那么切记一定不要和他辨论说话的内容。 你想打击他的气焰，让他没了气势可以这样做，在他说话的时候静静的听着…</content>
+    <link href="https://www.zhihu.com/question/63036854/answer/3184036744"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/605341693/answer/3240493744</id>
+    <title>Neinaa</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>Neinaa： 这个问题让我想起了很喜欢的梗图，搬运过来给大家分享一下。…</content>
+    <link href="https://www.zhihu.com/question/605341693/answer/3240493744"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/38347269/answer/76404261</id>
+    <title>少壮不努力，长大搞IT</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>李一一：…</content>
+    <link href="https://www.zhihu.com/question/38347269/answer/76404261"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/38347269/answer/76058392</id>
+    <title>英俊的麻瓜。作为被迷情剂坑了半辈子的人，邀我答的情感问题一律劝分：）</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>TomRiddle： 谢邀 和墨菲定律没关系，和耶基斯-多德森定律有关。 耶基斯多德森定律，是指1.动机强度和工作效率之间的关系，不是线性关系，而是呈倒U型曲线的。2.不同的任务难度中影响工作效率的动机水平…</content>
+    <link href="https://www.zhihu.com/question/38347269/answer/76058392"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/38347269/answer/3235150263</id>
+    <title>钢琴话题下的优秀答主</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>La Valse： 因为每一步的局部最优，无法带来全局最优。 以学钢琴为例： 如果你极度在意每一天、每节课的效果和效率，完全不能容忍一点浪费和损耗，恨不得每一分钟都要发挥出它最大的价值才行。但是就算是天才，也不可能没有一点的浪费啊，更何况普通人呢？不能接纳“浪费”，最后往往用不了多久，就会身心俱疲，而且会心生猜忌，最终以放弃…</content>
+    <link href="https://www.zhihu.com/question/38347269/answer/3235150263"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/624259381/answer/3238554535</id>
+    <title>原用户名“小乖他爹”不符合最新规定，已更改用户名</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>编译船夫： 我比较喜欢Nathan（Apache Storm的创始人）的一篇博客：《You should blog even if you have no readers》，可以用来回答这个问题，内容如下： Spencer Fry wrote a great post on "Why entrepreneurs s…</content>
+    <link href="https://www.zhihu.com/question/624259381/answer/3238554535"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/sciplatform</id>
+    <title>让科研更简单-文献工匠，专业医学科研服务。</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>文献工匠： 首先我们参考Keshav教授发表的一篇论文How to read a paper 中提出的阅读学术论文三遍论。手把手教你如何高效读论文，告别海量精力投入却收效甚微之窘境。HowtoReadP…</content>
+    <link href="https://www.zhihu.com/people/sciplatform"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/27434493/answer/36803124</id>
+    <title>编程话题下的优秀答主</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>luikore： 是的, 首先要确定实现的目标, 有几个关键目标是会影响你的实现的 - 要不要支持完整的正则文法? (如果不支持 "|", 几十行就能搞定, 如果要支持完整的正则文法, 就需要一个能力超越正则的解析器, 如果要编写一个高效的 one-pass 正则编译器, 还是要学不少编译技术的...) -…</content>
+    <link href="https://www.zhihu.com/question/27434493/answer/36803124"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/49608607/answer/487319575</id>
+    <title>有哪些东西是你读博士以后才懂的？</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>甜草莓： 9.21更新。 读博到最后一年了，国内国外都待过，遇到过各种老板和同学、同事。我来说说自己的看法，科研相关。 客观方面来说， 一个好老板是博士生涯顺利的必要条件。 一个为人和善、专业知识丰富、学术圈人…</content>
+    <link href="https://www.zhihu.com/question/49608607/answer/487319575"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/537007032/answer/3234159319</id>
+    <title>MLsys超级兵，画饼吹水 | 白天摸鱼，摸黑干活</title>
+    <updated>2024-02-09T07:16:28.054559+00:00</updated>
+    <content>Fazzie： Blog 链接(ML system 入坑指南) 知乎原文： ML system 入坑指南 最近ChatGpt大火,越来越多的人开始关注大模型,但对于大模型落地而言,除了先进的算法,其背后的MLsystem(机器学习系统), 从分布式训练到高效推理的完整链路同样重要, 好的基础设施是应用爆发的基础. 作为一个入坑M…</content>
+    <link href="https://www.zhihu.com/question/537007032/answer/3234159319"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03</id>
+    <title>欲上青天揽明月</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>关注收藏  ​
+ 添加评论 
+​
+举报</content>
+    <link href="https://www.zhihu.com/people/e4957d43baab6c5e4a075ea5e98c2d03"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/631954972/answer/3303775061</id>
+    <title>马上去念CS PhD了，想补数学课有什么建议？</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>Gravity： 在我的认知里，我目前的研究方向应该是ECE里面最数学的方向了，所以大概讲一下自己的学术学习历程。以下内容仅供参考，书本评分满分5分（难度评分都是基于学习过前面内容之后学习后面内容的的相…</content>
+    <link href="https://www.zhihu.com/question/631954972/answer/3303775061"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/382826337/answer/3313099288</id>
+    <title>编程等 2 个话题下的优秀答主</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>rainoftime： 感觉"Dijkstra’s Three Golden Rules for Successful Scientific Research"有一定参考价值…</content>
+    <link href="https://www.zhihu.com/question/382826337/answer/3313099288"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/458786106/answer/1882416313</id>
+    <title>super大龄博士不在读， 嗯大到无法想象</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>Henry.H： 执行力。 课题内天马行空的idea我一天能想10个，各种矩阵拍扁了，拉长了，组合feature，权重配比，换个Model,。但这特喵的根本就不能算科研潜力。哪个方法能被验证具有潜在效果？你需要不停地做实验，运行出实验结果。而实验的整体结构和设想在你自己脑子里，需要快速没有错误的落地，并开始生产实验数据。…</content>
+    <link href="https://www.zhihu.com/question/458786106/answer/1882416313"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/32210068/answer/624547698</id>
+    <title>对 PhD 一年级新生有什么建议？</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>皎皎： 最近偶然看到了王汎森老师的文章《如果让我重做一次研究生》，强烈推荐给大家。 侵权即删。 如果让我重做一次研究生 这个题目我非常喜欢，因为这个题目，对大家多少都有实际的帮助。如果下次我必须再登台演讲，我觉得这个题目还可以再发挥一两次。我是台大历史研究所毕业的，所以我的硕士是在台大历史研究所，我的博士是在美国普林斯顿大学取…</content>
+    <link href="https://www.zhihu.com/question/32210068/answer/624547698"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/49608607/answer/1868425096</id>
+    <title>Wondering</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>Wondering： 1. Engineering 和 Theory 之间差一双手 2. 要有自己的科研品味 3. 没有交流能力的PhD功力折减一半以上 4. 英语真的是一把捏在你手里的小锤子！用得好，捶别人，用不好会被别人捶 5. PhD 会拉近你和很多人的距离，尤其是大家都在读PhD，因为我们都有一样的老板 6. 吐槽老板高要…</content>
+    <link href="https://www.zhihu.com/question/49608607/answer/1868425096"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/458196603/answer/3266020661</id>
+    <title>留学申请可咨询</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>水dong方块： 思想是很重要的, 不要埋头苦干， 要总结。 research是重要但是不紧急的事情, 所以很容易被拖延. 每天都应该要求自己先挤时间做点科研,然后做紧急的事情. 写学术论文也是分享， 要每天写一点， 不要给自己压力。 分享你这周的发现。不是为了完成任务而随便写点。 要详细写出你发现了啥， 怎么发现的。 先…</content>
+    <link href="https://www.zhihu.com/question/458196603/answer/3266020661"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/chen-kun-long-37-36</id>
+    <title>蚂蚁集团 员工</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>CKLSniper： 从普通码农的角度分享几个适合自学的吧。非数学系出身的角度看，读书主要是为了拓宽视野，同时具有一定的实用价值，不过分追求内容的深刻性。 齐老师的重温微积分 非数学系普通人自学实分析最大的…</content>
+    <link href="https://www.zhihu.com/people/chen-kun-long-37-36"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/chen-kun-long-37-36</id>
+    <title>蚂蚁集团 员工</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>CKLSniper： 首先要说的是，“机器学习”这个技术从应用角度看和研究角度看可能是截然不同的两件事情。提问者在知乎上问这个问题，应该可以假设是需要从应用角度出发学习机器学习。 对于绝大部分的应用学科，…</content>
+    <link href="https://www.zhihu.com/people/chen-kun-long-37-36"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/587238867/answer/3269508747</id>
+    <title>MLSys 2023有哪些值得关注的文章？</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>孙挺Sunt： 抽空一口气记了下本届MLSys会议全部46篇论文中每篇的大致内容，并顺便分了下类。这波属实是累趴下了。 Memory Optimization Reducing Activation Rec…</content>
+    <link href="https://www.zhihu.com/question/587238867/answer/3269508747"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/49608607/answer/2835789588</id>
+    <title>最近刚刚读了国外很火的《THE PH.D. GRIND》（读博士是苦差事）</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>知乎大用户： 最近刚刚读了国外很火的《THE PH.D. GRIND》（读博士是苦差事） 作者在斯坦福读了6年博士，前三年迷茫，后三年终于毕业！ 在最后总结了自己的20条经验教训，如下： Here are twenty of the most memorable lessons that I’ve learned throu…</content>
+    <link href="https://www.zhihu.com/question/49608607/answer/2835789588"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/266057601/answer/2267529476</id>
+    <title>复旦大学 理学硕士</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>齐思故齐在： Boyd 的《Convex Optimization》确实是一本好书，当年在数学系读书的时候，很多老师也都推荐这本书。这本书的优点是大而全，拿在手上就能感受到沉甸甸的重量。。。我自己也曾经…</content>
+    <link href="https://www.zhihu.com/question/266057601/answer/2267529476"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/610790036/answer/3117568325</id>
+    <title>健康管理师资格证持证人</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>Home Talk： 经鉴定，男朋友错了，他太惯着你了。 莫言说：不要仗着我对你好向我使坏。 人不能惯，越惯越混蛋，人不能让，越让越嚣张，情不能盼，越盼越心寒。 世上的恶人都是惯出来的。不是所有人都配得上你的善良。别惯坏不领情的人，别喂饱不感恩的心。 刺猬有刺，核桃有壳。生而为人，既要有菩萨心肠，也要有狮子般的力量。 活明白了，就…</content>
+    <link href="https://www.zhihu.com/question/610790036/answer/3117568325"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/292293671/answer/2829349894</id>
+    <title>计算神经学PhD在读</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>seriesholic： Zotero + Obsidian （都免费） 折腾了几年琢磨出来的，以前用过notion，mendeley，marginnote，logseq，OneNote等。Marginn…</content>
+    <link href="https://www.zhihu.com/question/292293671/answer/2829349894"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/626256909/answer/3264058744</id>
+    <title>我是我一生中最后死去的人</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>NPC.： 如果生活把你的门关上了，那你就再打开。因为这是门，门就是这样用的。</content>
+    <link href="https://www.zhihu.com/question/626256909/answer/3264058744"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/people/mengyongran</id>
+    <title>唯一公众号   雍然驿站</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>旅行者一号： 一个看起来非常简单的道理， 在绝大多数情况下，只要身体没有生理的疲劳，就不断行动，不管情绪如何。 这个表面上看起来太简单了， 像是废话， 但我观察自己和周围的人， 发现未必， 很多人遇到抗拒的事情， 比如有论文要写，或者有什么工作任务要做， 因为讨厌做，或者担心做不好， 反正就是类似拖延症，你懂的， 然后就迟迟不做， 就是不行动…</content>
+    <link href="https://www.zhihu.com/people/mengyongran"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/60648826/answer/2442192637</id>
+    <title>设计embedding维数的时候有什么讲究？</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>rot.cx： Johnson–Lindenstrauss 定理是这样的：一个一百万维空间里的随便一万个点，一定可以几乎被装进一个几十维的子空间里！ 严格说来是这样：在 M 维空间中的 N 个点，几乎总是被包含在一个 D 维子空间里的。这里的 D 按照直觉应当等于 N 的阶，可是实际上我们只需要让 D 是 log(N) 的…</content>
+    <link href="https://www.zhihu.com/question/60648826/answer/2442192637"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/422373907/answer/2260975090</id>
+    <title>NLPer | Deep Learning</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>DengBoCong： 这个问题很Nice，扩展一下就可以谈到Gradient Estimate，站在Gradient Estimate这个视角去理解和寻找这个问题的解决方法，视野就开阔了很多，涉及到的…</content>
+    <link href="https://www.zhihu.com/question/422373907/answer/2260975090"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/384309878/answer/2713962647</id>
+    <title>游戏开发等 4 个话题下的优秀答主</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>韦易笑： 我也用了 zk 一段时间了，觉得挺科学，应该是我近半年学习到最有价值的东西吧，分享一些我的理解和整理的笔记吧，以下观点来自对他人观点的整理和总结： 不用纠结 Zettelkasten 这个单词是啥，不是高深的玄学，就是德语的 “卡片盒”。 你无需像卢曼那样靠 zk 在 30 年里出版 60 本书，200 篇论文，但…</content>
+    <link href="https://www.zhihu.com/question/384309878/answer/2713962647"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/452384702/answer/2286559478</id>
+    <title>什么是最有效（或价值）的科研？</title>
+    <updated>2024-02-09T07:16:12.510931+00:00</updated>
+    <content>科研汪老徐： 我在读博的第二年，绞尽脑汁想了个idea，花了几个月写代码跑实验，然后认真的写了篇文章，审稿人来了一句This is an incremental work …… 拒了！ 当时英语也不咋地，…</content>
+    <link href="https://www.zhihu.com/question/452384702/answer/2286559478"/>
+  </entry>
+  <entry>
+    <id>https://www.zhihu.com/question/625396253/answer/3246041279</id>
+    <title>以后不想做科研，读博有意义吗？</title>
+    <updated>2024-02-09T07:16:12.509934+00:00</updated>
+    <content>宸咚咚： 在我看来，读博的重要意义在于科研训练，有没有受过科研训练的学生之间几乎有天壤之别。网上看到封东来院士的一句话，“读博不能让一个人变聪明，但是可以从一个小白变成一个职业选手”，这说的也是科研训练的意义。 科研训练过程中，锻炼的是解决问题的能力。从提出问题开始，要经历一系列过程，包括文献调研，具体实施，遇到问题，查找…</content>
+    <link href="https://www.zhihu.com/question/625396253/answer/3246041279"/>
+  </entry>
+</feed>
