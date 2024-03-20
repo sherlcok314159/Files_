@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://i.weread.qq.com/book/articles?bookId=3290520214</id>
+  <title>极市平台</title>
+  <updated>2024-03-20T10:49:00.054018+08:00</updated>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <icon>http://wx.qlogo.cn/mmhead/Q3auHgzwzM7yhttE6xvg7Z4f6OyQibAB7ehiawBQP7OcMrpsEy1YwRng/0</icon>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675444&amp;idx=4&amp;sn=747cc07a1fc6fc2063104af95f91435c&amp;chksm=ec12c3cddb654adb262e4fe307263192a6b01c35c7618895b6ace60f95567b440c3bb889fe65&amp;scene=58&amp;subscene=0#rd</id>
+    <title>谷歌工程师硬核长篇预测，证实黄仁勋观点：AGI或在2029年出现，AI五年内通过人类测试</title>
+    <updated>2024-03-20T02:49:00.055455+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675444&amp;idx=4&amp;sn=747cc07a1fc6fc2063104af95f91435c&amp;chksm=ec12c3cddb654adb262e4fe307263192a6b01c35c7618895b6ace60f95567b440c3bb889fe65&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-11T04:26:42+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675444&amp;idx=3&amp;sn=068b6fa143256667bb09563e34cf7d3d&amp;chksm=ec12c3cddb654adbf9f9a4da86f455e93348d85dbf1595ecf33782d7744c3a89837f42c399b4&amp;scene=58&amp;subscene=0#rd</id>
+    <title>15个目标检测开源数据集汇总</title>
+    <updated>2024-03-20T02:49:00.055427+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675444&amp;idx=3&amp;sn=068b6fa143256667bb09563e34cf7d3d&amp;chksm=ec12c3cddb654adbf9f9a4da86f455e93348d85dbf1595ecf33782d7744c3a89837f42c399b4&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-11T04:26:42+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675444&amp;idx=2&amp;sn=5d16b772bdc60cac93089f041b3827c1&amp;chksm=ec12c3cddb654adb3ca3e555b61227d65bd32046da821ff8a0b15012d24b9a043beb15f162ba&amp;scene=58&amp;subscene=0#rd</id>
+    <title>CVPR2024｜你的DragGAN并不需要点跟踪！FreeDrag：无需点跟踪即可稳定拖动语义内容</title>
+    <updated>2024-03-20T02:49:00.055369+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675444&amp;idx=2&amp;sn=5d16b772bdc60cac93089f041b3827c1&amp;chksm=ec12c3cddb654adb3ca3e555b61227d65bd32046da821ff8a0b15012d24b9a043beb15f162ba&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-11T04:26:42+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675444&amp;idx=1&amp;sn=352546c9fcee991b09e9afd7430e28ff&amp;chksm=ec12c3cddb654adb59662af5ab0986a39660455b5e92e65e07e1a900c58dc3c63f45803eb0a3&amp;scene=58&amp;subscene=0#rd</id>
+    <title>CVPR 2024｜字节&amp;南开提出CAMixerSR：2K/8K/轻量级/全景图像超分</title>
+    <updated>2024-03-20T02:49:00.055309+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675444&amp;idx=1&amp;sn=352546c9fcee991b09e9afd7430e28ff&amp;chksm=ec12c3cddb654adb59662af5ab0986a39660455b5e92e65e07e1a900c58dc3c63f45803eb0a3&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-11T04:26:42+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675578&amp;idx=4&amp;sn=2d0fd2ae79b85ad75c8a4d8ef921374b&amp;chksm=ec12c343db654a554f08e2c2ba82a4019200c529509e77392c316e6a8c0c6d043894ca8ad20e&amp;scene=58&amp;subscene=0#rd</id>
+    <title>奥特曼老黄齐预测：AGI五年内降临，代替95%工作！但马斯克断言AGI将被电力卡脖子</title>
+    <updated>2024-03-20T02:49:00.055258+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675578&amp;idx=4&amp;sn=2d0fd2ae79b85ad75c8a4d8ef921374b&amp;chksm=ec12c343db654a554f08e2c2ba82a4019200c529509e77392c316e6a8c0c6d043894ca8ad20e&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-12T02:56:12+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675578&amp;idx=3&amp;sn=a82fc4b6e133d02283472e10dfd82730&amp;chksm=ec12c343db654a5561445f6d606051cdb6834eeb17db581821bf2ee73016d14e0cb51f85a68a&amp;scene=58&amp;subscene=0#rd</id>
+    <title>CUDA编程优化方法 —— Memory coalescing</title>
+    <updated>2024-03-20T02:49:00.055205+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675578&amp;idx=3&amp;sn=a82fc4b6e133d02283472e10dfd82730&amp;chksm=ec12c343db654a5561445f6d606051cdb6834eeb17db581821bf2ee73016d14e0cb51f85a68a&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-12T02:56:12+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675578&amp;idx=2&amp;sn=85788739203780411ba8d2cba565d23f&amp;chksm=ec12c343db654a555992e35949292ab6036d01eb1def70c8ae3f6e4e6ae393a296c1dfd35a7b&amp;scene=58&amp;subscene=0#rd</id>
+    <title>38.7fps！EdgeSAM = RepViT + SAM，移动端超强变种，已开源！</title>
+    <updated>2024-03-20T02:49:00.055147+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675578&amp;idx=2&amp;sn=85788739203780411ba8d2cba565d23f&amp;chksm=ec12c343db654a555992e35949292ab6036d01eb1def70c8ae3f6e4e6ae393a296c1dfd35a7b&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-12T02:56:12+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675578&amp;idx=1&amp;sn=89e7ef9ffc90b618321f6615ef53147f&amp;chksm=ec12c343db654a558e78d8c2b6341b20ab67165fd9015f80df33e6e701cf0a5ae7f5c5514727&amp;scene=58&amp;subscene=0#rd</id>
+    <title>兰州大学提出全新Backbone，即插即用模块！使用1D卷积+GN，改进BN泛化性不足问题</title>
+    <updated>2024-03-20T02:49:00.055108+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675578&amp;idx=1&amp;sn=89e7ef9ffc90b618321f6615ef53147f&amp;chksm=ec12c343db654a558e78d8c2b6341b20ab67165fd9015f80df33e6e701cf0a5ae7f5c5514727&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-12T02:56:12+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675770&amp;idx=4&amp;sn=44d0d708707dfd284dae9725ad1f15ee&amp;chksm=ec12c283db654b955780d4ffe24d57f478fd3ea42d5be18155b32c87f0ff30c236de88f759dd&amp;scene=58&amp;subscene=0#rd</id>
+    <title>OpenAI开源了：Transformer自动debug工具上线GitHub</title>
+    <updated>2024-03-20T02:49:00.055083+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675770&amp;idx=4&amp;sn=44d0d708707dfd284dae9725ad1f15ee&amp;chksm=ec12c283db654b955780d4ffe24d57f478fd3ea42d5be18155b32c87f0ff30c236de88f759dd&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-13T02:51:13+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675770&amp;idx=3&amp;sn=626fc4062158330643f630d7b5c64d29&amp;chksm=ec12c283db654b95f30fc7cee7b49eb64c284bcbf4d22747da0e225e043577315da49bab646c&amp;scene=58&amp;subscene=0#rd</id>
+    <title>实践教程｜动手做一个最小RAG——TinyRAG</title>
+    <updated>2024-03-20T02:49:00.055058+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675770&amp;idx=3&amp;sn=626fc4062158330643f630d7b5c64d29&amp;chksm=ec12c283db654b95f30fc7cee7b49eb64c284bcbf4d22747da0e225e043577315da49bab646c&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-13T02:51:13+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675770&amp;idx=2&amp;sn=1c2360df264505f658a3eab14c2921fc&amp;chksm=ec12c283db654b9501735d4eb37227f589ba887c9da73bbbf07c3d64274141f2b88e2f55c7d4&amp;scene=58&amp;subscene=0#rd</id>
+    <title>极市打榜｜【人车防碰撞识别】目标检测数据集上线，合作者独享收益高达5,500元</title>
+    <updated>2024-03-20T02:49:00.055027+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675770&amp;idx=2&amp;sn=1c2360df264505f658a3eab14c2921fc&amp;chksm=ec12c283db654b9501735d4eb37227f589ba887c9da73bbbf07c3d64274141f2b88e2f55c7d4&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-13T02:51:13+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675770&amp;idx=1&amp;sn=296d8d2b759663674d8459b3a8cce3b1&amp;chksm=ec12c283db654b95030b063ce6b64ceec994a4b4712427d95e9ceeec53b8b0bb977c2b8504f2&amp;scene=58&amp;subscene=0#rd</id>
+    <title>华为提出DenseMamba：大模型的DenseNet时刻！Mamba和RetNet精度显著提升</title>
+    <updated>2024-03-20T02:49:00.054962+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675770&amp;idx=1&amp;sn=296d8d2b759663674d8459b3a8cce3b1&amp;chksm=ec12c283db654b95030b063ce6b64ceec994a4b4712427d95e9ceeec53b8b0bb977c2b8504f2&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-13T02:51:13+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675881&amp;idx=4&amp;sn=17c8a6c6a921ef30b3ff95a932322818&amp;chksm=ec12c210db654b06cc315840d64014935796d8062caa36c1ec2fea933a27f8f1140dcf74c03b&amp;scene=58&amp;subscene=0#rd</id>
+    <title>GPT-4.5 Turbo提前泄露？Altman亲自暗示新模型要来，传言本周四上线</title>
+    <updated>2024-03-20T02:49:00.054933+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675881&amp;idx=4&amp;sn=17c8a6c6a921ef30b3ff95a932322818&amp;chksm=ec12c210db654b06cc315840d64014935796d8062caa36c1ec2fea933a27f8f1140dcf74c03b&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-14T02:15:34+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675881&amp;idx=3&amp;sn=d448f4d617049e616ae3cd7b73e72057&amp;chksm=ec12c210db654b06eba82e4509477c7c915f889385fc859457707e33ed5efa4297a54d6e7b0d&amp;scene=58&amp;subscene=0#rd</id>
+    <title>图解Mixtral 8 * 7b推理优化原理与源码实现</title>
+    <updated>2024-03-20T02:49:00.054901+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675881&amp;idx=3&amp;sn=d448f4d617049e616ae3cd7b73e72057&amp;chksm=ec12c210db654b06eba82e4509477c7c915f889385fc859457707e33ed5efa4297a54d6e7b0d&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-14T02:15:34+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675881&amp;idx=2&amp;sn=8f348dde5994d281a49d17ff9e809f3a&amp;chksm=ec12c210db654b06c84a734fef0c977af668165755431fcb01e6d215566f3fc084965643b9be&amp;scene=58&amp;subscene=0#rd</id>
+    <title>CVPR 2024｜腾讯优图20篇论文入选！多模态大模型、医学影像、人脸和OCR等方向</title>
+    <updated>2024-03-20T02:49:00.054876+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675881&amp;idx=2&amp;sn=8f348dde5994d281a49d17ff9e809f3a&amp;chksm=ec12c210db654b06c84a734fef0c977af668165755431fcb01e6d215566f3fc084965643b9be&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-14T02:15:34+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675881&amp;idx=1&amp;sn=6a045d5174de3785b26b75b31f67894b&amp;chksm=ec12c210db654b06b360e79814514a018f373014e08a9c4944fdb576684f4865274a148d6c87&amp;scene=58&amp;subscene=0#rd</id>
+    <title>颜水成/程明明新作！Sora核心组件DiT训练提速10倍，Masked Diffusion Transformer V2开源</title>
+    <updated>2024-03-20T02:49:00.054851+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675881&amp;idx=1&amp;sn=6a045d5174de3785b26b75b31f67894b&amp;chksm=ec12c210db654b06b360e79814514a018f373014e08a9c4944fdb576684f4865274a148d6c87&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-14T02:15:34+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675953&amp;idx=4&amp;sn=0df48c0edf72bc3dc75cdb03a5d235ba&amp;chksm=ec12ddc8db6554def9147824ee5a0b04444f4e0a8f16d97962ea3ad3737770fd367b853a619e&amp;scene=58&amp;subscene=0#rd</id>
+    <title>谷歌承认“窃取”OpenAI模型关键信息：成本低至150元，调用API即可得手</title>
+    <updated>2024-03-20T02:49:00.054826+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675953&amp;idx=4&amp;sn=0df48c0edf72bc3dc75cdb03a5d235ba&amp;chksm=ec12ddc8db6554def9147824ee5a0b04444f4e0a8f16d97962ea3ad3737770fd367b853a619e&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-15T02:34:59+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675953&amp;idx=3&amp;sn=c1cb986269c53d1c319797cf1bed728f&amp;chksm=ec12ddc8db6554dee9303067ae55c58815ca0295868e06b7ba0cfb74365840f65028fce277a5&amp;scene=58&amp;subscene=0#rd</id>
+    <title>Attention的分块计算: 从flash-attention到ring-attention</title>
+    <updated>2024-03-20T02:49:00.054782+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675953&amp;idx=3&amp;sn=c1cb986269c53d1c319797cf1bed728f&amp;chksm=ec12ddc8db6554dee9303067ae55c58815ca0295868e06b7ba0cfb74365840f65028fce277a5&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-15T02:34:59+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675953&amp;idx=1&amp;sn=f448c636a81b2ae10075b306d1353cd6&amp;chksm=ec12ddc8db6554de2155b487032cb557cb70ef68c2e3bcc6a93f68dd8ca720c36ac1425fe179&amp;scene=58&amp;subscene=0#rd</id>
+    <title>Sora的幕后功臣？详解大火的DiT：拥抱Transformer的扩散模型</title>
+    <updated>2024-03-20T02:49:00.054749+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247675953&amp;idx=1&amp;sn=f448c636a81b2ae10075b306d1353cd6&amp;chksm=ec12ddc8db6554de2155b487032cb557cb70ef68c2e3bcc6a93f68dd8ca720c36ac1425fe179&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-15T02:34:59+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676108&amp;idx=4&amp;sn=8f7bac7e2fe17485ccc194286260f6d2&amp;chksm=ec12dd35db655423d44280d970704af1354f25c2ad14f14323c5a1f28242addd26ba5951b754&amp;scene=58&amp;subscene=0#rd</id>
+    <title>Sora竟是用这些数据训练的？OpenAI CTO坦白惹众怒</title>
+    <updated>2024-03-20T02:49:00.054724+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676108&amp;idx=4&amp;sn=8f7bac7e2fe17485ccc194286260f6d2&amp;chksm=ec12dd35db655423d44280d970704af1354f25c2ad14f14323c5a1f28242addd26ba5951b754&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-16T02:29:08+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676108&amp;idx=3&amp;sn=15fc42b2d6ee640632fc3d2aaa027357&amp;chksm=ec12dd35db655423e89733c739e3611d0313beb675e3278e2c4f925d51a076529cbffe483932&amp;scene=58&amp;subscene=0#rd</id>
+    <title>CVPR 2024｜谷歌提出图像生成新工作！加入多模态指令，效果惊艳！</title>
+    <updated>2024-03-20T02:49:00.054699+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676108&amp;idx=3&amp;sn=15fc42b2d6ee640632fc3d2aaa027357&amp;chksm=ec12dd35db655423e89733c739e3611d0313beb675e3278e2c4f925d51a076529cbffe483932&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-16T02:29:08+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676108&amp;idx=2&amp;sn=2d7a8dac5cbde2022853e5f7b8602913&amp;chksm=ec12dd35db655423313ad98b643958ad1c182234e28772cf5b94955ab0132b301851a4dc3ad5&amp;scene=58&amp;subscene=0#rd</id>
+    <title>CVPR 2024｜远超LoFTR和DKM！特征匹配新范式！MESA：匹配一切！</title>
+    <updated>2024-03-20T02:49:00.054674+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676108&amp;idx=2&amp;sn=2d7a8dac5cbde2022853e5f7b8602913&amp;chksm=ec12dd35db655423313ad98b643958ad1c182234e28772cf5b94955ab0132b301851a4dc3ad5&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-16T02:29:08+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676108&amp;idx=1&amp;sn=03f1d182f236a0ea51089c59da5d6424&amp;chksm=ec12dd35db655423f06c6eda20c5dc0a582c3f6cd5effa876d44fa74b97ddb371b678360c481&amp;scene=58&amp;subscene=0#rd</id>
+    <title>DECO: 卷积结构的反击，纯卷积Query-Based检测器超越DETR</title>
+    <updated>2024-03-20T02:49:00.054647+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676108&amp;idx=1&amp;sn=03f1d182f236a0ea51089c59da5d6424&amp;chksm=ec12dd35db655423f06c6eda20c5dc0a582c3f6cd5effa876d44fa74b97ddb371b678360c481&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-16T02:29:08+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676180&amp;idx=4&amp;sn=e5f846bab6f9a8621cbf3e5dac5aa70f&amp;chksm=ec12dceddb6555fb596e8ba56cb2c1b04551aa0182730bba04e6b501890c20251301c9fd2e14&amp;scene=58&amp;subscene=0#rd</id>
+    <title>OpenAI再陷巨大争议？Sora训练数据被质疑非法，CTO采访疯狂翻车</title>
+    <updated>2024-03-20T02:49:00.054615+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676180&amp;idx=4&amp;sn=e5f846bab6f9a8621cbf3e5dac5aa70f&amp;chksm=ec12dceddb6555fb596e8ba56cb2c1b04551aa0182730bba04e6b501890c20251301c9fd2e14&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-17T00:07:40+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676180&amp;idx=3&amp;sn=8496185d85f37a05852b4a4c48becf26&amp;chksm=ec12dceddb6555fb4ba69b4b8ef2f7839f88853f55dceae60ca149e6478b83f4e1fb0f2e73bb&amp;scene=58&amp;subscene=0#rd</id>
+    <title>大模型落地实用主义思考</title>
+    <updated>2024-03-20T02:49:00.054583+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676180&amp;idx=3&amp;sn=8496185d85f37a05852b4a4c48becf26&amp;chksm=ec12dceddb6555fb4ba69b4b8ef2f7839f88853f55dceae60ca149e6478b83f4e1fb0f2e73bb&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-17T00:07:40+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676180&amp;idx=2&amp;sn=d336ebc03ec2330d36ba89741c9be4c5&amp;chksm=ec12dceddb6555fb7358fefaffc8287d7e2044c0b58aa38a1467430247ef13dbbb11749b9840&amp;scene=58&amp;subscene=0#rd</id>
+    <title>自动驾驶的技术栈有哪些？一览近15个方向路线（感知/定位/融合/规控等）</title>
+    <updated>2024-03-20T02:49:00.054557+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676180&amp;idx=2&amp;sn=d336ebc03ec2330d36ba89741c9be4c5&amp;chksm=ec12dceddb6555fb7358fefaffc8287d7e2044c0b58aa38a1467430247ef13dbbb11749b9840&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-17T00:07:40+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676180&amp;idx=1&amp;sn=d1dce9bc14296569fae4a957afda0a5c&amp;chksm=ec12dceddb6555fbce3a02671ad02e39c6ec37b3c970a47d44a6ab26f667238654db1e3ca30a&amp;scene=58&amp;subscene=0#rd</id>
+    <title>何恺明和刘壮新作：消除数据集偏差的十年之战</title>
+    <updated>2024-03-20T02:49:00.054532+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676180&amp;idx=1&amp;sn=d1dce9bc14296569fae4a957afda0a5c&amp;chksm=ec12dceddb6555fbce3a02671ad02e39c6ec37b3c970a47d44a6ab26f667238654db1e3ca30a&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-17T00:07:40+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676225&amp;idx=4&amp;sn=0293a2338010e95ca7ac3cdd57186412&amp;chksm=ec12dcb8db6555aef34c158e3f61bdb7aac86069009bf5c388053c1bc1e1a6d84f92a398b2a4&amp;scene=58&amp;subscene=0#rd</id>
+    <title>微软AI程序员登场，10倍AI工程师真来了？996自主生成代码，性能超GPT-4 30%</title>
+    <updated>2024-03-20T02:49:00.054504+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676225&amp;idx=4&amp;sn=0293a2338010e95ca7ac3cdd57186412&amp;chksm=ec12dcb8db6555aef34c158e3f61bdb7aac86069009bf5c388053c1bc1e1a6d84f92a398b2a4&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-18T03:47:24+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676225&amp;idx=3&amp;sn=e19dbf7b0fc2acb780c24f9bb6136993&amp;chksm=ec12dcb8db6555ae1eec6879be10e245da1c5511a09dd992d9e59fb28d79691e29476c0bb462&amp;scene=58&amp;subscene=0#rd</id>
+    <title>CVPR2024｜UniMODE：首篇统一户外+室内3D检测框架</title>
+    <updated>2024-03-20T02:49:00.054460+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676225&amp;idx=3&amp;sn=e19dbf7b0fc2acb780c24f9bb6136993&amp;chksm=ec12dcb8db6555ae1eec6879be10e245da1c5511a09dd992d9e59fb28d79691e29476c0bb462&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-18T03:47:24+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676225&amp;idx=2&amp;sn=b4b2a6ceaf3e4e1b59e47eab93e3eb9b&amp;chksm=ec12dcb8db6555ae90a3e5ee0dfdae7a6900ef0c1750a50f8da634ad80d97239519ef489cc1d&amp;scene=58&amp;subscene=0#rd</id>
+    <title>卫星图像公开数据集资源汇总</title>
+    <updated>2024-03-20T02:49:00.054431+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676225&amp;idx=2&amp;sn=b4b2a6ceaf3e4e1b59e47eab93e3eb9b&amp;chksm=ec12dcb8db6555ae90a3e5ee0dfdae7a6900ef0c1750a50f8da634ad80d97239519ef489cc1d&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-18T03:47:24+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676225&amp;idx=1&amp;sn=0465d51b40a14b91b9eadfddfe9bce8d&amp;chksm=ec12dcb8db6555ae28b7947e25294cc82f2a47d88cd29ba405b011eb662e330b47147b7a938f&amp;scene=58&amp;subscene=0#rd</id>
+    <title>比SAM快30倍的SAM-Lightening来了！推理一张图仅需7毫秒（北航）</title>
+    <updated>2024-03-20T02:49:00.054388+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676225&amp;idx=1&amp;sn=0465d51b40a14b91b9eadfddfe9bce8d&amp;chksm=ec12dcb8db6555ae28b7947e25294cc82f2a47d88cd29ba405b011eb662e330b47147b7a938f&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-18T03:47:24+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676287&amp;idx=4&amp;sn=97039182b5be8f58d7783b69bbdbd259&amp;chksm=ec12dc86db655590d5172b15be966b2fa28c608d3784b20f529fb10b1c5a5b3c4d920c54f3ac&amp;scene=58&amp;subscene=0#rd</id>
+    <title>全球首个类Sora开源复现方案来了！全面公开所有训练细节和模型权重</title>
+    <updated>2024-03-20T02:49:00.054360+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676287&amp;idx=4&amp;sn=97039182b5be8f58d7783b69bbdbd259&amp;chksm=ec12dc86db655590d5172b15be966b2fa28c608d3784b20f529fb10b1c5a5b3c4d920c54f3ac&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-19T03:00:14+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676287&amp;idx=3&amp;sn=5bf6399ce90397588bf633cad1ba7bdb&amp;chksm=ec12dc86db655590ca284c16c4d3791de3c9c195a81bd094fbe5bc448b599f9df227a7d7f293&amp;scene=58&amp;subscene=0#rd</id>
+    <title>CVPR2024: MIGC + GLIGEN-GUI效果展示</title>
+    <updated>2024-03-20T02:49:00.054334+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676287&amp;idx=3&amp;sn=5bf6399ce90397588bf633cad1ba7bdb&amp;chksm=ec12dc86db655590ca284c16c4d3791de3c9c195a81bd094fbe5bc448b599f9df227a7d7f293&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-19T03:00:14+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676287&amp;idx=2&amp;sn=b8834334ee26b5691057a3d69fbceede&amp;chksm=ec12dc86db655590af6e6233a14fb2bb25fd46520b82319d4e874a21261207e9b1889adcde95&amp;scene=58&amp;subscene=0#rd</id>
+    <title> A100 算力限时免费领取，书生·浦语大模型实战营第二期正式启动!</title>
+    <updated>2024-03-20T02:49:00.054307+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676287&amp;idx=2&amp;sn=b8834334ee26b5691057a3d69fbceede&amp;chksm=ec12dc86db655590af6e6233a14fb2bb25fd46520b82319d4e874a21261207e9b1889adcde95&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-19T03:00:14+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676287&amp;idx=1&amp;sn=046297dc8b8a8a77c34855b2f0a9ee96&amp;chksm=ec12dc86db655590e9daca1a074c148ef08ab9629b1a0a03717ebcc81594a3a6cd4e75cda87f&amp;scene=58&amp;subscene=0#rd</id>
+    <title>CVPR 2024｜RetNet与ViT完美结合！超越SWin Transformer 5个点的RMT来啦</title>
+    <updated>2024-03-20T02:49:00.054274+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676287&amp;idx=1&amp;sn=046297dc8b8a8a77c34855b2f0a9ee96&amp;chksm=ec12dc86db655590e9daca1a074c148ef08ab9629b1a0a03717ebcc81594a3a6cd4e75cda87f&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-19T03:00:14+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676394&amp;idx=4&amp;sn=d656465518243156b38897b3cabe73ce&amp;chksm=ec12dc13db655505c1782a0291d069a7264555385d79d68f1932d70f59783231ab7650a2d12d&amp;scene=58&amp;subscene=0#rd</id>
+    <title>老黄祭出新核弹B200！30倍H100单机可训15个GPT-4模型，AI迎新摩尔时代</title>
+    <updated>2024-03-20T02:49:00.054224+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676394&amp;idx=4&amp;sn=d656465518243156b38897b3cabe73ce&amp;chksm=ec12dc13db655505c1782a0291d069a7264555385d79d68f1932d70f59783231ab7650a2d12d&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-20T02:30:26+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676394&amp;idx=3&amp;sn=d409dfa955fc5370210ff1fc13fe5d5e&amp;chksm=ec12dc13db655505c20e806476339e90a606aa606bd4b70ea2527fb1223b3e5828f1da970f92&amp;scene=58&amp;subscene=0#rd</id>
+    <title>可控图像生成最新综述！北邮开源20页249篇文献，包揽Text-to-Image Diffusion领域各种「条件」</title>
+    <updated>2024-03-20T02:49:00.054187+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676394&amp;idx=3&amp;sn=d409dfa955fc5370210ff1fc13fe5d5e&amp;chksm=ec12dc13db655505c20e806476339e90a606aa606bd4b70ea2527fb1223b3e5828f1da970f92&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-20T02:30:26+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676394&amp;idx=2&amp;sn=7a015560b3df8765ab2400fdf3f85bd3&amp;chksm=ec12dc13db6555054d5045a02004f84a31c20ecfabf4a280ec7eeb75cd18cddaec37c6e0ad4f&amp;scene=58&amp;subscene=0#rd</id>
+    <title>CVPR 2024｜进一步加速落地：压缩自动驾驶端到端运动规划模型</title>
+    <updated>2024-03-20T02:49:00.054151+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676394&amp;idx=2&amp;sn=7a015560b3df8765ab2400fdf3f85bd3&amp;chksm=ec12dc13db6555054d5045a02004f84a31c20ecfabf4a280ec7eeb75cd18cddaec37c6e0ad4f&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-20T02:30:26+08:00</published>
+  </entry>
+  <entry>
+    <id>https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676394&amp;idx=1&amp;sn=c9d0ded86988aeb212254b4a68e0e867&amp;chksm=ec12dc13db655505a6d1c9304d0ed38ad5a7d33ff87296e91c38c1144ce7eb694396682a6594&amp;scene=58&amp;subscene=0#rd</id>
+    <title>ICLR 2024 spotlight | 基础模型时代的全新研究方向：灾难性继承与噪音模型学习</title>
+    <updated>2024-03-20T02:49:00.054070+00:00</updated>
+    <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&amp;mid=2247676394&amp;idx=1&amp;sn=c9d0ded86988aeb212254b4a68e0e867&amp;chksm=ec12dc13db655505a6d1c9304d0ed38ad5a7d33ff87296e91c38c1144ce7eb694396682a6594&amp;scene=58&amp;subscene=0#rd"/>
+    <published>2024-03-20T02:30:26+08:00</published>
+  </entry>
+</feed>
