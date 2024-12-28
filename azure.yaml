@@ -1,0 +1,13 @@
+proxies:
+  - name: 自建 🇯🇵
+    port: 56789
+    server: pass.yunpengtai.top
+    type: trojan
+    network: ws
+    udp: true
+    password: 967fb403-5889-4cc3-80ae-4bf059fea384dww2dsmf2w
+    skip-cert-verify: false
+    ws-opts:
+      path: /967fb403-5889-4cc3-80ae-4bf059fea384
+      headers:
+        host: pass.yunpengtai.top
